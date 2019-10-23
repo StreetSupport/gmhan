@@ -39,32 +39,60 @@
   </ul>
 </nav>
 
-<script>
-    const navSlide = () => {
-      const burger = document.querySelector('.burger');
-      const nav = document.querySelector('.nav-links');
-      const navLinks = document.querySelectorAll('.nav-links li');
+<section class="home-hero">
+  <div>
+    <div>
+        <h1>Ending homelessness <span>in Greater Manchester</span></h1>
+    </div>
+  </div>
+</section>
 
-      burger.addEventListener('click', ()=>{
-        
-        nav.classList.toggle('nav-active');
+<section>
+  <div class="block block--grey">
+    <p>Greater Manchester Homelessness Action Network (GMHAN) brings together people with personal insights into homelessness, people from the frontline organisations, public sector and others to find more effective solutions.</p>
+  </div>
+</section>
 
-        
-        navLinks.forEach((link, index) => {
-          if (link.style.animation) {
-            link.style.animation = '';
-          } else {
-          link.style.animation = `navLinkFade 0.5s ease forwards ${index / 7 + 0.4}s`;
-          }
-          });
-          
-          burger.classList.toggle('toggle');
-      });
-}
-navSlide();
-</script>
+<section>
+  <div class="block block--orange cards card-container">
+  <a href="#" class="card">
+      <img src="" alt="">
+      <div class="card__text">
+          <h3 class="card__title">Call out 1</h3>
+          <p class="card__body">And here is some text</p>
+      </div>
+    </a>
+    <a href="#" class="card">
+      <img src="" alt="">
+      <div class="card__text">
+          <h3 class="card__title">Call out 2</h3>
+          <p class="card__body">And here is some text</p>
+      </div>
+    </a>
+    <a href="#" class="card">
+      <img src="" alt="">
+      <div class="card__text">
+          <h3 class="card__title">Call out 3</h3>
+          <p class="card__body">And here is some text</p>
+      </div>
+    </a>
+</section>
 
+<section>
+  <div class="block block--white">
+    <h2>Secondary call outs</h2>
+    <button>Call to action</button>
+    <button>Call to action</button>
+    <button>Call to action</button>
+  </div>
+</section>
 
+<footer class="footer">
+  <div class="container">
+    <p>&copy; 2019 GMHAN</p>
+    <p>Email: <a href="#">email@emailaddress.com</a></p>
+  </div>
+</footer>
 
 
 </body>
