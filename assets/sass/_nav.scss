@@ -1,0 +1,32 @@
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    font-family: be vietnam;
+    background: #242424;
+    border-bottom: 3px solid #fcba03;
+}
+
+.logo {
+    width: 100px;
+}
+
+.nav-links {
+    display: flex;
+    width: 44%;
+    justify-content: space-around;
+}
+
+.nav-links li {
+    list-style: none;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: 1.5px;
+    font-size: 12px;
+    font-family: be vietnam;
+}

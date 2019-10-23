@@ -1,0 +1,16 @@
+$mq-breakpoints: (
+    mobile:  320px,
+    tablet:  740px,
+    desktop: 980px,
+    wide:    1300px
+);
+
+$page-width: 840px;
+$padding: 10px;
+
+// Colours
+$gmhan-orange: #fcba03;
+$gmhan-grey: #242424;
+
+// fonts
+@import url('https://fonts.googleapis.com/css?family=Be+Vietnam|Exo&displayL=swap');

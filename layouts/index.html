@@ -1,0 +1,55 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+<section class="home-hero">
+  <div>
+    <div>
+        <h1>Ending homelessness <span>in Greater Manchester</span></h1>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="block block--grey">
+    <p>Greater Manchester Homelessness Action Network (GMHAN) brings together people with personal insights into homelessness, people from the frontline organisations, public sector and others to find more effective solutions.</p>
+  </div>
+</section>
+
+<section>
+  <div class="block block--orange cards card-container">
+  <a href="#" class="card">
+      <img src="" alt="">
+      <div class="card__text">
+          <h3 class="card__title">Call out 1</h3>
+          <p class="card__body">And here is some text</p>
+      </div>
+    </a>
+    <a href="#" class="card">
+      <img src="" alt="">
+      <div class="card__text">
+          <h3 class="card__title">Call out 2</h3>
+          <p class="card__body">And here is some text</p>
+      </div>
+    </a>
+    <a href="#" class="card">
+      <img src="" alt="">
+      <div class="card__text">
+          <h3 class="card__title">Call out 3</h3>
+          <p class="card__body">And here is some text</p>
+      </div>
+    </a>
+</section>
+
+<section>
+  <div class="block block--white">
+    <h2>Secondary call outs</h2>
+    <button>Call to action</button>
+    <button>Call to action</button>
+    <button>Call to action</button>
+  </div>
+</section>
+
+{{ partial "footer.html" .Params.footer }}
+{{ end }}
+
+
