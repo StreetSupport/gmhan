@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+
+media_folder: "hugo/static/assets/uploads"
+public_folder: "assets/uploads"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    editor:
+      preview: false
+    files:
+      - file: "content/_index.md"
+        label: "Home" 
+        name: "home"
+        fields:
+          - {label: "Tagline", name: "tagline", widget: "string"}
+          - {label: "Call out cards", name: "card", widget: "object", fields: [
+              {label: "Title One", name: "titleone", widget: "string"},
+              {label: "Text One", name: "textone", widget: "markdown"},
+              {label: "Title Two", name: "titletwo", widget: "string"},
+              {label: "Text Two", name: "texttwo", widget: "markdown"},
+              {label: "Title Three", name: "titlethree", widget: "string"},
+              {label: "Text Three", name: "textthree", widget: "markdown"}
+          ]}
