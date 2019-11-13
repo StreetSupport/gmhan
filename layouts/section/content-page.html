@@ -8,7 +8,8 @@
       <div class="content">
         <h1 class="h1">{{ .Params.heading }}</h1>
         {{ $contentMarkdown := .Params.content | markdownify }}
-        {{ if not ( strings.Contains $contentMarkdown "<p>" ) }}<p>{{ $contentMarkdown }}</p>{{ else }}{{ $contentMarkdown }}{{ end }}
+        {{ if not ( strings.Contains $contentMarkdown "</p>" ) }}<p>{{ $contentMarkdown }}</p>{{ else }}{{ $contentMarkdown }}{{ end }}
+        </p>
       </div>
       {{ if .Params.highlight }}
       <div class="block block--highlight">
