@@ -31,5 +31,5 @@ collections:
           - {label: "Content", name: "content", widget: "markdown"}
           - {label: "Highlight box", name: "highlight", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Highlight", name: "highlight", widget: "markdown"}
+              {label: "Body", name: "body", widget: "markdown"}
           ]}
