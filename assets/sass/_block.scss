@@ -7,31 +7,43 @@
 
   &.block--grey {
     background: $gmhan-grey;
-    color: $gmhan-orange;
-    padding: 70px 250px;
+    color: #f1f1f1;;
+    padding: 70px 30%;
     text-align: center;
   }
 
   &.block--white {
     text-align: center;
-    padding: 30px;
+    padding: 40px;
     
     button {
       box-shadow:inset 0px 1px 0px 0px #ffffff;;
       background-color:#ffffff;
       border-radius:1px;
-      border:2px solid #000000;
+      border:1px solid #000000;
       display:inline-block;
       cursor:pointer;
       color:#000000;
       padding:6px 18px;
-      font-weight: bold;
       text-shadow:0px 1px 0px #ffffff;
       margin-right: 10px;
     }
     
     button:hover {
       background: $gmhan-orange;
+    }
+  }
+
+  &.block--highlight {
+    .content {
+      padding: 5px 0;
+    }
+
+    margin: 30px 0;
+    border: 2px solid $gmhan-orange;
+    padding: 15px;
+    h3 {
+      color: $gmhan-orange;
     }
   }
 }

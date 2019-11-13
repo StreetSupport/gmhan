@@ -3,10 +3,10 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 10vh;
+    min-height: 12vh;
     font-family: be vietnam;
-    background: #242424;
-    border-bottom: 3px solid #fcba03;
+    background: #f1f1f1;
+    border-bottom: 3px solid #e2a601;
 }
 
 .logo {
@@ -24,7 +24,7 @@ nav {
 }
 
 .nav-links a {
-    color: #fff;
+    color: black;
     text-decoration: none;
     letter-spacing: 1.5px;
     font-size: 12px;

@@ -5,6 +5,7 @@
 @import 'card';
 @import 'home-hero';
 @import 'footer';
+@import 'container';
 
 *{
   margin: 0px;
@@ -12,3 +13,6 @@
   box-sizing: border-box;
 }
 
+body {
+  position: relative;
+}
