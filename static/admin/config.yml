@@ -28,5 +28,8 @@ collections:
         name: "content-page-one"
         fields:
           - {label: "Heading", name: "heading", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Highlight", name: "highlight", widget: "markdown"}
+          - {label: "Content", name: "content", widget: "markdown"}
+          - {label: "Highlight box", name: "highlight", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Highlight", name: "highlight", widget: "markdown"}
+          ]}
