@@ -1,8 +1,10 @@
 .footer {
-  background: black;
+  background: $gmhan-grey;
   color: white;
+  margin-top: 100px;
   padding: $padding;
   text-align: center;
+  width: 100%;
 
   a{
     color: $gmhan-orange;
