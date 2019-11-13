@@ -1,8 +1,6 @@
 ---
 heading: Lorum ipsum dolar sit amet
 content: >-
-
-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Dictumst vestibulum rhoncus est
   pellentesque elit ullamcorper dignissim. A arcu cursus vitae congue mauris
@@ -12,6 +10,8 @@ content: >-
   Sit amet purus gravida quis blandit turpis. Ac turpis egestas integer eget
   aliquet nibh. Mollis nunc sed id semper risus in. Volutpat blandit aliquam
   etiam erat velit.
+
+
 
 
   Dolor sit amet consectetur adipiscing. Diam quis enim lobortis scelerisque.
@@ -25,6 +25,8 @@ content: >-
   magnis. Nisi porta lorem mollis aliquam. Sit amet consectetur adipiscing elit.
   Dui accumsan sit amet nulla facilisi morbi. Pretium nibh ipsum consequat nisl
   vel pretium lectus.
+
+
 
 
   Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque sit. Risus
