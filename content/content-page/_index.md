@@ -13,8 +13,6 @@ content: >-
   et malesuada fames ac turpis egestas. 
 
 
-
-
   Pellentesque in ullamcorper sem, vitae convallis velit.\n\nDonec pretium nec
   nisl in congue. Pellentesque ullamcorper dictum convallis. Maecenas interdum
   dui eros, in imperdiet lacus ultricies id. Aliquam in orci metus. Maecenas
