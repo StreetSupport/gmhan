@@ -11,14 +11,14 @@
       </div>
       {{ if .Params.highlight }}
       <div class="block block--highlight">
-            <h3>{{ .Params.highlight.heading }}</h3>
-            <div class="content">
-                {{ partial "bodyMarkdown.html" .Params.highlight.body }}
-            </div>
+        <h3>{{ .Params.highlight.heading }}</h3>
+        <div class="content">
+          {{ partial "bodyMarkdown.html" .Params.content.body }}
+        </div>
       </div>
     </div>
   </div>
-  {{ end }}
+{{ end }}
 
 </div>
 
