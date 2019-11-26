@@ -33,7 +33,7 @@ collections:
         name: "content-page-one"
         fields:
           - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "markdown"},
+              {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
           - {label: "Highlight box", name: "highlight", widget: "object", fields: [
