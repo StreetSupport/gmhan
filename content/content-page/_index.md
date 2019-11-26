@@ -1,20 +1,18 @@
 ---
 content:
   body: >-
-    To learn more about the Manchester Homelessness Partnership and how to get
-    involved, please email: [info@mhp.org.uk](<mailto: info@mhp.org.uk>)
+    Lorem ipsum dolor sit amet, sea at unum nusquam, at nam salutandi
+    mnesarchum. Mea summo graecis conclusionemque eu, ad mea error adolescens,
+    ei adipisci recteque consulatu vim. Habeo similique gloriatur vis in. Id vim
+    diam appareat. Mea utroque legendos sensibus ut, ea rebum paulo constituto
+    vim, ex probo persequeris qui. Eam an vivendo rationibus conclusionemque.
 
 
-    If you are a business, please contact: [dee@streetsupport.net](<mailto:
-    dee@streetsupport.net>)
-
-
-    For more information about the different charities and services that make up
-    the Manchester Homelessness Partnership, please visit:
-    [www.streetsupport.net/manchester/](www.streetsupport.net/manchester/)
-
-
-    Thank you
+    At dignissim disputationi ius, ut omnium habemus tacimates vix. Ea nec
+    graeci vituperata, mei in decore repudiare. Delenit adipisci te usu, utroque
+    maiorum lobortis sit id. An sea eleifend volutpat honestatis. Cu sanctus
+    explicari interpretaris has, dicunt scripta mei cu, eum ea animal audire
+    consetetur.
   heading: Lorum ipsum dolar sit amet
 highlight:
   body: >-
