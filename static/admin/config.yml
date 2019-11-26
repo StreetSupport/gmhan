@@ -26,7 +26,7 @@ collections:
           - {label: "Secondary call outs", name: "secondary", widget: "object", fields: [
               {label: "First", name: "callone", widget: "string"},
               {label: "Second", name: "calltwo", widget: "string"},
-              {label: "Third", name: "callthree", widget: "string"},
+              {label: "Third", name: "callthree", widget: "string"}
           ]}
       - file: "content/content-page/_index.md"
         label: "Content page one"
