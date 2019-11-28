@@ -7,6 +7,8 @@ content:
     within our partner organisations and projects which need your support.
 
 
+
+
     If you'd like to donate to help end homelessness in Greater Manchester, we'd
     recommend giving in one of these three ways:
   heading: How you can give to help end homelessness
