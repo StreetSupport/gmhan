@@ -17,6 +17,8 @@ highlight:
     from the streets or avoid ending up there in the first place.
 
 
+
+
     * [Real Change Wigan & Leigh](www.realchangewiganandleigh.co.uk)
 
     * [Real Change Rochdale](www.realchangerochdale.co.uk)
@@ -29,6 +31,8 @@ highlight:
     * Big Change Manchester
 
     * Destitute Migrant Relief Fund
+
+
 
 
     If you don't see a scheme for oyur borough, why not get on started? A
