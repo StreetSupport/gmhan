@@ -23,6 +23,11 @@ collections:
               {label: "Title Three", name: "titlethree", widget: "string"},
               {label: "Text Three", name: "textthree", widget: "markdown"}
           ]}
+          - {label: "Secondary call outs", name: "secondary", widget: "object", fields: [
+              {label: "First", name: "callone", widget: "string"},
+              {label: "Second", name: "calltwo", widget: "string"},
+              {label: "Third", name: "callthree", widget: "string"}
+          ]}
       - file: "content/content-page/_index.md"
         label: "Content page one"
         name: "content-page-one"
