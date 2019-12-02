@@ -3,21 +3,38 @@
 
 <div id="main">
 
-  <div class="">
-    <div class="container">
+<div class="">
+  <div class="container">
+    <div class="content">
+      <h1 class="h1">{{ .Params.content.heading }}</h1>
+      {{ partial "bodyMarkdown.html" .Params.content.body }}
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  {{ if .Params.highlight }}
+  <div class="block block--highlight">
+    <h3>{{ .Params.highlight.heading }}</h3>
+    <div class="content">
+      {{ partial "bodyMarkdown.html" .Params.highlight.body }}
+    </div>
+  </div>
+  <div class="highlight-container">
+    <div class="block block--highlight">
+      <h3>{{ .Params.highlight.heading }}</h3>
       <div class="content">
-        <h1 class="h1">{{ .Params.content.heading }}</h1>
-        {{ partial "bodyMarkdown.html" .Params.content.body }}
+        {{ partial "bodyMarkdown.html" .Params.highlight.body }}
       </div>
-      {{ if .Params.highlight }}
-      <div class="block block--highlight">
-        <h3>{{ .Params.highlight.heading }}</h3>
-        <div class="content">
-          {{ partial "bodyMarkdown.html" .Params.highlight.body }}
-        </div>
+    </div>
+    <div class="block block--highlight">
+      <h3>{{ .Params.highlight.heading }}</h3>
+      <div class="content">
+        {{ partial "bodyMarkdown.html" .Params.highlight.body }}
       </div>
     </div>
   </div>
+</div>
 {{ end }}
 
 </div>
