@@ -21,15 +21,11 @@ highlightTop:
 
     * [Real Change Wigan & Leigh](www.realchangewiganandleigh.co.uk)
 
-
     * [Real Change Rochdale](www.realchangerochdale.co.uk)
 
-
-    * [Real Change Oldham](www.realchangeoldham.co.uk)
-
+    * [Real Change Oldham](https://realchangeoldham.co.uk)
 
     * Big Change Manchester
-
 
     * Destitute Migrant Relief Fund
 
@@ -39,7 +35,6 @@ highlightTop:
     Riverside housing association and available free of charge. Contact
     <mailto:robbie.cowbury@riverside.org.uk> for more info.
   heading: Give directly to people affected by homelessness
-
 highlightLeft:
   body: >-
     Support people directly through local 'personalised grant' schemes. These
@@ -67,7 +62,6 @@ highlightLeft:
     Riverside housing association and available free of charge. Contact
     <mailto:robbie.cowbury@riverside.org.uk> for more info.
   heading: Give directly to people affected by homelessness
-
 highlightRight:
   body: >-
     Support people directly through local 'personalised grant' schemes. These
