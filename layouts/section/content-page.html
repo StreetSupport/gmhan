@@ -13,24 +13,24 @@
 </div>
 
 <div class="container">
-  {{ if .Params.highlight }}
+  {{ if .Params.highlightTop }}
   <div class="block block--highlight">
-    <h3>{{ .Params.highlight.heading }}</h3>
+    <h3>{{ .Params.highlightTop.heading }}</h3>
     <div class="content">
-      {{ partial "bodyMarkdown.html" .Params.highlight.body }}
+      {{ partial "bodyMarkdown.html" .Params.highlightTop.body }}
     </div>
   </div>
   <div class="highlight-container">
     <div class="block block--highlight">
-      <h3>{{ .Params.highlight.heading }}</h3>
+      <h3>{{ .Params.highlightLeft.heading }}</h3>
       <div class="content">
-        {{ partial "bodyMarkdown.html" .Params.highlight.body }}
+        {{ partial "bodyMarkdown.html" .Params.highlightLeft.body }}
       </div>
     </div>
     <div class="block block--highlight">
-      <h3>{{ .Params.highlight.heading }}</h3>
+      <h3>{{ .Params.highlightRight.heading }}</h3>
       <div class="content">
-        {{ partial "bodyMarkdown.html" .Params.highlight.body }}
+        {{ partial "bodyMarkdown.html" .Params.highlightRight.body }}
       </div>
     </div>
   </div>
