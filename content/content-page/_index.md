@@ -13,7 +13,7 @@ highlightTop:
     the streets or avoid ending up there in the first place.
 
 
-    <br><br>
+    <br>
 
 
     * [Real Change Wigan & Leigh](https://realchangewigan.co.uk)
@@ -28,7 +28,7 @@ highlightTop:
     Fund](https://streetsupport.net/manchester/migrant-destitution-fund/)
 
 
-    <br><br>
+    <br>
 
 
     If you don’t see a scheme for your borough, why not get one started? A
@@ -43,7 +43,7 @@ highlightLeft:
     achieve.
 
 
-    <br><br>
+    <br>
 
 
     To see what organisations are active in your area, go to the [Street Support
@@ -59,7 +59,7 @@ highlightRight:
     sleeps out in the cold).
 
 
-    <br><br>
+    <br>
 
 
     Find out more about A Bed Every Night and join others such as Vincent
