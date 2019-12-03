@@ -16,17 +16,17 @@ collections:
         fields:
           - {label: "Tagline", name: "tagline", widget: "markdown"}
           - {label: "CTA cards", name: "card", widget: "object", fields: [
-              {label: "Card one", name: "cardOne", widget: "onject", fields: [
+              {label: "Card one", name: "cardOne", widget: "object", fields: [
                 {label: "Card title", name: "cardTitle", widget: string},
                 {label: "Card text", name: "cardText", widget: string},
                 {label: "Card link", name: "cardLink", widget: string}
               ]},
-              {label: "Card two", name: "cardTwo", widget: "onject", fields: [
+              {label: "Card two", name: "cardTwo", widget: "object", fields: [
                 {label: "Card title", name: "cardTitle", widget: string},
                 {label: "Card text", name: "cardText", widget: string},
                 {label: "Card link", name: "cardLink", widget: string}
               ]},
-              {label: "Card three", name: "cardThree", widget: "onject", fields: [
+              {label: "Card three", name: "cardThree", widget: "object", fields: [
                 {label: "Card title", name: "cardTitle", widget: string},
                 {label: "Card text", name: "cardText", widget: string},
                 {label: "Card link", name: "cardLink", widget: string}
@@ -35,15 +35,15 @@ collections:
           - {label: "Secondary call outs", name: "secondary", widget: "object", fields: [
               {label: "Button one", name: "buttonOne", widget: "object", fields: [
                 {label: "Button text", name: "buttonText", widget: "string"},
-                {label: "Button link", name: "buttonLink", widget: "string"}
+                {label: "Button link", name: "Link", widget: "string"}
               ]},
               {label: "Button two", name: "buttonTwo", widget: "object", fields: [
                 {label: "Button text", name: "buttonText", widget: "string"},
-                {label: "Button link", name: "buttonLink", widget: "string"}
+                {label: "Button link", name: "Link", widget: "string"}
               ]},
               {label: "Button three", name: "buttonThree", widget: "object", fields: [
                 {label: "Button text", name: "buttonText", widget: "string"},
-                {label: "Button link", name: "buttonLink", widget: "string"}
+                {label: "Button link", name: "Link", widget: "string"}
               ]}
             ]}
       - file: "content/content-page/_index.md"
