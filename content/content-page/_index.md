@@ -65,14 +65,6 @@ highlightRight:
     Find out more about A Bed Every Night and join others such as Vincent
     Kompany and the Mayor of Greater Manchester by donating
     [here](https://bedeverynight.co.uk/).
-
-
-    Get behind a city-wide campaign which is honing in on a specific homeless
-    challenge in our city.
-
-    Right now, the big effort GM partners are putting in is the provision of
-    emergency night shelters as a first step off the streets (and so no one
-    sleeps out in the cold).
   heading: Give to projects
 ---
 
