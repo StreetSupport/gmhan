@@ -35,16 +35,29 @@
   }
 
   &.block--highlight {
-    margin: 40px 20px 0px 0px;
+    margin: 25px 25px 0px 0px;
     border: 2px solid $gmhan-orange;
     padding: 0px 25px;
 
     .content {
-      padding: 10px 0;
+      padding: 15px 10px;
     }
 
     h3 {
       color: $gmhan-orange;
+    }
+
+    &.block--highlight-grey {
+      background: $gmhan-grey;
+      color: #fff;;
+    }
+
+    &.block--highlight-orange {
+      background: $gmhan-orange;
+      color: white;
+      h3, a {
+        color: $gmhan-grey;
+      }
     }
   }
 }
