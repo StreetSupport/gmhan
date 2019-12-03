@@ -7,8 +7,10 @@
 @import 'footer';
 @import 'container';
 
-*{
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'be vietnam';
 }
+
+*, *::before, *::after { box-sizing: border-box }
