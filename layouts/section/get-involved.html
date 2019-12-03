@@ -3,15 +3,6 @@
 
 <div id="main">
 
-  <div class="section">
-    <div class="container">
-      <div class="content">
-        {{ $contentMarkdown := .Params.content | markdownify }}
-        {{ if not ( strings.Contains $contentMarkdown "<div>" ) }}<p>{{ $contentMarkdown }}</p>{{ else }}{{ $contentMarkdown }}{{ end }}
-      </div>
-    </div>
-  </div>
-
   <section class="home-intro pre-footer-withcityscape">
     <div class="container">
       <div class="boxed edges bg-rc-candy">
