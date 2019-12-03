@@ -48,19 +48,19 @@ nav {
   .nav-links {
     body {
       overflow-x: hidden;
-      z-index: 50;
     }
     position: absolute;
     right: 0px;
     height: 88vh;
     top: 12vh;
-    background: #f1f1f1;
+    background: #fff;
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 100%;
     transform: translateX(100%);
     transition: transform 0.5s ease-in;
+    z-index: 2;
   }
   .nav-links li {
     opacity: 0;

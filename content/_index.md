@@ -3,16 +3,29 @@ tagline: >-
   Greater Manchester Homelessness Action Network (GMHAN) brings together people
   with personal insights into homelessness, people from the frontline
   organisations, public sector and others to find more effective solutions.
-card:
-  textone: And here is some text
-  textthree: And here is some text
-  texttwo: And here is some text
-  titleone: Call out 1
-  titlethree: Call out 3
-  titletwo: Call out 2
+
+cardOne:
+  cardTitle: Call out 1
+  cardText: and here is some text
+  cardLink: /content-page
+cardTwo:
+  cardTitle: Call out 2
+  cardText: and here is some text
+  cardLink: https://streetsupport.net
+cardThree:
+  cardTitle: Call out 3
+  cardText: and here is some text
+  cardLink: https://realchangeoldham.co.uk
+
 secondary:
-  callone: Secondary one
-  callthree: Secondary three
-  calltwo: Secondary two
+  buttonOne:
+    buttonText: Secondary one
+    Link: https://google.com
+  buttonTwo:
+    buttonText: Secondary two
+    Link: https://google.com
+  buttonThree:
+    buttonText: Secondary three
+    Link: https://google.com
 ---
 
