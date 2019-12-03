@@ -4,18 +4,19 @@ tagline: >-
   with personal insights into homelessness, people from the frontline
   organisations, public sector and others to find more effective solutions.
 
-cardOne:
-  cardTitle: Call out 1
-  cardText: and here is some text
-  cardLink: /content-page
-cardTwo:
-  cardTitle: Call out 2
-  cardText: and here is some text
-  cardLink: https://streetsupport.net
-cardThree:
-  cardTitle: Call out 3
-  cardText: and here is some text
-  cardLink: https://realchangeoldham.co.uk
+ctaCards:
+  cardOne:
+    cardTitle: Call out 1
+    cardText: and here is some text
+    cardLink: /content-page
+  cardTwo:
+    cardTitle: Call out 2
+    cardText: and here is some text
+    cardLink: https://streetsupport.net
+  cardThree:
+    cardTitle: Call out 3
+    cardText: and here is some text
+    cardLink: https://realchangeoldham.co.uk
 
 secondary:
   buttonOne:
