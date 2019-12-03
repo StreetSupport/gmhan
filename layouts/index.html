@@ -1,54 +1,55 @@
 {{ define "main" }}
 {{ partial "header.html" .Params.header }}
 
-<section class="home-hero">
-  <div>
-    <div>
-        <h1 class="home-hero-title">Ending homelessness <span>in Greater Manchester</span></h1>
+<div id="main">
+
+  <section class="home-hero">
+    <h1 class="home-hero-title">Ending homelessness<span> in Greater Manchester</span></h1>
+  </section>
+
+  <section>
+    <div class="block block--grey">
+        <p>{{ .Params.tagline }}</p>
+        {{ $taglineMarkdown := .Params.tagline | markdownify }}
     </div>
-  </div>
-</section>
+  </section>
 
-<section>
-  <div class="block block--grey">
-    <p>{{ .Params.tagline | markdownify }}</p>
-  </div>
-</section>
+  <section>
+    <div class="block block--orange cards card-container">
+    <a href="{{ .Params.cardOne.cardLink }}" class="card">
+        <img src="" alt="">
+        <div class="card__text">
+            <h3 class="card__title">{{ .Params.cardOne.cardTitle }}</h3>
+            <p class="card__body">{{ .Params.cardOne.cardText }}</p>
+        </div>
+      </a>
+      <a href="{{ .Params.cardTwo.cardLink }}" class="card">
+        <img src="" alt="">
+        <div class="card__text">
+            <h3 class="card__title">{{ .Params.cardTwo.cardTitle }}</h3>
+            <p class="card__body">{{ .Params.cardTwo.cardText }}</p>
+        </div>
+      </a>
+      <a href="{{ .Params.cardThree.cardLink }}" class="card">
+        <img src="" alt="">
+        <div class="card__text">
+            <h3 class="card__title">{{ .Params.cardThree.cardTitle }}</h3>
+            <p class="card__body">{{ .Params.cardThree.cardText }}</p>
+        </div>
+      </a>
+  </section>
 
-<section>
-  <div class="block block--orange cards card-container">
-  <a href="#" class="card">
-      <img src="" alt="">
-      <div class="card__text">
-          <h3 class="card__title">{{ .Params.card.titleone }}</h3>
-          <p class="card__body">{{ .Params.card.textone }}</p>
-      </div>
-    </a>
-    <a href="#" class="card">
-      <img src="" alt="">
-      <div class="card__text">
-          <h3 class="card__title">{{ .Params.card.titletwo }}</h3>
-          <p class="card__body">{{ .Params.card.texttwo }}</p>
-      </div>
-    </a>
-    <a href="#" class="card">
-      <img src="" alt="">
-      <div class="card__text">
-          <h3 class="card__title">{{ .Params.card.titlethree }}</h3>
-          <p class="card__body">{{ .Params.card.textthree }}</p>
-      </div>
-    </a>
-</section>
+  <section>
+    <div class="block block--white">
+      <h2>Secondary call outs</h2>
+      <a href="{{ .Params.secondary.buttonOne.link }}"><button>{{ .Params.secondary.buttonOne.buttonText }}</button></a>
+      <a href="{{ .Params.secondary.buttonTwo.link }}"><button>{{ .Params.secondary.buttonTwo.buttonText }}</button></a>
+      <a href="{{ .Params.secondary.buttonThree.link }}"><button>{{ .Params.secondary.buttonThree.buttonText }}</button></a>
+    </div>
+  </section>
 
-<section>
-  <div class="block block--white">
-    <h2>Secondary call outs</h2>
-    <button>{{ .Params.secondary.callone }}</button>
-    <button>{{ .Params.secondary.calltwo }}</button>
-    <button>{{ .Params.secondary.callthree }}</button>
-  </div>
-</section>
-
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
@@ -60,8 +61,4 @@
     });
   }
 </script>
-
-{{ partial "footer.html" }}
 {{ end }}
-
-
