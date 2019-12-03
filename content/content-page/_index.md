@@ -13,6 +13,9 @@ highlightTop:
     the streets or avoid ending up there in the first place.
 
 
+    <br><br>
+
+
     * [Real Change Wigan & Leigh](https://realchangewigan.co.uk)
 
     * [Real Change Rochdale](https://realchangerochdale.co.uk)
@@ -23,6 +26,9 @@ highlightTop:
 
     * [Destitute Migrant Relief
     Fund](https://streetsupport.net/manchester/migrant-destitution-fund/)
+
+
+    <br><br>
 
 
     If you don’t see a scheme for your borough, why not get one started? A
@@ -37,6 +43,7 @@ highlightLeft:
     achieve.
 
 
+    <br><br>
 
 
     To see what organisations are active in your area, go to the [Street Support
@@ -50,6 +57,10 @@ highlightRight:
     Right now, the big effort GM partners are putting in is the provision of
     emergency night shelters as a first step off the streets (and so no one
     sleeps out in the cold).
+
+
+    <br><br>
+
 
     Find out more about A Bed Every Night and join others such as Vincent
     Kompany and the Mayor of Greater Manchester by donating
