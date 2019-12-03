@@ -36,11 +36,11 @@ collections:
               {label: "Button one", name: "buttonOne", widget: "object", fields: [
                 {label: "Button text", name: "buttonText", widget: "string"},
                 {label: "Button link", name: "buttonLink", widget: "string"}
-              ]}
+              ]},
               {label: "Button two", name: "buttonTwo", widget: "object", fields: [
                 {label: "Button text", name: "buttonText", widget: "string"},
                 {label: "Button link", name: "buttonLink", widget: "string"}
-              ]}
+              ]},
               {label: "Button three", name: "buttonThree", widget: "object", fields: [
                 {label: "Button text", name: "buttonText", widget: "string"},
                 {label: "Button link", name: "buttonLink", widget: "string"}
