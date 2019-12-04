@@ -3,7 +3,7 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 12vh;
+    height: 110px;
     font-family: be vietnam;
     background: #f1f1f1;
     border-bottom: 3px solid #e2a601;
@@ -11,6 +11,7 @@ nav {
 
 .logo {
     width: 100px;
+    padding: 5px;
 }
 
 .nav-links {
@@ -52,8 +53,8 @@ nav {
     position: absolute;
     z-index: 2;
     right: 0px;
-    height: 88vh;
-    top: 10.2vh;
+    height: calc(100vh - 110px);
+    top: 94px;
     background: #fff;
     display: flex;
     flex-direction: column;
