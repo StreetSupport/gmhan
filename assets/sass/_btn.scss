@@ -1,0 +1,22 @@
+.cta-btn-container {
+  display: flex;
+  justify-content: center;
+}
+
+.callout-button {
+  background-color: #fff;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #000000;
+  padding: 6px 18px;
+  opacity: 0.6;
+  transition: 0.4s;
+  margin: 0 10px;
+  box-shadow: 1px 1px;
+}
+
+.callout-button:hover {
+  opacity: 1;
+  background-color: #FFC053;
+}

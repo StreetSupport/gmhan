@@ -15,19 +15,37 @@ collections:
         name: "home"
         fields:
           - {label: "Tagline", name: "tagline", widget: "markdown"}
-          - {label: "Call out cards", name: "card", widget: "object", fields: [
-              {label: "Title One", name: "titleone", widget: "string"},
-              {label: "Text One", name: "textone", widget: "markdown"},
-              {label: "Title Two", name: "titletwo", widget: "string"},
-              {label: "Text Two", name: "texttwo", widget: "markdown"},
-              {label: "Title Three", name: "titlethree", widget: "string"},
-              {label: "Text Three", name: "textthree", widget: "markdown"}
-          ]}
+          - {label: "CTA cards", name: "ctaCards", widget: "object", fields: [
+              {label: "Card one", name: "cardOne", widget: "object", fields: [
+                {label: "Card title", name: "cardTitle", widget: "string"},
+                {label: "Card text", name: "cardText", widget: "string"},
+                {label: "Card link", name: "cardLink", widget: "string"}
+              ]},
+              {label: "Card two", name: "cardTwo", widget: "object", fields: [
+                {label: "Card title", name: "cardTitle", widget: "string"},
+                {label: "Card text", name: "cardText", widget: "string"},
+                {label: "Card link", name: "cardLink", widget: "string"}
+              ]},
+              {label: "Card three", name: "cardThree", widget: "object", fields: [
+                {label: "Card title", name: "cardTitle", widget: "string"},
+                {label: "Card text", name: "cardText", widget: "string"},
+                {label: "Card link", name: "cardLink", widget: "string"}
+              ]}
+            ]}
           - {label: "Secondary call outs", name: "secondary", widget: "object", fields: [
-              {label: "First", name: "callone", widget: "string"},
-              {label: "Second", name: "calltwo", widget: "string"},
-              {label: "Third", name: "callthree", widget: "string"}
-          ]}
+              {label: "Button one", name: "buttonOne", widget: "object", fields: [
+                {label: "Button text", name: "buttonText", widget: "string"},
+                {label: "Button link", name: "Link", widget: "string"}
+              ]},
+              {label: "Button two", name: "buttonTwo", widget: "object", fields: [
+                {label: "Button text", name: "buttonText", widget: "string"},
+                {label: "Button link", name: "Link", widget: "string"}
+              ]},
+              {label: "Button three", name: "buttonThree", widget: "object", fields: [
+                {label: "Button text", name: "buttonText", widget: "string"},
+                {label: "Button link", name: "Link", widget: "string"}
+              ]}
+            ]}
       - file: "content/content-page/_index.md"
         label: "Content page one"
         name: "content-page-one"
@@ -36,7 +54,15 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Highlight box", name: "highlight", widget: "object", fields: [
+          - {label: "Highlight box top", name: "highlightTop", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Highlight box left", name: "highlightLeft", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Highlight box right", name: "highlightRight", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}

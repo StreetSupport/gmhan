@@ -1,13 +1,20 @@
 <!doctype html>
 <html class="no-js" lang="en-GB" xmlns:fb="http://ogp.me/ns/fb#"><head prefix="og: http://ogp.me/ns#">
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="" />
+  <meta property="og:title" content="Greater Manchester Homelessness Action Group" />
   <meta property="og:url" content="/" />
   <meta property="og:description" content="Greater Manchester Homelessness Action Network"/>
   <title></title>
 
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-131667660-1');
+  </script>
 
   
   
@@ -18,7 +25,7 @@
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head><body>
 <nav>
-  <a href="/"><img class="logo" src="/assets/gmhan-logo(1).png" alt="gmhan-logo"></a>
+  <a href="/"><img class="logo" src="/assets/gmhan-logo.png" alt="gmhan-logo"></a>
   <ul class="nav-links">
     <li>
         <a href="/content-page">Link one</a>
@@ -62,54 +69,60 @@
   navSlide();
   </script>
 
-<section class="home-hero">
-  <div>
-    <div>
-        <h1 class="home-hero-title">Ending homelessness <span>in Greater Manchester</span></h1>
+<div id="main">
+
+  <section class="home-hero">
+    <h1 class="home-hero-title">Ending homelessness <span>in Greater Manchester</span></h1>
+  </section>
+
+  <section>
+    <div class="block block--grey">
+        <p>Greater Manchester Homelessness Action Network (GMHAN) brings together people with personal insights into homelessness, people from the frontline organisations, public sector and others to find more effective solutions.</p>
+        
     </div>
-  </div>
-</section>
+  </section>
 
-<section>
-  <div class="block block--grey">
-    <p>Greater Manchester Homelessness Action Network (GMHAN) brings together people with personal insights into homelessness, people from the frontline organisations, public sector and others to find more effective solutions.</p>
-  </div>
-</section>
+  <section>
+    <div class="block block--orange cards card-container">
+    <a href="/content-page" class="card">
+        <img src="" alt="">
+        <div class="card__text">
+            <h3 class="card__title">Call out 1</h3>
+            <p class="card__body">and here is some text</p>
+        </div>
+      </a>
+      <a href="https://streetsupport.net" class="card">
+        <img src="" alt="">
+        <div class="card__text">
+            <h3 class="card__title">Call out 2</h3>
+            <p class="card__body">and here is some text</p>
+        </div>
+      </a>
+      <a href="https://realchangeoldham.co.uk" class="card">
+        <img src="" alt="">
+        <div class="card__text">
+            <h3 class="card__title">Call out 3</h3>
+            <p class="card__body">and here is some text</p>
+        </div>
+      </a>
+  </section>
 
-<section>
-  <div class="block block--orange cards card-container">
-  <a href="#" class="card">
-      <img src="" alt="">
-      <div class="card__text">
-          <h3 class="card__title">Call out 1</h3>
-          <p class="card__body">And here is some text</p>
+  <section>
+    <div class="block block--white">
+      <h2>Secondary call outs</h2>
+      <div class="cta-btn-container">
+        <a href="https://google.com"><button class="callout-button">Secondary one</button></a>
+        <a href="https://google.com"><button class="callout-button">Secondary two</button></a>
+        <a href="https://google.com"><button class="callout-button">Secondary three</button></a>
       </div>
-    </a>
-    <a href="#" class="card">
-      <img src="" alt="">
-      <div class="card__text">
-          <h3 class="card__title">Call out 2</h3>
-          <p class="card__body">And here is some text</p>
-      </div>
-    </a>
-    <a href="#" class="card">
-      <img src="" alt="">
-      <div class="card__text">
-          <h3 class="card__title">Call out 3</h3>
-          <p class="card__body">And here is some text</p>
-      </div>
-    </a>
-</section>
+    </div>
+  </section>
 
-<section>
-  <div class="block block--white">
-    <h2>Secondary call outs</h2>
-    <button>Secondary one</button>
-    <button>Secondary two</button>
-    <button>Secondary three</button>
-  </div>
-</section>
 
+<footer class="footer">
+  <p>&copy; 2019 GMHAN</p>
+  <p>Email: <a href="#">email@emailaddress.com</a></p>
+</footer>
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
@@ -121,13 +134,6 @@
     });
   }
 </script>
-
-<footer class="footer">
-  <div class="container">
-    <p>&copy; 2019 GMHAN</p>
-    <p>Email: <a href="#">email@emailaddress.com</a></p>
-  </div>
-</footer>
 
 
 </body>
