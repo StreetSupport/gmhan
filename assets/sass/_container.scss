@@ -1,9 +1,17 @@
 .container {
   padding: 0 20%;
+
+  @media (max-width: $bp-desktop) {
+    padding: 0 5%;
+  }
 }
 
 .highlight-container {
   display: flex;
   justify-content: space-between;
   flex-basis: 0;
+
+  @media (max-width: $bp-desktop) {
+    flex-direction: column;
+  }
 }

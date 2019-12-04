@@ -4,7 +4,7 @@
 <div id="main">
 
   <section class="home-hero">
-    <h1 class="home-hero-title">Ending homelessness<span> in Greater Manchester</span></h1>
+    <h1 class="home-hero-title">Ending homelessness <span>in Greater Manchester</span></h1>
   </section>
 
   <section>
@@ -42,9 +42,11 @@
   <section>
     <div class="block block--white">
       <h2>Secondary call outs</h2>
-      <a href="{{ .Params.secondary.buttonOne.link }}"><button>{{ .Params.secondary.buttonOne.buttonText }}</button></a>
-      <a href="{{ .Params.secondary.buttonTwo.link }}"><button>{{ .Params.secondary.buttonTwo.buttonText }}</button></a>
-      <a href="{{ .Params.secondary.buttonThree.link }}"><button>{{ .Params.secondary.buttonThree.buttonText }}</button></a>
+      <div class="cta-btn-container">
+        <a href="{{ .Params.secondary.buttonOne.link }}"><button class="callout-button">{{ .Params.secondary.buttonOne.buttonText }}</button></a>
+        <a href="{{ .Params.secondary.buttonTwo.link }}"><button class="callout-button">{{ .Params.secondary.buttonTwo.buttonText }}</button></a>
+        <a href="{{ .Params.secondary.buttonThree.link }}"><button class="callout-button">{{ .Params.secondary.buttonThree.buttonText }}</button></a>
+      </div>
     </div>
   </section>
 

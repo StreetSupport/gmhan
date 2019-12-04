@@ -3,12 +3,21 @@
   background-color: $gmhan-hero-orange;
   position: relative;
   border: 0;
-  padding: 150px 200px;
+  padding:180px 0;
 }
 
 .home-hero-title {
   font-family: 'exo';
   font-weight: 100;
   text-align: center;
-  font-size: 36px;
+  font-size: 44px;
+  padding: 25px;
+
+  span {
+    display: block;
+  }
+
+  @media (min-width: $bp-tablet) {
+
+  }
 }
