@@ -47,8 +47,8 @@ collections:
               ]}
             ]}
       - file: "content/content-page/_index.md"
-        label: "Content page one"
-        name: "content-page-one"
+        label: "News & Events"
+        name: "news-and-events"
         fields:
           - {label: "Content", name: "content", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},

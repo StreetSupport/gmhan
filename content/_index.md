@@ -6,22 +6,22 @@ tagline: >-
 
 ctaCards:
   cardOne:
-    cardTitle: Call out 1
-    cardText: and here is some text
-    cardLink: /content-page
+    cardTitle: News & Events
+    cardText: Find out about our events
+    cardLink: /news-and-events
   cardTwo:
-    cardTitle: Call out 2
-    cardText: and here is some text
-    cardLink: https://streetsupport.net
+    cardTitle: Get involed
+    cardText: How you can help
+    cardLink: /get-involved
   cardThree:
-    cardTitle: Call out 3
-    cardText: and here is some text
-    cardLink: https://realchangeoldham.co.uk
+    cardTitle: Learn more
+    cardText: Read more about our aims and objectives
+    cardLink: /about
 
 secondary:
   buttonOne:
-    buttonText: Secondary one
-    Link: https://google.com
+    buttonText: Mailing list
+    Link: https://streetsupport.us12.list-manage.com/subscribe?u=da9a1d4bb2b1a69a981456972&id=3c6ae13085
   buttonTwo:
     buttonText: Secondary two
     Link: https://google.com
