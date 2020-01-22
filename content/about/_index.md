@@ -8,6 +8,6 @@ content:
 
 
     Donec elit quam, consequat ut massa vitae, eleifend rutrum enim. Morbi feugiat purus non lacus congue posuere. Suspendisse id elit efficitur, eleifend augue quis, aliquet ligula. Integer lacinia porta egestas. Maecenas mattis finibus vehicula. Nunc tincidunt ultricies leo non lobortis. Phasellus malesuada odio id ligula lacinia, non iaculis est volutpat. Pellentesque ex urna, laoreet sed accumsan eget, aliquam non mi. Morbi vulputate pharetra efficitur. Pellentesque nec ultrices quam. Aliquam mi nibh, tristique ut posuere ut, gravida fringilla orci. Fusce elit ex, gravida in ex quis, viverra facilisis mauris.
-  heading: Get involved
+  heading: About The GMHAN
 ---
 
