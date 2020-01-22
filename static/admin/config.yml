@@ -66,3 +66,27 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
+      - file: "content/get-involved/_index.md"
+        label: "Get Involved"
+        name: "get-involved"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/about/_index.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/contact/_index.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
