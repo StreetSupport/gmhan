@@ -67,8 +67,6 @@ content:
     components")
 
 
-
-
     ## What have we achieved so far?
 
 
@@ -77,6 +75,8 @@ content:
     fixes. Examples of what the HAN has been involved in since starting in 2017
     include:
 
+
+    * Co-produced a [Rough Sleeping Strategy](<link to resources>) for the city
 
     * Taking the decision to deliver the Bed Every Night emergency shelter
     scheme, which has halved rough sleeping in Greater Manchester.
@@ -90,6 +90,49 @@ content:
 
     * Supporting the evolution of a community night shelter in a local borough
     into a formal commissioned partner of the Bed Every Night programme
+
+
+
+
+    ## **Who makes up the HAN?**
+
+
+    The HAN is anyone who wants to end homelessness. So far, this has included
+    people from Greater Manchester’s voluntary and community sector, housing
+    providers, people who have been or are homeless, universities, health, faith
+    communities, local and regional government, cultural spaces, researchers,
+    activists and politicians. And more.
+
+
+    We are constantly working to develop the network and its members so this is
+    not a finite list, if you would like to be involved in the network, either
+    by attending events or in the Advisory Board, you can find out more
+    [**here**.](<mailto: contact us?>)
+
+
+    We are currently looking for people who represent the following areas or
+    backgrounds:
+
+
+    * \[Agreed list of locations and sector specialisms we'd like more
+    representation from]
+
+
+
+
+
+
+    ## **What are we working on this year?**
+
+
+    The HAN sets its strategic priorities once a year at the beginning of the
+    year. The priorities are set at the full Network Events, working alongside
+    the Greater Manchester Combined Authority to align with the political
+    priorities and programme.
+
+
+    Priorities for 2020 will be established at the full GMHAN Event on 3rd March
+    - watch this space!
   heading: About The GMHAN
 ---
 
