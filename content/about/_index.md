@@ -92,7 +92,7 @@ content:
     into a formal commissioned partner of the Bed Every Night programme
 
 
-    ## **Who is involved in the HAN?**
+    ## Who is involved in the HAN?
 
 
     The HAN is anyone who wants to end homelessness. So far, this has included
@@ -116,7 +116,7 @@ content:
     representation from]
 
 
-    ## **What are we working on this year?**
+    ## What are we working on this year?
 
 
     The HAN sets its strategic priorities once a year at the beginning of the
