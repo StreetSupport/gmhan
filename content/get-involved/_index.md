@@ -3,7 +3,10 @@ content:
   body: >-
     If you have lived experience of homelessness, or are involved with a project
     working to end homelessness in Greater Manchester, then we want you to be a
-    part of the Network. There are multiple ways to be involved:
+    part of the Network. 
+
+
+    How you want to be involved is up to you:
 
 
     * Sign up to the [Mailing
@@ -27,13 +30,13 @@ content:
     to About members bit>)
 
 
-
-
     ## Other ways to get involved
 
 
-    Not everyone can get involved in everything, and that's fine. If you are a
-    member of the public, you may find it easier to:
+    Not everyone can get involved in everything, and that's fine. 
+
+
+    If you are a member of the public, you may find it easier to:
 
 
     1. Give money: find out more about the best ways you can donate to ending
