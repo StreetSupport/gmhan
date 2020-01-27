@@ -4,7 +4,7 @@ tagline: >-
   Greater Manchester working to end homelessness:
 
 
-  ``
+  <break>
 
 
   People with personal insights into homelessness, people from the frontline
