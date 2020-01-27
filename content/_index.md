@@ -17,8 +17,8 @@ ctaCards:
     cardTitle: News & Events
   cardThree:
     cardLink: /about
-    cardText: Find out about how Greater Manchester is working to end homelessness
-    cardTitle: Learn more
+    cardText: Learn what Greater Manchester is doing to end homelessness
+    cardTitle: About
   cardTwo:
     cardLink: /give
     cardText: Find out the most effective ways to donate toward ending homelessness
