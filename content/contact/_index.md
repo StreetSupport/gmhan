@@ -1,13 +1,17 @@
 ---
 content:
   body: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae hendrerit arcu, nec volutpat tortor. Phasellus neque tellus, rhoncus eget eros ac, semper iaculis leo. In a mi eleifend, dapibus lacus nec, auctor magna. Aenean porttitor feugiat leo eget semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce non ante in tellus tincidunt ultrices. Ut ultricies interdum lorem a venenatis. Sed tincidunt pulvinar bibendum. Donec tincidunt sapien a quam tincidunt, sed rhoncus sapien commodo. Curabitur varius tellus nisl, ac convallis mi commodo vitae. Duis quis lacus sit amet nisl blandit euismod et eu lacus. Curabitur eget porttitor mi, a sodales sapien. Aliquam bibendum diam tristique, condimentum tellus ut, aliquam nulla.
+    The more knowledge we all have about what is going on to end homelessness,
+    the stronger we will be as a Network in identifying what is missing and
+    holding each other to account when results aren't being delivered. 
 
 
-    Praesent neque enim, ultricies quis dolor sit amet, commodo suscipit odio. Mauris pharetra ex at metus scelerisque egestas. Curabitur eu vestibulum elit, non congue risus. Quisque auctor augue at ligula ultricies, at ultrices justo pulvinar. Morbi iaculis dui nec nibh dignissim venenatis. Vestibulum sed gravida purus. Pellentesque condimentum urna ac est tincidunt imperdiet. Suspendisse rutrum, libero sit amet mattis dignissim, urna lacus lobortis metus, et pulvinar nisl tortor ut eros. Nulla eu augue egestas, fermentum dui sed, congue purus. Aenean vitae iaculis quam. Curabitur porttitor urna eros, vitae congue lectus sagittis a.
+    To help this, all publications, resources or papers relevant to ending
+    homelessness in Greater Manchester will be published here. If you think
+    anything is missing, contact us at hello@gmhan.net.
 
 
-    Donec elit quam, consequat ut massa vitae, eleifend rutrum enim. Morbi feugiat purus non lacus congue posuere. Suspendisse id elit efficitur, eleifend augue quis, aliquet ligula. Integer lacinia porta egestas. Maecenas mattis finibus vehicula. Nunc tincidunt ultricies leo non lobortis. Phasellus malesuada odio id ligula lacinia, non iaculis est volutpat. Pellentesque ex urna, laoreet sed accumsan eget, aliquam non mi. Morbi vulputate pharetra efficitur. Pellentesque nec ultrices quam. Aliquam mi nibh, tristique ut posuere ut, gravida fringilla orci. Fusce elit ex, gravida in ex quis, viverra facilisis mauris.
-  heading: Get in Touch
+    ## Publications
+  heading: Resources
 ---
 
