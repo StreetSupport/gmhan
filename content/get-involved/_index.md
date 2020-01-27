@@ -1,13 +1,47 @@
 ---
 content:
   body: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae hendrerit arcu, nec volutpat tortor. Phasellus neque tellus, rhoncus eget eros ac, semper iaculis leo. In a mi eleifend, dapibus lacus nec, auctor magna. Aenean porttitor feugiat leo eget semper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce non ante in tellus tincidunt ultrices. Ut ultricies interdum lorem a venenatis. Sed tincidunt pulvinar bibendum. Donec tincidunt sapien a quam tincidunt, sed rhoncus sapien commodo. Curabitur varius tellus nisl, ac convallis mi commodo vitae. Duis quis lacus sit amet nisl blandit euismod et eu lacus. Curabitur eget porttitor mi, a sodales sapien. Aliquam bibendum diam tristique, condimentum tellus ut, aliquam nulla.
+    If you have lived experience of homelessness, or are involved with a project
+    working to end homelessness in Greater Manchester, then we want you to be a
+    part of the Network. There are multiple ways to be involved:
 
 
-    Praesent neque enim, ultricies quis dolor sit amet, commodo suscipit odio. Mauris pharetra ex at metus scelerisque egestas. Curabitur eu vestibulum elit, non congue risus. Quisque auctor augue at ligula ultricies, at ultrices justo pulvinar. Morbi iaculis dui nec nibh dignissim venenatis. Vestibulum sed gravida purus. Pellentesque condimentum urna ac est tincidunt imperdiet. Suspendisse rutrum, libero sit amet mattis dignissim, urna lacus lobortis metus, et pulvinar nisl tortor ut eros. Nulla eu augue egestas, fermentum dui sed, congue purus. Aenean vitae iaculis quam. Curabitur porttitor urna eros, vitae congue lectus sagittis a.
+    * Sign up to the [Mailing
+    List](https://streetsupport.us12.list-manage.com/subscribe?u=da9a1d4bb2b1a69a981456972&id=3c6ae13085)
+    to hear about new events and activities
+
+    * Attend the wider network events every three months. These usually take
+    place at Salford University and will be advertised through the mailing list
+    and on the [News And Events](/news-and-events) page.
+
+    * Let us know about good practice in ending homelessness that you are
+    involved in, or a problem you've spotted that you don't think is being
+    addressed by contacting email@gmhan.net 
+
+    * Volunteer to be part of the Advisory Board 'Action Meetings' focused on
+    delivering this year's key priorities (see [here](<link to About section on
+    vision>))
+
+    * Volunteer to be the link person for your borough or field of work. To see
+    which areas we're looking for representatives from, follow [this link](<link
+    to About members bit>)
 
 
-    Donec elit quam, consequat ut massa vitae, eleifend rutrum enim. Morbi feugiat purus non lacus congue posuere. Suspendisse id elit efficitur, eleifend augue quis, aliquet ligula. Integer lacinia porta egestas. Maecenas mattis finibus vehicula. Nunc tincidunt ultricies leo non lobortis. Phasellus malesuada odio id ligula lacinia, non iaculis est volutpat. Pellentesque ex urna, laoreet sed accumsan eget, aliquam non mi. Morbi vulputate pharetra efficitur. Pellentesque nec ultrices quam. Aliquam mi nibh, tristique ut posuere ut, gravida fringilla orci. Fusce elit ex, gravida in ex quis, viverra facilisis mauris.
+
+
+    ## Other ways to get involved
+
+
+    Not everyone can get involved in everything, and that's fine. If you are a
+    member of the public, you may find it easier to:
+
+
+    1. Give money: find out more about the best ways you can donate to ending
+    homelessness on our [Giving page](/give)
+
+    2. Give time or items: go to our partner website at [Street
+    Support](streetsupport.net) to see what volunteering opportunities or need
+    for items there are in your area
   heading: Get involved
 ---
 
