@@ -1,7 +1,7 @@
 ---
 tagline: >-
-  The Greater Manchester Homelessness Action Network (GMHAN) brings everyone in
-  Greater Manchester working to end homelessness:
+  The Greater Manchester Homelessness Action Network (GMHAN) brings together
+  everyone in Greater Manchester working to end homelessness:
 
 
   <break>
