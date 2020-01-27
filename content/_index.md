@@ -29,7 +29,7 @@ secondary:
     Link: www.twitter.com
     buttonText: Share
   buttonTwo:
-    Link: 'https://google.com'
+    Link: /get-involved
     buttonText: Get involved
 ---
 
