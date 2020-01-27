@@ -92,9 +92,7 @@ content:
     into a formal commissioned partner of the Bed Every Night programme
 
 
-
-
-    ## **Who makes up the HAN?**
+    ## **Who is involved in the HAN?**
 
 
     The HAN is anyone who wants to end homelessness. So far, this has included
@@ -116,10 +114,6 @@ content:
 
     * \[Agreed list of locations and sector specialisms we'd like more
     representation from]
-
-
-
-
 
 
     ## **What are we working on this year?**
