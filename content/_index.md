@@ -29,8 +29,8 @@ secondary:
       https://streetsupport.us12.list-manage.com/subscribe?u=da9a1d4bb2b1a69a981456972&id=3c6ae13085
     buttonText: Mailing list
   buttonThree:
-    Link: www.twitter.com
-    buttonText: Share
+    Link: /resources
+    buttonText: Resources
   buttonTwo:
     Link: /get-involved
     buttonText: Get involved
