@@ -4,6 +4,9 @@ tagline: >-
   Greater Manchester working to end homelessness:
 
 
+  ``
+
+
   People with personal insights into homelessness, people from the frontline
   organisations, public sector officers, and anyone working to find more
   effective solutions to the homelessness crisis.
