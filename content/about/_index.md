@@ -91,6 +91,11 @@ content:
     * Supporting the evolution of a community night shelter in a local borough
     into a formal commissioned partner of the Bed Every Night programme
 
+    * Informed the national asks made by the Mayor of Greater Manchester to
+    parties during the 2019 General Election
+
+
+
 
     ## Who is involved in the HAN?
 
