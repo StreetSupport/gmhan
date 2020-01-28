@@ -21,7 +21,7 @@ ctaCards:
     cardTitle: About
   cardTwo:
     cardLink: /give
-    cardText: Find out the most effective ways to donate toward ending homelessness
+    cardText: Find out the most effective ways to donate to end homelessness
     cardTitle: Give
 secondary:
   buttonOne:
