@@ -83,7 +83,7 @@ content:
 
     * Raising the question of family homelessness to the Programme Board Chaired
     by the Mayor Andy Burnham to change the approach to how families are
-    supported in temporary accomodation
+    supported in temporary accommodation
 
     * Shining the spotlight on youth homelessness, resulting in the development
     of a second Social Impact Bond programme focused on this issue
