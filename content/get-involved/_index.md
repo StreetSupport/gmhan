@@ -33,16 +33,15 @@ content:
     ## Other ways to get involved
 
 
-    Not everyone can get involved in everything, and that's fine. 
+    Not everyone can get involved in everything, and that's fine. If you live,
+    work or visit Greater Manchester and are concerned about rising homelessness
+    around you, you may prefer to:
 
 
-    If you are a member of the public, you may find it easier to:
+    1. **Give money**: find out more about the best ways you can donate to
+    ending homelessness on our [Giving page](/give)
 
-
-    1. Give money: find out more about the best ways you can donate to ending
-    homelessness on our [Giving page](/give)
-
-    2. Give time or items: go to our partner website at [Street
+    2. **Give time or items**: go to key GMHAN member [Street
     Support](streetsupport.net) to see what volunteering opportunities or need
     for items there are in your area
 
@@ -65,16 +64,12 @@ content:
     welfare, employment, the private rented sector and legal aid, changes to
     which can result in someone becoming threatened with homelessness.
 
-
-
     * Local Authorities have a legal ‘Duty of Care’ to “take reasonable steps to
     help prevent any eligible person (regardless of priority need status,
     intentionality and whether they have a local connection) who is threatened
     with homelessness from becoming homeless”. 
 
       As of 2010, this does not include people with no recourse to public funds (people seeking asylum or those who came to the UK from outside of the European Economic Area). Local councils also have responsibility for local homelessness budgets, setting spending priorities for temporary housing, mental health support and outreach services as well as funding for local homelessness support charities.
-
-
     * Regional Government (in areas with Combined Authorities like Greater
     Manchester), have limited responsibility for homelessness, but their elected
     Mayors have taken a political responsibility for making sure the issues
