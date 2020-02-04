@@ -24,7 +24,7 @@ whatIs:
     side by side rather than alone or in hierarchies.
 
 
-    ![Information flows from the Network events through the Advisory Board to
+    Information flows from the Network events through the Advisory Board to
     the Programme Board and operational teams delivering services or
     interventions. It also comes back the other way in a continual feedback
     loop.]( "GMHAN Structure")
