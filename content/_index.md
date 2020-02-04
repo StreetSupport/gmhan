@@ -8,11 +8,6 @@ tagline: >-
   People with personal insights into homelessness, people from the frontline
   organisations, public sector officers, and anyone working to find more
   effective solutions to the homelessness crisis.
-
-
-  People with personal insights into homelessness, people from the frontline
-  organisations, public sector officers, and anyone working to find more
-  effective solutions to the homelessness crisis.
 ctaCards:
   cardOne:
     cardLink: /news-and-events
