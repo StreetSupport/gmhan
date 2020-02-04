@@ -1,5 +1,5 @@
 ---
-img: assets/uploads/gmhan-placeholder.png
+img: assets/uploads/placeholder2.jpeg
 tagline: >-
   The Greater Manchester Homelessness Action Network (GMHAN) brings together
   everyone in Greater Manchester working to end homelessness:
