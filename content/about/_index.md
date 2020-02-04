@@ -30,8 +30,7 @@ whatIs:
     loop.]( "GMHAN Structure")
 
 
-    \* Community Development and co-production are technical terms referring to 
-    \_\_\_\_\_\_
+    - Community Development and co-production are technical terms referring to 
   heading: What is the GMHAN?
 
 howWorks:
@@ -62,9 +61,9 @@ howWorks:
     action:
 
 
-    ![The Advisory Board has fortnightly 'Action Sessions' alongside more formal
-    'Accountability Meetings' for making decisions]( "Advisory Board
-    components")
+    -The Advisory Board has fortnightly 'Action Sessions' alongside more formal
+    'Accountability Meetings' for making decisions "Advisory Board
+    components"
   heading: How the Advisory Board works
 
 whatHave:
