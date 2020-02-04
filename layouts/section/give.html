@@ -6,7 +6,7 @@
   <section class="container">
     <div class="content">
       <h1 class="h1">{{ .Params.content.heading }}</h1>
-      <p>{{ .Params.content.body }}</p>
+      <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
     </div>
   </section>
 
