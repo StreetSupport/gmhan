@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
 
-media_folder: "hugo/static/assets/uploads"
-public_folder: "assets/uploads"
+media_folder: "/assets/"
+public_folder: "assets/"
 
 collections:
   - name: "pages"
