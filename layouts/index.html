@@ -9,8 +9,7 @@
 
   <section>
     <div class="block block--grey">
-        <p>{{ .Params.tagline }}</p>
-        {{ $taglineMarkdown := .Params.tagline | markdownify }}
+      <p>{{ partial "bodyMarkdown.html" .Params.tagline }}</p>
     </div>
   </section>
 
