@@ -1,6 +1,15 @@
 .cta-btn-container {
   display: flex;
   justify-content: center;
+  @media screen and (max-width: 650px) {
+    flex-direction: column;
+
+    .callout-button {
+      margin-top: 20px;
+      width: 80%;
+      height: 40px;
+    }
+  }
 }
 
 .callout-button {
