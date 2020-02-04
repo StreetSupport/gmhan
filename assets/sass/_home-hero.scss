@@ -1,10 +1,21 @@
 .home-hero {
   position: relative;
   height: 400px;
+  background: $gmhan-orange;
   
   img {
     height: 400px;
     width: 100%;
+  }
+
+  @media screen and (max-width: 650px) {
+    .home-hero-title {
+      color: $gmhan-grey;
+    }
+
+    img {
+      display: none;
+    }
   }
 }
 

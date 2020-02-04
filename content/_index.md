@@ -10,7 +10,7 @@ tagline: >-
   effective solutions to the homelessness crisis.
 ctaCards:
   cardOne:
-    cardLink: /news-and-events
+    cardLink: /give
     cardText: Find out about the latest updates and activities from across the Network
     cardTitle: News & Events
   cardThree:

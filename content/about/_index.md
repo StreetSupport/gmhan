@@ -1,9 +1,10 @@
 ---
 content:
   body: >-
-    ## What is the GMHAN?
-
-
+    Paragraph of text if needed (delete if not)
+  heading: About The GMHAN
+whatIs:
+  body: >-
     The Greater Manchester Homelessness Action Network (GMHAN) is a network for
     everyone working to end homelessness in Greater Manchester. The Network
     brings together all the different sectors and specialisms involved in this
@@ -31,11 +32,10 @@ content:
 
     \* Community Development and co-production are technical terms referring to 
     \_\_\_\_\_\_
+  heading: What is the GMHAN?
 
-
-    ## How the Advisory Board works
-
-
+howWorks:
+  body: >-
     The GMHAN Advisory Board is a core group of people who have experience
     across homelessness and interconnected issues within Greater Manchester.
 
@@ -65,11 +65,10 @@ content:
     ![The Advisory Board has fortnightly 'Action Sessions' alongside more formal
     'Accountability Meetings' for making decisions]( "Advisory Board
     components")
+  heading: How the Advisory Board works
 
-
-    ## What have we achieved so far?
-
-
+whatHave:
+  body: >-
     The HAN has been established to achieve long-term systems change so that no
     one need become homeless in Greater Manchester. We're not looking for quick
     fixes. Examples of what the HAN has been involved in since starting in 2017
@@ -93,13 +92,10 @@ content:
 
     * Informed the national asks made by the Mayor of Greater Manchester to
     parties during the 2019 General Election
+  heading: What have we achieved so far?
 
-
-
-
-    ## Who is involved in the HAN?
-
-
+whoIs:
+  body: >-
     The HAN is anyone who wants to end homelessness. So far, this has included
     people from Greater Manchester’s voluntary and community sector, housing
     providers, people who have been or are homeless, universities, health, faith
@@ -119,11 +115,10 @@ content:
 
     * \[Agreed list of locations and sector specialisms we'd like more
     representation from]
+  heading: Who is involved in the HAN?
 
-
-    ## What are we working on this year?
-
-
+whatAre:
+  body: >-
     The HAN sets its strategic priorities once a year at the beginning of the
     year. The priorities are set at the full Network Events, working alongside
     the Greater Manchester Combined Authority to align with the political
@@ -132,6 +127,6 @@ content:
 
     Priorities for 2020 will be established at the full GMHAN Event on 3rd March
     - watch this space!
-  heading: About The GMHAN
+  heading: What are we working on this year?
 ---
 
