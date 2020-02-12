@@ -28,9 +28,7 @@ whatIs:
     It also comes back the other way in a continual feedback loop. 
 
 
-    ![GMHAN Structure]()
-
-
+    ![GMHAN Structure](assets/uploads/GMHAN structure.png)
 
 
     * Community Development and co-production are technical terms referring
