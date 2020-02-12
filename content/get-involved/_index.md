@@ -88,17 +88,17 @@ content:
     their area.
 
 
-    You can find your local Councillors and their contact details
-    at:[www.gov.uk/find-your-local-councillors](http://www.gov.uk/find-your-local-councillors)
+    You can find your local Councillors and their contact details at:
+    [www.gov.uk/find-your-local-councillors](http://www.gov.uk/find-your-local-councillors)
 
 
-    Your local MP's details are available
-    at:[www.theyworkforyou.com](http://www.theyworkforyou.com)
+    Your local MP's details are available at:
+    [](http://www.theyworkforyou.com)[www.theyworkforyou.com](http://www.theyworkforyou.com)
 
 
     If you Iive in Greater Manchester you can contact the Greater Manchester
-    Mayor
-    at:[the.mayor@greatermanchester-ca.gov.uk](mailto:the.mayor@greatermanchester-ca.gov.uk)
+    Mayor at:
+    [the.mayor@greatermanchester-ca.gov.uk](mailto:the.mayor@greatermanchester-ca.gov.uk)
   heading: Get involved
 ---
 
