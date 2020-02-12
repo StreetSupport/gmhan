@@ -1,7 +1,6 @@
 ---
 content:
-  body: >-
-    Paragraph of text if needed (delete if not)
+  body: Paragraph of text if needed (delete if not)
   heading: About The GMHAN
 whatIs:
   body: >-
@@ -24,15 +23,19 @@ whatIs:
     side by side rather than alone or in hierarchies.
 
 
-    Information flows from the Network events through the Advisory Board to
-    the Programme Board and operational teams delivering services or
-    interventions. It also comes back the other way in a continual feedback
-    loop.]( "GMHAN Structure")
+    Information flows from the Network events through the Advisory Board to the
+    Programme Board and operational teams delivering services or interventions.
+    It also comes back the other way in a continual feedback loop. 
 
 
-    - Community Development and co-production are technical terms referring to 
+    ![GMHAN Structure]()
+
+
+
+
+    * Community Development and co-production are technical terms referring
+    to....
   heading: What is the GMHAN?
-
 howWorks:
   body: >-
     The GMHAN Advisory Board is a core group of people who have experience
@@ -62,10 +65,8 @@ howWorks:
 
 
     -The Advisory Board has fortnightly 'Action Sessions' alongside more formal
-    'Accountability Meetings' for making decisions "Advisory Board
-    components"
+    'Accountability Meetings' for making decisions "Advisory Board components"
   heading: How the Advisory Board works
-
 whatHave:
   body: >-
     The HAN has been established to achieve long-term systems change so that no
@@ -92,7 +93,6 @@ whatHave:
     * Informed the national asks made by the Mayor of Greater Manchester to
     parties during the 2019 General Election
   heading: What have we achieved so far?
-
 whoIs:
   body: >-
     The HAN is anyone who wants to end homelessness. So far, this has included
@@ -115,7 +115,6 @@ whoIs:
     * \[Agreed list of locations and sector specialisms we'd like more
     representation from]
   heading: Who is involved in the HAN?
-
 whatAre:
   body: >-
     The HAN sets its strategic priorities once a year at the beginning of the
