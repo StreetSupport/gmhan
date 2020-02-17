@@ -1,5 +1,4 @@
 ---
-title: About |
 content:
   body: Paragraph of text if needed (delete if not)
   heading: About The GMHAN
@@ -29,7 +28,7 @@ whatIs:
     It also comes back the other way in a continual feedback loop. 
 
 
-    ![GMHAN Structure](/assets/uploads/GMHAN structure.png)
+    ![]()
 
 
     * Community Development and co-production are technical terms referring
