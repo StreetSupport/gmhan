@@ -10,6 +10,8 @@ content:
     homelessness in Greater Manchester will be published here. If you think
     anything is missing, contact us at hello@gmhan.net.
   heading: Resources
-uploads: assets/uploads/dummy.pdf
+resources:
+  heading: Publications
+  uploads: 
 ---
 
