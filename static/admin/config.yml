@@ -112,8 +112,4 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Uploads", name: "uploads", widget: "file", default: "/uploads/general-manual.pdf", 
-              {media_library:
-                config:
-                  multiple: true
-          }
+          - {label: "Uploads", name: "uploads", widget: "file", default: "/uploads/general-manual.pdf", allow_multiple: "true"}
