@@ -104,6 +104,10 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
+          - {label: "Speak Up", name: "speakUp", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "body", name: "body", widget: "string"}
+          ]}
       - file: "content/resources/_index.md"
         label: "Resources"
         name: "resources"
