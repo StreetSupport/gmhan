@@ -6,13 +6,12 @@
   <section class="container">
     <div class="content">
       <h1 class="h1">{{ .Params.content.heading }}</h1>
-      <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
     </div>
   </section>
 
   <section class="container">
-    <div class="block block--highlight block--highlight-grey">
-      <div class="content">
+    <div class="content">
+      <div class="block ">
         <h3>{{ .Params.whatIs.heading }}</h3>
         <p>{{ partial "bodyMarkdown.html" .Params.whatIs.body }}</p>
       </div>
@@ -22,34 +21,31 @@
   <section class="container highlight-container">
     <div class="block block--highlight block--highlight-orange">
       <div class="content">
-        <h3>{{ .Params.howWorks.heading }}</h3>
-        <p>{{ partial "bodyMarkdown.html" .Params.howWorks.body }}</p>
-      </div>
-    </div>
-    <div class="block block--highlight block--highlight-grey">
-      <div class="content">
         <h3>{{ .Params.whatHave.heading }}</h3>
         <p>{{ partial "bodyMarkdown.html" .Params.whatHave.body }}</p>
       </div>
     </div>
-  </section>
-
-  <section class="container">
-    <div class="block block--highlight block--highlight-grey">
-      <div class="content">
-        <h3>{{ .Params.whoIs.heading }}</h3>
-        <p>{{ partial "bodyMarkdown.html" .Params.whoIs.body }}</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="container">
     <div class="block block--highlight block--highlight-grey">
       <div class="content">
         <h3>{{ .Params.whatAre.heading }}</h3>
         <p>{{ partial "bodyMarkdown.html" .Params.whatAre.body }}</p>
       </div>
     </div>
+  </section>
+
+  <section class="container highlight-container">
+      <div class="block block--highlight block--highlight-grey">
+        <div class="content">
+          <h3>{{ .Params.howWorks.heading }}</h3>
+          <p>{{ partial "bodyMarkdown.html" .Params.howWorks.body }}</p>
+        </div>
+      </div>
+      <div class="block block--highlight block--highlight-orange">
+        <div class="content">
+          <h3>{{ .Params.whoIs.heading }}</h3>
+          <p>{{ partial "bodyMarkdown.html" .Params.whoIs.body }}</p>
+        </div>
+      </div>
   </section>
 </div>
   

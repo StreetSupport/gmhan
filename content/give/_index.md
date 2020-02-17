@@ -1,4 +1,5 @@
 ---
+title: Give |
 content:
   body: >-
     Giving money is one of the simplest and most effective ways you can make a

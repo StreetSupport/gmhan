@@ -1,0 +1,67 @@
+.event-container {
+  padding: 50px 0;
+  padding-left: 5%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  @media screen and (max-width: $bp-desktop) {
+    flex-direction: column;
+    align-items: center;
+    padding: 5px 10px ;
+    .event-card {
+      width: 80%;
+      padding: 10px 10px 25px 10px;
+      height: 300px;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .event-card {
+      width: 80%;
+      height: 300px;
+      text-align: center;
+    }
+  }
+}
+
+.event-card {
+  padding-left: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  flex: 0 0 28%;
+  transition: 0.3s;
+  position: relative;
+  margin: 20px;
+  height: 410px;
+  background: $gmhan-grey;
+  color: #fff;
+
+  .event-card__img {
+    height: 45%;
+    width: 80%;
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+  }
+
+  @media screen and (max-width: 980px) {
+    .event-card__img {
+      height: 80%;
+      width: 40%;
+      right: 5%;
+      bottom: 10%;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .event-card__img {
+      display: none;
+    }
+    .event-card {
+      margin-bottom: 5px;
+    }
+  }
+
+  .event-card__title {
+    padding-top: 10px;
+  }
+}

@@ -22,13 +22,13 @@ nav {
 
 @media screen and (max-width: 1260px){
   .nav-links {
-    width: 44%;
+    width: 48%;
   }
 }
 
 @media screen and (max-width: 1050px){
   .nav-links {
-    width: 50%;
+    width: 55%;
   }
 }
 
@@ -42,6 +42,11 @@ nav {
     letter-spacing: 1.5px;
     font-size: 12px;
     font-family: be vietnam;
+}
+
+.nav-links li:before {
+  content: " | ";
+  color: #FFB533;
 }
 
 .burger {

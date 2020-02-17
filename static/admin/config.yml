@@ -34,7 +34,7 @@ collections:
                 {label: "Card link", name: "cardLink", widget: "string"}
               ]}
             ]}
-          - {label: "Secondary call outs", name: "secondary", widget: "object", fields: [
+          - {label: "Learn more", name: "secondary", widget: "object", fields: [
               {label: "Button one", name: "buttonOne", widget: "object", fields: [
                 {label: "Button text", name: "buttonText", widget: "string"},
                 {label: "Button link", name: "Link", widget: "string"}
@@ -48,34 +48,6 @@ collections:
                 {label: "Button link", name: "Link", widget: "string"}
               ]}
             ]}
-      - file: "content/content-page/_index.md"
-        label: "News & Events"
-        name: "news-and-events"
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Highlight box top", name: "highlightTop", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Highlight box left", name: "highlightLeft", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Highlight box right", name: "highlightRight", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-      - file: "content/get-involved/_index.md"
-        label: "Get Involved"
-        name: "get-involved"
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
       - file: "content/about/_index.md"
         label: "About"
         name: "about"
@@ -104,11 +76,47 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown", required: "false"}
           ]}
-      - file: "content/contact/_index.md"
-        label: "Contact"
-        name: "contact"
+      - file: "content/give/_index.md"
+        label: "Give"
+        name: "give"
         fields:
           - {label: "Content", name: "content", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
+          - {label: "Highlight box top", name: "highlightTop", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Highlight box left", name: "highlightLeft", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Highlight box right", name: "highlightRight", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/get-involved/_index.md"
+        label: "Get Involved"
+        name: "get-involved"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/resources/_index.md"
+        label: "Resources"
+        name: "resources"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
+          - {label: "Uploads",
+            name: "uploads",
+            widget: "file",
+            default: "/uploads/general-manual.pdf",
+            media_library:
+              config:,
+                multiple: true
+          }

@@ -1,4 +1,5 @@
 ---
+title: Get involved |
 content:
   body: >-
     If you have lived experience of homelessness, or are involved with a project
@@ -44,11 +45,11 @@ content:
     2. **Give time or items**: go to key GMHAN member [Street
     Support](streetsupport.net) to see what volunteering opportunities or need
     for items there are in your area
-
-
-    ## Speak up!
-
-
+  heading: Get involved
+  
+speakUp:
+  heading: Speak up!
+  body: >-
     Homelessness and shortage of housing supply are political issues, meaning we
     need a political response as well as the excellent work on the ground across
     Greater Manchester, to come close to ending homelessness. **Everyone's**
@@ -93,12 +94,11 @@ content:
 
 
     Your local MP's details are available at:
-    [](http://www.theyworkforyou.com)[www.theyworkforyou.com](http://www.theyworkforyou.com)
+    [www.theyworkforyou.com](http://www.theyworkforyou.com)
 
 
     If you Iive in Greater Manchester you can contact the Greater Manchester
     Mayor at:
     [the.mayor@greatermanchester-ca.gov.uk](mailto:the.mayor@greatermanchester-ca.gov.uk)
-  heading: Get involved
 ---
 

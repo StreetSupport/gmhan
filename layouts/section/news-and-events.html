@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+<div id="main">
+
+  {{ with .Site.GetPage "Section" "news-and-events" }}
+  <section class="container">
+    <div class="content">
+      <h1 class="h1">{{ .Params.content.heading }}</h1>
+      <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
+    </div>
+  </section>
+  {{ end }}
+
+  <section class="section">
+    <div class="container event-container">
+  {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "news-and-events") }}
+    <div class="event-card">
+      <h3 class="event-card__title">{{ .Params.eventCard.name }}</h3>
+      <p>{{ .Params.eventCard.location }}</p>
+      <p>{{ .Params.eventCard.date }}</p>
+      <img class="event-card__img" src="https://source.unsplash.com/random" alt="">
+      <a href="{{ .Permalink }}">Learn more</a>
+    </div>
+  {{ end }}
+  </section>
+
+</div>
+  
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+{{ end }}
