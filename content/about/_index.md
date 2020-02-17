@@ -3,9 +3,7 @@ content:
   body: |-
     Paragraph of text if needed (delete if not)
 
-
-
-    ![](/assets/uploads/gmhan-logo.png)
+    ![]()
   heading: About The GMHAN
 whatIs:
   body: >-
@@ -33,7 +31,7 @@ whatIs:
     It also comes back the other way in a continual feedback loop. 
 
 
-    ![]()
+    ![](/assets/uploads/gmhan-logo.png)
 
 
     * Community Development and co-production are technical terms referring
