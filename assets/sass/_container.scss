@@ -1,7 +1,10 @@
 .container {
-  padding: 0 20%;
+  max-width: 1080px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 
-  @media (max-width: $bp-desktop) {
+  @media (min-width: $bp-desktop) {
     padding: 0 5%;
   }
 }
@@ -11,11 +14,15 @@
   justify-content: space-between;
   flex-basis: 0;
 
-  @media (max-width: $bp-desktop) {
+  @media (max-width: $bp-tablet) {
     flex-direction: column;
   }
 }
 
 .content {
   padding: 0 5%;
+}
+
+#main {
+  min-height: 100%;
 }

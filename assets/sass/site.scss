@@ -7,11 +7,13 @@
 @import 'home-hero';
 @import 'footer';
 @import 'container';
+@import 'news-and-events';
 
 body {
   margin: 0;
   padding: 0;
   font-family: 'be vietnam';
+  height: 100%;
 }
 
 *, *::before, *::after { box-sizing: border-box }
