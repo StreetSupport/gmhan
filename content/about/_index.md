@@ -1,6 +1,11 @@
 ---
 content:
-  body: Paragraph of text if needed (delete if not)
+  body: |-
+    Paragraph of text if needed (delete if not)
+
+
+
+    ![](/assets/uploads/gmhan-logo.png)
   heading: About The GMHAN
 whatIs:
   body: >-
