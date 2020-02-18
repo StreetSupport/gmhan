@@ -19,7 +19,7 @@
       <h3 class="event-card__title">{{ .Params.eventCard.name }}</h3>
       <p>{{ .Params.eventCard.location }}</p>
       <p>{{ .Params.eventCard.date }}</p>
-      <img class="event-card__img" src="https://source.unsplash.com/random" alt="">
+      <img class="event-card__img" src="{{ .Params.content.image }}" alt="">
       <a href="{{ .Permalink }}">Learn more</a>
     </div>
   {{ end }}
