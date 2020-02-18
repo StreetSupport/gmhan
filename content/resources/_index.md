@@ -1,4 +1,5 @@
 ---
+Title: Resources |
 content:
   body: >-
     The more knowledge we all have about what is going on to end homelessness,
