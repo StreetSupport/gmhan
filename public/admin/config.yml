@@ -1,8 +1,9 @@
 backend:
   name: git-gateway
+  branch: master
 
-media_folder: "hugo/static/assets/uploads"
-public_folder: "assets/uploads"
+media_folder: "/static/assets/uploads"
+public_folder: "/assets/uploads"
 
 collections:
   - name: "pages"
@@ -33,7 +34,7 @@ collections:
                 {label: "Card link", name: "cardLink", widget: "string"}
               ]}
             ]}
-          - {label: "Secondary call outs", name: "secondary", widget: "object", fields: [
+          - {label: "Learn more", name: "secondary", widget: "object", fields: [
               {label: "Button one", name: "buttonOne", widget: "object", fields: [
                 {label: "Button text", name: "buttonText", widget: "string"},
                 {label: "Button link", name: "Link", widget: "string"}
@@ -47,9 +48,37 @@ collections:
                 {label: "Button link", name: "Link", widget: "string"}
               ]}
             ]}
-      - file: "content/content-page/_index.md"
-        label: "News & Events"
-        name: "news-and-events"
+      - file: "content/about/_index.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Page title", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown", required: "false"}
+          ]}
+          - {label: "What is the GMHAN?", name: "whatIs", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown", required: "false"}
+          ]}
+          - {label: "How the board works", name: "howWorks", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown", required: "false"}
+          ]}
+          - {label: "Achieved so far", name: "whatHave", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown", required: "false"}
+          ]}
+          - {label: "Who is involved?", name: "whoIs", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown", required: "false"}
+          ]}
+          - {label: "Working on", name: "whatAre", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown", required: "false"}
+          ]}
+      - file: "content/give/_index.md"
+        label: "Give"
+        name: "give"
         fields:
           - {label: "Content", name: "content", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
@@ -75,19 +104,16 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-      - file: "content/about/_index.md"
-        label: "About"
-        name: "about"
+          - {label: "Speak Up", name: "speakUp", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "body", name: "body", widget: "markdown"}
+          ]}
+      - file: "content/resources/_index.md"
+        label: "Resources"
+        name: "resources"
         fields:
           - {label: "Content", name: "content", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-      - file: "content/contact/_index.md"
-        label: "Contact"
-        name: "contact"
-        fields:
-          - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
+          - {label: "Uploads", name: "uploads", widget: "file", default: "/uploads/general-manual.pdf", allow_multiple: "true"}

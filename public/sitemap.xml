@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/resources/</loc>
   </url>
   
   <url>
@@ -11,11 +11,31 @@
   </url>
   
   <url>
-    <loc>/contact/</loc>
+    <loc>/news-and-events/jims-story/</loc>
+  </url>
+  
+  <url>
+    <loc>/news-and-events/stuarts-story/</loc>
+  </url>
+  
+  <url>
+    <loc>/news-and-events/pats-story-copy/</loc>
+  </url>
+  
+  <url>
+    <loc>/news-and-events/pats-story/</loc>
   </url>
   
   <url>
     <loc>/get-involved/</loc>
+  </url>
+  
+  <url>
+    <loc>/give/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
   <url>
