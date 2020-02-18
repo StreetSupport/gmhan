@@ -1,9 +1,6 @@
 ---
+title: About |
 content:
-  body: |-
-    Paragraph of text if needed (delete if not)
-
-    ![]()
   heading: About The GMHAN
 whatIs:
   body: >-
