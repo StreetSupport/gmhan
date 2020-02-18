@@ -5,7 +5,7 @@ publishDate:
 eventCard:
   name: News Two
   location: Piccadilly, Manchester
-  date: 25/03/2020
+  eventDate: 25/03/2020
 content:
   heading: News Two
   body: >-
