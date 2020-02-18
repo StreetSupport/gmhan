@@ -61,6 +61,7 @@ nav {
   background-color: #e2a601;
   margin: 5px;
   transition: all 0.3s ease;
+  z-index: 20;
 }
 
 @media screen and (max-width: 800px){
@@ -69,12 +70,13 @@ nav {
     position: fixed;
     z-index: 2;
     right: 0px;
-    height: calc(100vh - 110px);
-    top: 94px;
+    height: 100vh;
+    top: 0;
+    margin: 0;
     background: #fff;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     width: 100%;
     transform: translateX(100%);
@@ -88,6 +90,7 @@ nav {
   }
   .burger {
     display: block;
+    z-index: 20;
   }
 }
 
