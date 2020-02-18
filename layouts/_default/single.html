@@ -2,8 +2,14 @@
 {{ partial "header.html" .Params.header }}
 
 <div id="main">
-  <h1 class="h1">{{ .Params.eventCard.name }}</h1>
-
+  <div class="container">
+    <div class="content">
+      <h1 class="h1">{{ .Params.content.heading }}</h1>
+      <p style="clear: left; overflow: auto;"></p>
+      <img class="event-image" src="{{ .Params.content.image }}" alt="">
+      <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
+    </div>
+  </div>
 </div>
 
 {{ $footer := .Site.GetPage "_footer.md" }}

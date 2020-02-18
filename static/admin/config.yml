@@ -108,6 +108,14 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "body", name: "body", widget: "markdown"}
           ]}
+      - file: "hugo/content/news-and-events/_index.md"
+        label: "News and Events"
+        name: "events"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown"}
+          ]}
       - file: "content/resources/_index.md"
         label: "Resources"
         name: "resources"
@@ -117,3 +125,24 @@ collections:
               {label: "Body", name: "body", widget: "markdown"}
           ]}
           - {label: "Uploads", name: "uploads", widget: "file", default: "/uploads/general-manual.pdf", allow_multiple: "true"}
+  - name: "news-and-events"
+    label: "News and events"
+    editor:
+      preview: false
+    folder: "/content/news-and-events"
+    create: true
+    filter: {field: "event", value: "yes"}
+    fields:
+      - {label: "Event", name: "event", widget: "hidden", default: "yes"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "publishDate", widget: "datetime"}
+      - {label: "Summary (Card displayed on news and events page)", name: "eventCard", widget: "object", fields: [
+          {label: "Heading", name: "heading", widget: "string"},
+          {label: "Sub-heading or Location (optional)", name: "location", widget: "string", required: false},
+          {label: "Date/Author (optional)", name: "eventDate", widget: "string", required: false}
+        ]}
+      - {label: "Content", name: "content", widget: "object", fields: [
+          {label: "Heading", name: "heading", widget: "string"},
+          {label: "Body", name: "body", widget: "markdown"},
+          {label: "Image (Aspect 3by2 - 1080px by 720px)", name: "image", widget: "image"}
+        ]}
