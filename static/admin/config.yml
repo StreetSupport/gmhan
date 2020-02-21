@@ -125,7 +125,7 @@ collections:
               {label: "Body", name: "body", widget: "markdown"}
           ]}
           - {label: "Upload file", name: "upload", widget: "object", fields: [
-          - {label: "Uploads", name: "uploads", widget: "file", default: "/uploads/general-manual.pdf", media_library: config: multiple: true}
+              {label: "Uploads", name: "uploads", widget: "file", default: "/uploads/general-manual.pdf", media_library: config: multiple: true}
           ]}
   - name: "news-and-events"
     label: "news/event"
