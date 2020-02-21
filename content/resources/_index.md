@@ -14,6 +14,7 @@ content:
 
     [This is a test pdf file](/assets/uploads/dummy.pdf)
   heading: Resources
-uploads: /assets/uploads/dummy.pdf
+upload:
+  uploads: /assets/uploads/dummy.pdf
 ---
 
