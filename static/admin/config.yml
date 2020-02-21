@@ -124,7 +124,7 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Uploads", name: "uploads", widget: "file", default: "/uploads/general-manual.pdf", allow_multiple: "true"}
+          - {label: "Uploads", name: "uploads", widget: "file", default: "/uploads/general-manual.pdf"}
   - name: "news-and-events"
     label: "news/event"
     editor:

@@ -27,10 +27,6 @@ whatIs:
     Programme Board and operational teams delivering services or interventions.
     It also comes back the other way in a continual feedback loop. 
 
-
-    ![](/assets/uploads/gmhan-logo.png)
-
-
     * Community Development and co-production are technical terms referring
     to....
   heading: What is the GMHAN?
