@@ -1,5 +1,4 @@
 ---
-Title: Resources |
 content:
   body: >-
     The more knowledge we all have about what is going on to end homelessness,
@@ -10,17 +9,8 @@ content:
     To help this, all publications, resources or papers relevant to ending
     homelessness in Greater Manchester will be published here. If you think
     anything is missing, contact us at hello@gmhan.net.
-
-
-    [This is a test pdf file](/assets/uploads/dummy.pdf)
   heading: Resources
 upload:
-  uploadsone: /assets/uploads/dummy.pdf
-  uploadstwo:
-  uploadsthree:
-  uploadsfour:
-  uploadsfive:
-  uploadssix:
-  uploadsseven:
+  uploadsone: ''
 ---
 
