@@ -15,6 +15,12 @@ content:
     [This is a test pdf file](/assets/uploads/dummy.pdf)
   heading: Resources
 upload:
-  uploads: /assets/uploads/dummy.pdf
+  uploadsone: /assets/uploads/dummy.pdf
+  uploadstwo:
+  uploadsthree:
+  uploadsfour:
+  uploadsfive:
+  uploadssix:
+  uploadsseven:
 ---
 
