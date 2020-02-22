@@ -12,5 +12,6 @@ content:
   heading: Resources
 upload:
   uploadsone: /assets/uploads/lemon.jpg
+  uploadstwo: /assets/uploads/Stitch-Practice.pdf
 ---
 
