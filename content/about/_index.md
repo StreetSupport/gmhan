@@ -1,18 +1,19 @@
 ---
 content:
-  body: |-
-    Viskas yra prasminga.\
-    Niekas prasmės neturi.\
-    Mato tasai, kas žiūri:\
-    aušta virš Vilniaus, sninga.\
-    Spengiančią įtampos tylą\
-    girdi tasai, kas klausos.\
-    Sninga vos vos. Ir rausvas\
-    brėkšmas danguj įskyla.\
-    Tai, kas ryškėja šį rytą –\
-    tūkstančius metų nokinta.\
-    Viskas yra užrakinta.\
-    Niekas neuždaryta.
+  body: >-
+    <!--StartFragment-->
+
+
+    *Tapo nebeįmanoma ignoruoti problemų, kurias sukelia vis didesnis išmetamų
+    atliekų kiekis, ir po truputėlį imtasi veiksmų joms spręsti. Europos
+    Parlamentas jau pritarė vienkartinių plastikinių daiktų draudimui,
+    įsigaliosiančiam nuo 2021-ųjų, o Lietuvoje garsiai nuskambėjo iniciatyva
+    Neringoje „Ne plastiko bangai“, kuria ši savivaldybė siekia sumažinti
+    vienkartinio plastiko naudojimą. Prie šios akcijos prisidėjo net ir prekybos
+    centrai, pakeitę plastikinius maišelius popieriniais.*
+
+
+    <!--EndFragment-->
   heading: About The GMHAN
 whatIs:
   body: >-
