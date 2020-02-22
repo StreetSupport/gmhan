@@ -1,6 +1,18 @@
 ---
-title: About |
 content:
+  body: |-
+    Viskas yra prasminga.\
+    Niekas prasmės neturi.\
+    Mato tasai, kas žiūri:\
+    aušta virš Vilniaus, sninga.\
+    Spengiančią įtampos tylą\
+    girdi tasai, kas klausos.\
+    Sninga vos vos. Ir rausvas\
+    brėkšmas danguj įskyla.\
+    Tai, kas ryškėja šį rytą –\
+    tūkstančius metų nokinta.\
+    Viskas yra užrakinta.\
+    Niekas neuždaryta.
   heading: About The GMHAN
 whatIs:
   body: >-
