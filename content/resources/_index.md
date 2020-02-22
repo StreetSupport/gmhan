@@ -11,6 +11,6 @@ content:
     anything is missing, contact us at hello@gmhan.net.
   heading: Resources
 upload:
-  uploadsone: ''
+  uploadsone: /assets/uploads/lemon.jpg
 ---
 
