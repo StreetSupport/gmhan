@@ -11,7 +11,7 @@ content:
     anything is missing, contact us at hello@gmhan.net.
   heading: Resources
 upload:
-  uploadsone: ''
-  uploadstwo: ''
+  uploadsone: /assets/uploads/lemo.jpg
+  uploadstwo: /assets/uploads/Stitch-Practice.pdf
 ---
 
