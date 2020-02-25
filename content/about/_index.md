@@ -58,9 +58,11 @@ howWorks:
     action:
 
 
-    -The Advisory Board has fortnightly 'Action Sessions' alongside more formal
-    'Accountability Meetings' for making decisions "Advisory Board components"
-  heading: How the Advisory Board works
+    \- Fortnightly 'Action Sessions' alongside 
+
+
+    \- More formal 'Accountability Meetings' for making decisions
+  heading: About the Advisory Board
 whatHave:
   body: >-
     The HAN has been established to achieve long-term systems change so that no
@@ -71,20 +73,20 @@ whatHave:
 
     * Co-produced a [Rough Sleeping Strategy](<link to resources>) for the city
 
-    * Taking the decision to deliver the Bed Every Night emergency shelter
-    scheme, which has halved rough sleeping in Greater Manchester.
+    * Made the decision to deliver the **Bed Every Night** **emergency shelter
+    scheme**, which has halved rough sleeping in Greater Manchester.
 
-    * Raising the question of family homelessness to the Programme Board Chaired
-    by the Mayor Andy Burnham to change the approach to how families are
-    supported in temporary accommodation
+    * Secured funding for **new pilots into family homelessness** by raising the
+    question of how families are supported in temporary accommodation
 
     * Shining the spotlight on youth homelessness, resulting in the development
-    of a second Social Impact Bond programme focused on this issue
+    of a **Youth Homelessness Social Impact Bond** programme focused on this
+    issue
 
-    * Supporting the evolution of a community night shelter in a local borough
-    into a formal commissioned partner of the Bed Every Night programme
+    * Supporting the evolution of a **community partnership project** in a local
+    borough to work alongside and secure funding from the local authority
 
-    * Informed the national asks made by the Mayor of Greater Manchester to
+    * Informed the **national asks** made by the Mayor of Greater Manchester to
     parties during the 2019 General Election
   heading: What have we achieved so far?
 whoIs:
@@ -100,14 +102,6 @@ whoIs:
     not a finite list, if you would like to be involved in the network, either
     by attending events or in the Advisory Board, you can find out more
     [**here**.](<mailto: contact us?>)
-
-
-    We are currently looking for people who represent the following areas or
-    backgrounds:
-
-
-    * \[Agreed list of locations and sector specialisms we'd like more
-    representation from]
   heading: Who is involved in the HAN?
 whatAre:
   body: >-
