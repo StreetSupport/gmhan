@@ -1,6 +1,5 @@
 ---
 content:
-  body: ''
   heading: About The GMHAN
 whatIs:
   body: >-

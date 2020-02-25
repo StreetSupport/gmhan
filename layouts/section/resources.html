@@ -15,6 +15,13 @@
       <p>{{ partial "bodyMarkdown.html" .Params.resources.uploads }}</p>
     </div>
   </section>
+
+  <section class="container">
+    <div class="content">
+      <h2 class="h2">{{ .Params.upload.heading }}</h2>
+      <p>{{ partial "bodyMarkdown.html" .Params.resources.uploads }}</p>
+    </div>
+  </section>  
   
 {{ $footer := .Site.GetPage "_footer.md" }}
 {{ partial "footer.html" (dict "footer" $footer) }}
