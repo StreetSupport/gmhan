@@ -1,3 +1,4 @@
+  
 backend:
   name: git-gateway
   branch: master
@@ -54,26 +55,27 @@ collections:
         fields:
           - {label: "Page title", name: "content", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
           - {label: "What is the GMHAN?", name: "whatIs", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
+              {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
           - {label: "How the board works", name: "howWorks", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
+              {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
           - {label: "Achieved so far", name: "whatHave", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
+              {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
           - {label: "Who is involved?", name: "whoIs", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
+              {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
           - {label: "Working on", name: "whatAre", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
+              {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
       - file: "content/give/_index.md"
         label: "Give"
@@ -112,7 +114,7 @@ collections:
         name: "events"
         fields:
           - {label: "Content", name: "content", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Heading", name: "heading", widget: "string", required: false},
               {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
       - file: "content/resources/_index.md"
@@ -124,7 +126,6 @@ collections:
               {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
           - {label: "Upload file (after you have uploaded the file, you can use it's link as a hyperlink anywhere on the site)", name: "upload", widget: "object", fields: [
-              {label: "List of publications", name: "body", widget: "markdown", required: false},
               {label: "Uploads", name: "uploadsone", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
               {label: "Uploads", name: "uploadstwo", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
               {label: "Uploads", name: "uploadsthree", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},

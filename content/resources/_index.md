@@ -11,10 +11,6 @@ content:
     anything is missing, contact us at hello@gmhan.net.
   heading: Resources
 upload:
-  heading: Publications
-  body: >-
-    type the name of the document in here and hyperlink using the link given after uploading a file
   uploadsone: ''
   uploadstwo: ''
 ---
-

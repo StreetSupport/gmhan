@@ -101,4 +101,3 @@ speakUp:
     Mayor at:
     [the.mayor@greatermanchester-ca.gov.uk](mailto:the.mayor@greatermanchester-ca.gov.uk)
 ---
-
