@@ -5,64 +5,87 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
+  @media screen and (max-width: 500px) {
+    flex-wrap: nowrap;
+  }
   @media screen and (max-width: $bp-desktop) {
     flex-direction: column;
     align-items: center;
     padding: 5px 10px ;
     .event-card {
       width: 80%;
-      padding: 10px 10px 25px 10px;
-      height: 300px;
+      flex-direction: row;
+    }
+    .event-card-img {
+      max-width: 60%;
+    }
+    .event-card-content {
+      text-align: centre;
+      padding-left: 20px;
     }
   }
-  @media screen and (max-width: 480px) {
+
+  @media screen and (max-width: 610px) {
     .event-card {
-      width: 80%;
-      height: 300px;
-      text-align: center;
+      width: 90%;
+    }
+  }
+
+  @media screen and (max-width: 500px) {
+    .event-card {
+      width: 95%;
+      flex-direction: column;
+      height: 200px;
+    }
+    .event-card-content {
+      padding-left: 0!important;
+    }
+    .event-card-img {
+      display: none;
     }
   }
 }
 
 .event-card {
-  padding-left: 20px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column;
   flex: 0 0 28%;
   transition: 0.3s;
   position: relative;
   margin: 20px;
-  height: 410px;
+  height: 360px;
   background: $gmhan-grey;
   color: #fff;
 
-  .event-card__img {
-    height: 45%;
-    width: 80%;
-    position: absolute;
-    right: 10%;
-    bottom: 5%;
+  .event-card-content {
+    text-align: center;
+    padding-top: 20px;
+    h3 {
+      margin: 0;
+    }
+  }
+
+  .event-card-img {
+    width: 100%;
+    padding: 20px;
+    float: right;
+
+    img {
+      max-width:100%;
+      max-height:100%;
+    }
   }
 
   @media screen and (max-width: 980px) {
-    .event-card__img {
-      height: 80%;
-      width: 40%;
-      right: 5%;
-      bottom: 10%;
+    .event-card-content {
+      padding: 10px 0 10px 20px;
+      text-align: center;
+      margin: auto 0;
     }
-  }
-
-  @media screen and (max-width: 480px) {
-    .event-card__img {
-      display: none;
+    .event-card-img {
+      margin-top: auto;
+      margin-bottom: auto;
     }
-    .event-card {
-      margin-bottom: 5px;
-    }
-  }
-
-  .event-card__title {
-    padding-top: 15px;
-    max-width: 200px;
   }
 }

@@ -4,12 +4,10 @@
 <div id="main">
   <div class="container">
     <div class="content">
-      <div class="event-content">
-        <h1 class="h1">{{ .Params.content.heading }}</h1>
-        <p style="clear: left; overflow: auto;"></p>
-        <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
-      </div>
+      <h1 class="h1">{{ .Params.content.heading }}</h1>
+      <p style="clear: left; overflow: auto;"></p>
       <img class="event-image" src="{{ .Params.content.image }}" alt="">
+      <p>{{ partial "bodyMarkdown.html" .Params.content.body }}</p>
     </div>
   </div>
 </div>
