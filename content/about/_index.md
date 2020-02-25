@@ -58,10 +58,13 @@ howWorks:
     action:
 
 
-    \- Fortnightly 'Action Sessions' alongside 
+    \- Fortnightly 'Action Sessions'
 
 
     \- More formal 'Accountability Meetings' for making decisions
+
+
+    ![]()
   heading: About the Advisory Board
 whatHave:
   body: >-
