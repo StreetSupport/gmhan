@@ -45,6 +45,6 @@ content:
     mollis mi et erat consectetur posuere. Donec egestas neque ut lobortis
     euismod. Praesent tellus magna, efficitur at dapibus at, pharetra et neque.
   heading: event
-  image: /assets/uploads/mcr.jpg
+  image: /assets/uploads/placeholder2.jpeg
 ---
 
