@@ -4,7 +4,8 @@ title: News
 publishDate: 2020-02-25T18:39:15.079Z
 eventCard:
   location: this is some news
-  name: 'News News News News '
+  name: 'News News News News'
+  date: 21/05/2020
 content:
   body: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis consectetur
@@ -44,6 +45,6 @@ content:
     mollis mi et erat consectetur posuere. Donec egestas neque ut lobortis
     euismod. Praesent tellus magna, efficitur at dapibus at, pharetra et neque.
   heading: news
-  image: /assets/uploads/snowy-top-of-krivan-mountain-1080x720.jpg
+  image: /assets/uploads/test-img.jpg
 ---
 
