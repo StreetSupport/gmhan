@@ -58,8 +58,7 @@ howWorks:
     action:
 
 
-    ![Advisory Board meetings](/assets/uploads/Advisory Board breakdown.png
-    "Advisory Board activities")
+    ![Advisory Board meetings]( "Advisory Board activities")
   heading: About the Advisory Board
 whatHave:
   body: >-
