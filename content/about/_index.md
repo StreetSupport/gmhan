@@ -9,25 +9,22 @@ whatIs:
     ambition, so we can work together towards a common cause. 
 
 
-    We does this through large scale quarterly events aimed at co-designing
-    Greater Manchester's homelessness policy and showcasing best practice. We
-    also have an Advisory Board to work on topics raised in between events and
-    promote the Network's voice on the GM Homelessness Programme Board (which is
-    where decisions are made). 
+    We does this through large scale **quarterly events** aimed at co-designing
+    Greater Manchester's homelessness **policy** and showcasing **best
+    practice.** We also have an Advisory Board to work on topics raised in
+    between events and promote the Network's voice on the GM Homelessness
+    Programme Board (where final decisions are made).
 
 
     The Network is cross sector, including representatives from all ten Greater
-    Manchester boroughs. Most importantly, it operated on the basis of
-    'community development' and co-production*, bringing people together to work
+    Manchester boroughs. Most importantly, it operates on the basis of
+    'community development' and co-production, bringing people together to work
     side by side rather than alone or in hierarchies.
 
 
     Information flows from the Network events through the Advisory Board to the
     Programme Board and operational teams delivering services or interventions.
-    It also comes back the other way in a continual feedback loop. 
-
-    * Community Development and co-production are technical terms referring
-    to....
+    It also comes back the other way in a continual feedback loop.
   heading: What is the GMHAN?
 howWorks:
   body: >-
