@@ -11,6 +11,7 @@ content:
     anything is missing, contact us at hello@gmhan.net.
   heading: Resources
 uploads:
+  heading: Publications
   body: |-
     this is the section where links to useful pdf files will be included
 
