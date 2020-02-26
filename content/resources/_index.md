@@ -37,7 +37,8 @@ uploads:
     Paper](https://www.greatermanchester-ca.gov.uk/media/1676/greater-manchester-model.pdf)
 
 
-    GM Mental Health Housing & Mental Health Strategy
+    [GM Mental Health Housing & Mental Health
+    Strategy](https://gmhan.netlify.com/assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf)
 
 
     **External**
@@ -55,6 +56,7 @@ uploads:
 
     [With One Voice 'Jigsaw of Homelessness
     Support'](http://www.with-one-voice.com/jigsaw-homeless-support)
+  uploadsfour: /assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf
   uploadsone: /assets/uploads/3_3_20-gmhan-full-meeting-agenda.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
