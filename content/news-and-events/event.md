@@ -3,8 +3,8 @@ event: 'yes'
 title: GMHP Homelessness Group
 publishDate: 2020-02-25T18:39:15.079Z
 eventCard:
-  date: tbc
-  location: tbc
+  date: ''
+  location: location and time tbc
   name: GM Housing Providers Homelessness Task Group
 content:
   body: >-
