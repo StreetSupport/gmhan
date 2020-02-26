@@ -24,6 +24,6 @@ content:
 
     [Agenda](/resources) is available on the resources page.
   heading: GMHAN Full Network Meeting
-  image: ''
+  image: /assets/uploads/han-event-ab.jpg
 ---
 
