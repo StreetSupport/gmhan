@@ -42,8 +42,8 @@ content:
     ending homelessness [here](/give)
 
     2. **Give time or items**: go to key GMHAN member [Street
-    Support](streetsupport.net) to see what volunteering opportunities or need
-    for items there are in your area
+    Support](https://streetsupport.net) to see what volunteering opportunities
+    or need for items there are in your area
   heading: Get involved
 speakUp:
   body: >2-
