@@ -1,13 +1,11 @@
 ---
 event: 'yes'
-title: GM Housing First Co-production panel is recruiting
+title: 'NEWS: GM Housing First Co-production panel is recruiting'
 publishDate: 2020-02-25T18:39:15.079Z
 eventCard:
-  date: ''
-  location: >-
-    Join the Housing First co-production panel and use your experience of
-    homelessness to change the system
-  name: ''
+  date: 'Matt Kidd, Creative Inclusion'
+  location: ''
+  name: 'NEWS: GM Housing First Co-production panel is recruiting'
 content:
   body: >-
     The Housing First Co-production panel is expanding and needs new members.
