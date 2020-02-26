@@ -12,6 +12,9 @@ content:
   heading: Resources
 uploads:
   body: >-
+    **From the Network**
+
+
     [3/3/20 Full Network Meeting
     Agenda](https://gmhan.netlify.com/assets/uploads/3_3_20-gmhan-full-meeting-agenda.pdf)
 
@@ -21,6 +24,37 @@ uploads:
 
 
     [GMHAN National Asks](/assets/uploads/gmhan-national-asks.pdf)
+
+
+    [GMHAN Rough Sleeping Action
+    Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)
+
+
+    **Greater Manchester**
+
+
+    [Public Service Reform White
+    Paper](https://www.greatermanchester-ca.gov.uk/media/1676/greater-manchester-model.pdf)
+
+
+    GM Mental Health Housing & Mental Health Strategy
+
+
+    **External**
+
+
+    [Tackling the homelessness crisis: Why and how you should fund systemically
+    (NPC)](https://www.thinknpc.org/resource-hub/tackling-the-homelessness-crisis-why-and-how-you-should-fund-systemically/)
+
+
+    [Centre for Homelessness Impact](https://www.homelessnessimpact.org)
+
+
+    [Institute for Global Homelessness](https://ighhub.org)
+
+
+    [With One Voice 'Jigsaw of Homelessness
+    Support'](http://www.with-one-voice.com/jigsaw-homeless-support)
   uploadsone: /assets/uploads/3_3_20-gmhan-full-meeting-agenda.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
