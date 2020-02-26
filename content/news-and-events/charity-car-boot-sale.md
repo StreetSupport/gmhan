@@ -20,6 +20,9 @@ content:
     All welcome, including people with lived experience, frontline workers,
     service managers or those with a research/academic interest in ending
     homelessness.
+
+
+    [Agenda](/resources) is available on the resources page.
   heading: GMHAN Full Network Meeting
   image: ''
 ---
