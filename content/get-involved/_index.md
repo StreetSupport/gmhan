@@ -47,7 +47,7 @@ content:
   heading: Get involved
 speakUp:
   body: >2-
-     Homelessness and shortage of housing supply are political issues, meaning we need a political response as well as the excellent work on the ground across Greater Manchester, to come close to ending homelessness. **Everyone's** voice counts in raising these issues with decision makers. So what can you do and who can you speak to?
+     Homelessness and shortage of housing supply are political issues, meaning we need a political response as well as the excellent work on the ground across Greater Manchester, to come close to ending homelessness. **Everyone's** **voice counts** in raising these issues with decision makers. So what can you do and who can you speak to?
 
     Various levels of government have responsibility for homelessness:
 
@@ -68,7 +68,7 @@ speakUp:
     outreach services as well as funding for local homelessness support
     charities.
 
-    * Regional Government (in areas with Combined Authorities like Greater
+    * **Regional Government** (in areas with Combined Authorities like Greater
     Manchester), have limited responsibility for homelessness, but their elected
     Mayors have taken a political responsibility for making sure the issues
     surrounding homelessness are focused on locally. For the first time,
@@ -80,10 +80,9 @@ speakUp:
 
     You can contact your elected representatives, across all levels of
     government, to ensure they are keeping housing and the issues surrounding
-    homelessness at the top of their political agenda. You can use our
-    '[priorities for action](<link to resources>)'  as a guide or just tell them
-    how you feel about homelessness and your experiences of being unhoused in
-    their area.
+    homelessness at the top of their political agenda. You can use our 'National
+    Asks'  as a guide or just tell them how you feel about homelessness and your
+    experiences of being unhoused in their area.
 
 
     You can find your local Councillors and their contact details at:
