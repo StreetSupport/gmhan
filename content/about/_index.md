@@ -25,10 +25,6 @@ whatIs:
     Information flows from the Network events through the Advisory Board to the
     Programme Board and operational teams delivering services or interventions.
     It also comes back the other way in a continual feedback loop. 
-
-
-    ![Homeless Action Network structure](/assets/uploads/GMHAN structure.png
-    "Homeless Action Network structure")
   heading: What is the GMHAN?
 howWorks:
   body: >-
@@ -56,10 +52,6 @@ howWorks:
 
     The Advisory Board has two components which reflect its dual functions of
     action:
-
-
-    ![Advisory Board functions](/assets/uploads/Advisory Board breakdown.png
-    "Advisory Board functions")
   heading: How the Advisory Board works
 whatHave:
   body: >-

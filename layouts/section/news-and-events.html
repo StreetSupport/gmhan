@@ -17,7 +17,7 @@
   {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "news-and-events") }}
     <div class="event-card">
       <div class="event-card-content">
-        <h3 class="event-card__title">{{ .Params.eventCard.name }}</h3>
+        <h3><a class=" h3 event-card__title" href="{{ .Permalink }}">{{ .Params.eventCard.name }}</a></h3>
         <p>{{ .Params.eventCard.location }}</p>
         <p>{{ .Params.eventCard.date }}</p>
         <a href="{{ .Permalink }}">Learn more</a>
