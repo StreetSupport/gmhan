@@ -50,8 +50,8 @@ howWorks:
     and geographical areas.
 
 
-    The Terms of Reference for the Board are available **[here](<link resources
-    page Terms of Reference doc>).**
+    The Terms of Reference for the Advisory Board is available **[here](<link
+    resources page Terms of Reference doc>).**
 
 
     The Advisory Board has two components which reflect its dual functions of
