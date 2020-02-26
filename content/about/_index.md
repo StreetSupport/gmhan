@@ -50,8 +50,8 @@ howWorks:
     and geographical areas.
 
 
-    The Terms of Reference for the Advisory Board is available **[here](<link
-    resources page Terms of Reference doc>).**
+    The Terms of Reference for the Advisory Board is available
+    **[here](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf).**
 
 
     The Advisory Board has two components which reflect its dual functions of
@@ -69,8 +69,9 @@ whatHave:
     include:
 
 
-    * Co-producing a **[Rough Sleeping Strategy](<link to resources>)** for the
-    city.
+    * Co-producing a **[Rough Sleeping Action
+    Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)**
+    for the city.
 
     * Taking the decision to deliver the **Bed Every Night emergency shelter
     scheme**, which has halved rough sleeping in Greater Manchester.
