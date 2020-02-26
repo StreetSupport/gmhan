@@ -11,13 +11,11 @@
   </section>
 
   <section class="container">
-    <div class="content">
-      <h2 class="h2">{{ .Params.resources.heading }}</h2>
-      <p>{{ partial "bodyMarkdown.html" .Params.resources.uploads }}</p>
-      <h2 class="h2">{{ .Params.uploads.heading }}</h2>
+    <div class="block block--highlight block--highlight-grey block--publications">
+      <h2 class="h2">Publications</h2>
       <p>{{ partial "bodyMarkdown.html" .Params.uploads.body }}</p>
     </div>
-  </section>
+</section>
   
 {{ $footer := .Site.GetPage "_footer.md" }}
 {{ partial "footer.html" (dict "footer" $footer) }}
