@@ -1,5 +1,4 @@
 ---
-title: Give |
 content:
   body: >-
     Giving money is one of the simplest and most effective ways you can make a
@@ -14,7 +13,7 @@ highlightTop:
     the streets or avoid ending up there in the first place.
 
 
-    * [Real Change Wigan & Leigh](https://realchangewigan.co.uk)
+    * [Real Change Wigan & Leigh](https://realchangewiganandleigh.co.uk)
 
     * [Real Change Rochdale](https://realchangerochdale.co.uk)
 
