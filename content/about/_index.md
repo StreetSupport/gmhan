@@ -51,7 +51,7 @@ howWorks:
 
 
     The Terms of Reference for the Board are available **[here](<link resources
-    page Terms of Reference doc>):**
+    page Terms of Reference doc>).**
 
 
     The Advisory Board has two components which reflect its dual functions of
@@ -69,23 +69,24 @@ whatHave:
     include:
 
 
-    * Co-produced a [Rough Sleeping Strategy](<link to resources>) for the city
+    * Co-producing a **[Rough Sleeping Strategy](<link to resources>)** for the
+    city.
 
-    * Taking the decision to deliver the Bed Every Night emergency shelter
-    scheme, which has halved rough sleeping in Greater Manchester.
+    * Taking the decision to deliver the **Bed Every Night emergency shelter
+    scheme**, which has halved rough sleeping in Greater Manchester.
 
-    * Raising the question of family homelessness to the Programme Board Chaired
-    by the Mayor Andy Burnham to change the approach to how families are
-    supported in temporary accommodation
+    * Securing funding for a **homeless families scheme** by highlighting the
+    issue with Mayor Andy Burnham and the GM Programme Board.
 
     * Shining the spotlight on youth homelessness, resulting in the development
-    of a second Social Impact Bond programme focused on this issue
+    of a **Youth Homelessness Social Impact Bond** programme focused on this
+    issue.
 
-    * Supporting the evolution of a community night shelter in a local borough
-    into a formal commissioned partner of the Bed Every Night programme
+    * Supporting the evolution of a **community partnership** within a a local
+    borough to work alongside and receive funding from the Local Authority.
 
-    * Informed the national asks made by the Mayor of Greater Manchester to
-    parties during the 2019 General Election
+    * Informed the **national political asks** made by the Mayor of Greater
+    Manchester to parties during the 2019 General Election
   heading: What have we achieved so far?
 whoIs:
   body: >-
@@ -103,11 +104,22 @@ whoIs:
 
 
     We are currently looking for people who represent the following areas or
-    backgrounds:
+    knowledge:
 
 
-    * \[Agreed list of locations and sector specialisms we'd like more
-    representation from]
+    * Wigan & Leigh
+
+    * Salford
+
+    * Trafford
+
+    * Stockport
+
+    * Tameside
+
+    * Bury
+
+    * Criminal Justice
   heading: Who is involved in the HAN?
 whatAre:
   body: >-
