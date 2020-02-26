@@ -30,6 +30,8 @@ uploads:
     Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)
 
 
+
+
     **Greater Manchester**
 
 
@@ -39,6 +41,8 @@ uploads:
 
     [GM Mental Health Housing & Mental Health
     Strategy](https://gmhan.netlify.com/assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf)
+
+
 
 
     **External**
