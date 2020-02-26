@@ -80,8 +80,10 @@ speakUp:
 
     You can contact your elected representatives, across all levels of
     government, to ensure they are keeping housing and the issues surrounding
-    homelessness at the top of their political agenda. You can use our 'National
-    Asks'  as a guide or just tell them how you feel about homelessness and your
+    homelessness at the top of their political agenda. You can use our
+    '[National
+    Asks](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf)' 
+    as a guide or just tell them how you feel about homelessness and your
     experiences of being unhoused in their area.
 
 
