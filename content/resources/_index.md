@@ -8,10 +8,10 @@ content:
 
     To help this, all publications, resources or papers relevant to ending
     homelessness in Greater Manchester will be published here. If you think
-    anything is missing, contact us at hello@gmhan.net.
+    anything is missing, contact us at [info@gmhan.net](mailto:info@gmhan.net).
   heading: Resources
 uploads:
-  body: this is the section where links to useful pdf files will be included
+  body: resource list
   uploadsone: ''
   uploadstwo: ''
 ---
