@@ -13,7 +13,7 @@ content:
 uploads:
   body: >-
     [3/3/20 Full Network Meeting
-    Agenda](/assets/uploads/3_3_20-gm…-full-meeting-agenda.pdf)
+    Agenda](https://gmhan.netlify.com/assets/uploads/3_3_20-gmhan-full-meeting-agenda.pdf)
   uploadsone: /assets/uploads/3_3_20-gmhan-full-meeting-agenda.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
