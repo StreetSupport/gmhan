@@ -100,8 +100,8 @@ whoIs:
 
     We are constantly working to develop the network and its members so this is
     not a finite list, if you would like to be involved in the network, either
-    by attending events or in the Advisory Board, you can find out more
-    [**here**.](<mailto: contact us?>)
+    by attending events or in the Advisory Board, contact us on
+    [info@gmhan.ne](mailto:info@gmhan.net)t.
 
 
     We are currently looking for people who represent the following areas or
