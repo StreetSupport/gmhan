@@ -3,17 +3,17 @@ content:
   heading: About The GMHAN
 whatIs:
   body: >-
-    The Greater Manchester Homelessness Action Network (GMHAN) is a network for
+    The Greater Manchester Homeless Action Network (GMHAN) is a network for
     everyone working to end homelessness in Greater Manchester. The Network
     brings together all the different sectors and specialisms involved in this
     ambition, so we can work together towards a common cause. 
 
 
-    We does this through large scale quarterly events aimed at co-designing
-    Greater Manchester's homelessness policy and showcasing best practice. We
-    also have an Advisory Board to work on topics raised in between events and
-    promote the Network's voice on the GM Homelessness Programme Board (which is
-    where decisions are made). 
+    We do this through large scale **events** every 3 months aimed at
+    co-designing Greater Manchester's homelessness **policy** and showcasing
+    **best practice.** We also have an Advisory Board to work on topics raised
+    in between events and promote the Network's voice on the GM Homelessness
+    Programme Board (which is where decisions are made). 
 
 
     The Network is cross sector, including representatives from all ten Greater
@@ -26,8 +26,9 @@ whatIs:
     Programme Board and operational teams delivering services or interventions.
     It also comes back the other way in a continual feedback loop. 
 
-    * Community Development and co-production are technical terms referring
-    to....
+
+    ![Homeless Action Network structure](/assets/uploads/GMHAN structure.png
+    "Homeless Action Network structure")
   heading: What is the GMHAN?
 howWorks:
   body: >-
@@ -35,7 +36,7 @@ howWorks:
     across homelessness and interconnected issues within Greater Manchester.
 
 
-    Members are anyone interested in taking a more active role in the
+    Members include anyone interested in taking a more active role in the
     organisation of the GMHAN and in strengthening a community development
     approach to ending homelessness.
 
@@ -57,8 +58,8 @@ howWorks:
     action:
 
 
-    -The Advisory Board has fortnightly 'Action Sessions' alongside more formal
-    'Accountability Meetings' for making decisions "Advisory Board components"
+    ![Advisory Board functions](/assets/uploads/Advisory Board breakdown.png
+    "Advisory Board functions")
   heading: How the Advisory Board works
 whatHave:
   body: >-
@@ -120,3 +121,4 @@ whatAre:
     - watch this space!
   heading: What are we working on this year?
 ---
+
