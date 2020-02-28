@@ -52,6 +52,23 @@ howWorks:
 
     The Advisory Board has two components which reflect its dual functions of
     action:
+
+
+    **Action Sessions**
+
+
+    Members with live actions meet every two weeks to sort out anything which
+    needs to be done, including communications to the Network, co-designing
+    network events and supporting local partnership developments.
+
+
+    **Accountability Meetings**
+
+
+    All Advisory Board members meet every two months to consider the overall
+    direction and take key decisions on the basis of feedback from the Network.
+    This is also a chance to update and inform others about relevant activities
+    within each member's area of expertise and experience.
   heading: How the Advisory Board works
 whatHave:
   body: >-
