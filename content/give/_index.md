@@ -20,15 +20,8 @@ highlightTop:
 
 
     * **[DONATE](https://donate.thebiggive.org.uk/campaign/a051r00001LjKtPAAV)**
-    to people  in Rochdale through [Real Change
-    Rochdale](https://realchangerochdale.co.uk)
-
-
-
-    * **[DONATE](https://www.gofundme.com/f/real-change-oldham?member=2251952)**
-    to people  in Oldham through [Real Change
-    Oldham](https://realchangeoldham.co.uk)  **
-    [](https://www.gofundme.com/f/real-change-oldham?member=2251952)**
+    to people  in Rochdale through [](https://realchangerochdale.co.uk)[Real
+    Change Rochdale](www.realchangerochdale.co.uk)
 
 
 
@@ -36,6 +29,7 @@ highlightTop:
     **[DONATE](https://www.justgiving.com/campaigns/charity/forevermanchester/bigchangemcr)**
     to people in Manchester through [Big Change
     Mcr](http://bigchangemcr.co.uk/)   
+
 
 
 
