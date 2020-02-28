@@ -110,7 +110,7 @@ whoIs:
     We are constantly working to develop the network and its members so this is
     not a finite list, if you would like to be involved in the network, either
     by attending events or in the Advisory Board, contact us on
-    [info@gmhan.ne](mailto:info@gmhan.net)t.
+    [info@gmhan.net](mailto:info@gmhan.net).
 
 
     We are currently looking for people who represent the following areas or
