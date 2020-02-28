@@ -13,13 +13,17 @@ highlightTop:
     the streets or avoid ending up there in the first place.
 
 
-    * [Real Change Wigan & Leigh](https://realchangewiganandleigh.co.uk)
+    * [Real Change Wigan & Leigh](https://realchangewiganandleigh.co.uk)  
+    **[DONATE](https://www.justgiving.com/campaign/realchangewiganandleigh)**
 
-    * [Real Change Rochdale](https://realchangerochdale.co.uk)
+    * [Real Change Rochdale](https://realchangerochdale.co.uk)  
+    **[DONATE](https://donate.thebiggive.org.uk/campaign/a051r00001LjKtPAAV)**
 
-    * [Real Change Oldham](https://realchangeoldham.co.uk)
+    * [Real Change Oldham](https://realchangeoldham.co.uk)  **
+    [DONATE](https://www.gofundme.com/f/real-change-oldham?member=2251952)**
 
-    * [Big Change Manchester](http://bigchangemcr.co.uk/)
+    * [Big Change Manchester](http://bigchangemcr.co.uk/)  
+    **[DONATE](https://www.justgiving.com/campaigns/charity/forevermanchester/bigchangemcr)**
 
     * [Destitute Migrant Relief
     Fund](https://streetsupport.net/manchester/migrant-destitution-fund/)
