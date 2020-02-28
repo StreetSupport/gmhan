@@ -19,9 +19,7 @@ highlightTop:
 
 
 
-    * **[DONATE](https://donate.thebiggive.org.uk/campaign/a051r00001LjKtPAAV)**
-    to people  in Rochdale through [](https://realchangerochdale.co.uk)[Real
-    Change Rochdale](www.realchangerochdale.co.uk)
+    * **DONATE** to people  in Rochdale through Real Change Rochdale
 
 
 
