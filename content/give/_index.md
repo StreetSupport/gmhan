@@ -13,8 +13,9 @@ highlightTop:
     the streets or avoid ending up there in the first place.
 
 
-    * [Real Change Wigan & Leigh](https://realchangewiganandleigh.co.uk)  
-    **[DONATE](https://www.justgiving.com/campaign/realchangewiganandleigh)**
+    * **[DONATE](https://www.justgiving.com/campaign/realchangewiganandleigh)**
+    to people who are homeless through [Real Change Wigan & Leigh 
+    ](www.realchangewiganandleigh.co.uk) 
 
     * [Real Change Rochdale](https://realchangerochdale.co.uk)  
     **[DONATE](https://donate.thebiggive.org.uk/campaign/a051r00001LjKtPAAV)**
