@@ -1,6 +1,6 @@
 ---
 event: 'yes'
-title: GMHAN Full Meeting
+title: GMHAN Full Meeting May
 publishDate: 2020-03-04T12:52:13.187Z
 eventCard:
   name: Join us for the next Homeless Action Network meeting
