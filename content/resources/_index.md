@@ -23,6 +23,9 @@ uploads:
     Notes](https://www.gmhan.net/assets/uploads/greater-manchester-homelessness-action-network-3.pdf)
 
 
+    [Potential Next Steps](/assets/uploads/gmhan-next-steps.pdf)
+
+
     [HAN Schedule 2020](/assets/uploads/han-2020-schedule.pdf)
 
 
@@ -69,4 +72,5 @@ uploads:
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
   uploadssix: /assets/uploads/advisory-board-agenda-10.3.20-2.pdf
+  uploadsseven: /assets/uploads/gmhan-next-steps.pdf
 ---
