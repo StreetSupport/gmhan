@@ -16,7 +16,7 @@ uploads:
 
 
     [3/3/20 Full Network Meeting
-    Agenda](https://gmhan.netlify.com/assets/uploads/3_3_20-gmhan-full-meeting-agenda.pdf)
+    Notes](https://www.gmhan.net/assets/uploads/greater-manchester-homelessness-action-network-3.pdf)
 
 
     [HAN Schedule 2020](/assets/uploads/han-2020-schedule.pdf)
@@ -60,7 +60,7 @@ uploads:
     [With One Voice 'Jigsaw of Homelessness
     Support'](http://www.with-one-voice.com/jigsaw-homeless-support)
   uploadsfour: /assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf
-  uploadsone: /assets/uploads/3_3_20-gmhan-full-meeting-agenda.pdf
+  uploadsone: /assets/uploads/greater-manchester-homelessness-action-network-3.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
