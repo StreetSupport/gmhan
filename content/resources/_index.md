@@ -15,6 +15,10 @@ uploads:
     **From the Network**
 
 
+    [10/3/20 Advisory Board
+    Agenda](https://www.gmhan.net/assets/uploads/advisory-board-agenda-10.3.20-2.pdf)
+
+
     [3/3/20 Full Network Meeting
     Notes](https://www.gmhan.net/assets/uploads/greater-manchester-homelessness-action-network-3.pdf)
 
@@ -64,4 +68,5 @@ uploads:
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
+  uploadssix: /assets/uploads/advisory-board-agenda-10.3.20-2.pdf
 ---
