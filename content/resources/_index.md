@@ -12,6 +12,15 @@ content:
   heading: Resources
 uploads:
   body: >-
+    **Covid-19 latest**
+
+
+    [Update from GMCA - Tues 24th
+    March](/assets/uploads/important-update-from-gmca.docx)
+
+
+
+
     **From the Network**
 
 
@@ -71,6 +80,6 @@ uploads:
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
-  uploadssix: /assets/uploads/advisory-board-agenda-10.3.20-2.pdf
+  uploadssix: /assets/uploads/important-update-from-gmca.docx
   uploadsseven: /assets/uploads/gmhan-next-steps.pdf
 ---
