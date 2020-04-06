@@ -6,7 +6,7 @@ eventCard:
   name: >-
     Open Call: Apply to be a Theatre and Community Action facilitator with the
     GMHAN!
-  date: Weds 25th March
+  date: Weds 15th April
   location: '*Please share with folks in your community who might be interested*'
 content:
   body: >-
