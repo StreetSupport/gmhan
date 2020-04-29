@@ -50,6 +50,9 @@ uploads:
     [Dual Diagnosis cov-19 advice](https://drive.google.com/file/d/1nZP6F7Km5rwMm8d5NreyNYfiqM_DOg39/view?usp=sharing)
 
 
+    [Health Services for people with a Salford Connection](https://drive.google.com/file/d/1-X_sw69xlI1Sxl72q80wfVFRZe1UORPI/view?usp=sharing)
+
+
     **From the Network**
 
 
