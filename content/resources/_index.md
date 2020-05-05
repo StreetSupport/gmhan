@@ -17,34 +17,28 @@ uploads:
     **Covid response**
 
 
-    [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing)
-
-
-    [Local Council Food Response Leads](https://drive.google.com/file/d/11RM_B7NEMuzU5BCHP2vgKW09q3f0JBNi/view?usp=sharing)
-
-
-    [Hostel Coronavirus Info Pack](https://drive.google.com/file/d/16celNlOsddl-7HmzuSER4qbu8t2HV6z3/view?usp=sharing)
-
-
-    [GM Voluntary Agencies Matrix](https://drive.google.com/file/d/1y4jHihWsXCF2Zup25z03uupYAKX3KlR_/view?usp=sharing)
-
-
-    [Frontline Staff Information Booklet](https://drive.google.com/file/d/1dWUAMiU9MAjC-nXOzuAvA-KJbIxUBcet/view?usp=sharing)
-
-
     [Covid 19 Update - Manchester City Council](https://drive.google.com/file/d/17rMzmmR6G5yccYV0tlPrydlwSrhjAPwj/view?usp=sharing)
 
 
     [Emergency Hotel Provision Service Model](https://www.riverside.org.uk/wp-content/uploads/2020/04/Emergency-hotel-provision-service-model-FINAL.pdf)
 
 
+    [Frontline Staff Information Booklet](https://drive.google.com/file/d/1dWUAMiU9MAjC-nXOzuAvA-KJbIxUBcet/view?usp=sharing)
+
+
+    [GM Voluntary Agencies Matrix](https://drive.google.com/file/d/1y4jHihWsXCF2Zup25z03uupYAKX3KlR_/view?usp=sharing)
+
+
+    [Hostel Coronavirus Info Pack](https://drive.google.com/file/d/16celNlOsddl-7HmzuSER4qbu8t2HV6z3/view?usp=sharing)
+
+
+    [Local Council Food Response Leads](https://drive.google.com/file/d/11RM_B7NEMuzU5BCHP2vgKW09q3f0JBNi/view?usp=sharing)
+
+
+    [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing)
+
+
     **Health Resources**
-
-
-    [Psychosocial Resource Pack](https://drive.google.com/file/d/1sPlJf4W7EFbrYmsE5BwrIV4zq6iedjUN/view?usp=sharing)
-
-
-    [Urban Village Medical Practice drop-in](https://drive.google.com/file/d/1mUQs_YfUbLyZZXqcjssvU0yX62WkQAlI/view?usp=sharing)
 
 
     [Dual Diagnosis cov-19 advice](https://drive.google.com/file/d/1nZP6F7Km5rwMm8d5NreyNYfiqM_DOg39/view?usp=sharing)
@@ -63,6 +57,12 @@ uploads:
     * [Stockport specific](https://drive.google.com/file/d/19mzu_-QpHyNAALHDDuhe9LnAVEEfa_rR/view?usp=sharing)
 
     * [Trafford specific](https://drive.google.com/file/d/1XRWpbUdIPelf-7LxnGS3JD9MlJ-gbQoJ/view?usp=sharing)
+
+
+    [Psychosocial Resource Pack](https://drive.google.com/file/d/1sPlJf4W7EFbrYmsE5BwrIV4zq6iedjUN/view?usp=sharing)
+
+
+    [Urban Village Medical Practice drop-in](https://drive.google.com/file/d/1mUQs_YfUbLyZZXqcjssvU0yX62WkQAlI/view?usp=sharing)
 
 
     **From the Network**
