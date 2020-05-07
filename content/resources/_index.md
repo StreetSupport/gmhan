@@ -14,6 +14,8 @@ uploads:
     April](/assets/uploads/han-update-23-april.docx)
 
 
+
+
     **Covid response**
 
 
@@ -36,6 +38,8 @@ uploads:
 
 
     [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing)
+
+
 
 
     **Health Resources**
@@ -65,6 +69,8 @@ uploads:
     [Urban Village Medical Practice drop-in](https://drive.google.com/file/d/1mUQs_YfUbLyZZXqcjssvU0yX62WkQAlI/view?usp=sharing)
 
 
+
+
     **From the Network**
 
 
@@ -89,6 +95,8 @@ uploads:
     [GMHAN Rough Sleeping Action Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)
 
 
+
+
     **Greater Manchester**
 
 
@@ -96,6 +104,8 @@ uploads:
 
 
     [GM Mental Health Housing & Mental Health Strategy](https://gmhan.netlify.com/assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf)
+
+
 
 
     **External**
@@ -116,6 +126,6 @@ uploads:
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
-  uploadssix: /assets/uploads/han-update-23-april.docx
+  uploadssix: /assets/uploads/gmhan-and-gmca-hclg-committee-summaries.docx
   uploadsseven: /assets/uploads/gmhan-next-steps.pdf
 ---
