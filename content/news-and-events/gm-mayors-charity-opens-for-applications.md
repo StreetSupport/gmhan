@@ -1,5 +1,5 @@
 ---
-event: "yes"
+event: true
 title: GM Mayor's Charity Opens for Applications
 publishDate: 2020-04-23T16:20:38.484Z
 eventCard:

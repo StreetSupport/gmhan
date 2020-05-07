@@ -1,5 +1,5 @@
 ---
-event: "yes"
+event: true
 title: "Full Network Meeting: May"
 publishDate: 2020-05-07T09:43:53.233Z
 eventCard:
