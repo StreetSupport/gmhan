@@ -8,25 +8,51 @@ eventCard:
   date: Weds 20th May & Thurs 21st May
 content:
   heading: GMHAN Full Network Meeting to explore GM response to Covid-19
-  body: >-
-    The HAN was due to meet as a whole network event on Wednesday 20th May, due
-    to current restrictions we will be hosting the event in two separate Zoom
-    meetings, we hope this will allow for most people’s diaries and the maximum
-    number of people to attend.
+  body: "The HAN was due to meet as a whole network event on Wednesday 20th May,
+    due to current restrictions we will be hosting the event in two separate
+    Zoom meetings, we hope this will allow for most people’s diaries and the
+    maximum number of people to attend.
 
 
-    The meeting will focus on planning for the future, both living with Covid and looking to a society without the disease present. As the GMHAN we believe that whilst coronavirus has wrought great damage, we can also use this next phase to end homelessness for good. This May’s HAN will give us an opportunity to start determining what this could look like as a collection of different sectors, viewpoints and ideas.
+    The meeting will focus on planning for the future, both living with
+    Covid and looking to a society without the disease present. As the GMHAN we
+    believe that whilst coronavirus has wrought great damage, we can also use
+    this next phase to end homelessness for good. This May’s HAN will give us an
+    opportunity to start determining what this could look like as a collection
+    of different sectors, viewpoints and ideas.
 
 
-    We will also be joined by Mayor of GM Andy Burnham and Mayor of Salford Paul Dennett to share updates on the Covid response so far.
+    We will also be joined by Mayor of GM Andy Burnham and Mayor of Salford
+    Paul Dennett to share updates on the Covid response so far.
 
 
-    A full agenda with some brief recommended reading will be published in advance on the [Resources](/resources) page.
+    A full agenda with some brief recommended reading will be published in
+    advance on the [Resources](/resources) page.
 
 
-    The link and password are: <eventbrite>
+    The link and password are:\ 
 
 
-    **Please share this link with anyone you think should be part of deciding how Greater Manchester responds to the Covid pandemic for people who are homeless.**
+    Time: May 20, 9-10.30AM \r
+
+    https://zoom.us/j/99712933023?pwd=RStCSy9zVythK3lEaTdnSEhmV2x6QT09\r
+
+    Meeting ID: 997 1293 3023\r
+
+    Password: 017995\r
+
+
+    Time: May 21, 2020 3:30-5 PM\r
+
+    https://zoom.us/j/95980959159?pwd=YlI5Y3JlRFpwdHhnT3J2a1N4VmRCdz09\r
+
+    Meeting ID: 959 8095 9159\r
+
+    Password: 024722\r
+
+
+    **Please share these links with anyone you think should be part of
+    deciding how Greater Manchester responds to the Covid pandemic for people
+    who are homeless.**"
   image: /assets/uploads/han-event-ab.jpg
 ---
