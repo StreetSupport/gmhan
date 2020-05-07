@@ -21,7 +21,7 @@ content:
     We will also be joined by Mayor of GM Andy Burnham and Mayor of Salford Paul Dennett to share updates on the Covid response so far.
 
 
-    A full agenda with some brief recommended reading will be published in advance on the [Resources](gmhan.net/resources) page.
+    A full agenda with some brief recommended reading will be published in advance on the [Resources](/resources) page.
 
 
     The link and password are: <eventbrite>
