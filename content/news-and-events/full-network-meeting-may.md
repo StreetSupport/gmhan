@@ -24,6 +24,9 @@ content:
     A full agenda with some brief recommended reading will be published in advance on the [Resources](/resources) page.
 
 
+    **Let us know that you're coming by registering on [eventbrite](https://www.eventbrite.co.uk/e/gm-homelessness-action-network-may-2020-tickets-104622530806)**
+
+
     The link and password are: 
 
 
