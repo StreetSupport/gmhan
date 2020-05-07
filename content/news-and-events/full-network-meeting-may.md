@@ -30,13 +30,28 @@ content:
     **Time: May 20, 9.00-10.30AM** 
 
 
-    https://zoom.us/j/99712933023?pwd=RStCSy9zVythK3lEaTdnSEhmV2x6QT09 Meeting ID: 997 1293 3023 Password: 017995
+    https://zoom.us/j/99712933023?pwd=RStCSy9zVythK3lEaTdnSEhmV2x6QT09
+
+
+    Meeting ID: 997 1293 3023 
+
+
+    Password: 017995
 
 
     **Time: May 21, 2020 3:30-5.00PM**
 
 
-    https://zoom.us/j/95980959159?pwd=YlI5Y3JlRFpwdHhnT3J2a1N4VmRCdz09 Meeting ID: 959 8095 9159 Password: 024722
+    https://zoom.us/j/95980959159?pwd=YlI5Y3JlRFpwdHhnT3J2a1N4VmRCdz09 
+
+
+    Meeting ID: 959 8095 9159 
+
+
+    Password: 024722
+
+
+    <hr>
 
 
     **Please share these links with anyone you think should be part of deciding how Greater Manchester responds to the Covid pandemic for people who are homeless.**
