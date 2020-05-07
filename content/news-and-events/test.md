@@ -1,5 +1,5 @@
 ---
-event: yes
+event: "yes"
 title: test
 publishDate: 2020-05-07T11:29:52.775Z
 eventCard:
