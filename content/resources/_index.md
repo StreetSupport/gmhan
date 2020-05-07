@@ -31,6 +31,9 @@ uploads:
     [GM Voluntary Agencies Matrix](https://drive.google.com/file/d/1y4jHihWsXCF2Zup25z03uupYAKX3KlR_/view?usp=sharing)
 
 
+    [GMHAN and GMCA Parliamentary Inquiry Response](https://drive.google.com/file/d/1esrVGfipEFYOg9UuCyKqKV4WbY8Jh-7I/view?usp=sharing)
+
+
     [Hostel Coronavirus Info Pack](https://drive.google.com/file/d/16celNlOsddl-7HmzuSER4qbu8t2HV6z3/view?usp=sharing)
 
 
@@ -126,6 +129,6 @@ uploads:
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
-  uploadssix: /assets/uploads/gmhan-and-gmca-hclg-committee-summaries.docx
+  uploadssix: ""
   uploadsseven: /assets/uploads/gmhan-next-steps.pdf
 ---
