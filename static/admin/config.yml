@@ -140,7 +140,7 @@ collections:
       preview: false
     folder: "/content/news-and-events"
     create: true
-    filter: {field: "event", value: "yes"}
+    filter: {field: "event", value: true}
     fields:
       - {label: "Event", name: "event", default: "yes"}
       - {label: "Title", name: "title", widget: "string"}
