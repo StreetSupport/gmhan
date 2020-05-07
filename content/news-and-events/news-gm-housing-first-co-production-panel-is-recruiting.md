@@ -1,5 +1,5 @@
 ---
-event: yes
+event: 'yes'
 title: "NEWS: GM Housing First Co-production panel is recruiting"
 publishDate: 2020-02-25T11:29:47.565Z
 eventCard:
