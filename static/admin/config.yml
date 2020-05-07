@@ -142,7 +142,7 @@ collections:
     create: true
     filter: {field: "event", value: "yes"}
     fields:
-      - {label: "Event", name: "event", widget: "hidden", default: "'yes'"}
+      - {label: "Event", name: "event", widget: "hidden", default: 'yes'}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "publishDate", widget: "datetime"}
       - {label: "Summary (Card displayed on news and events page)", name: "eventCard", widget: "object", fields: [
