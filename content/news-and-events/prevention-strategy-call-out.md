@@ -1,5 +1,5 @@
 ---
-event: "yes"
+event: true
 title: Prevention Strategy call-out
 publishDate: 2020-03-23T09:56:09.671Z
 eventCard:
