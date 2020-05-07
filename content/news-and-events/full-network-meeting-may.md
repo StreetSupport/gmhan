@@ -30,6 +30,9 @@ content:
     The link and password are: 
 
 
+    ---
+
+
     **Time: May 20, 9.00-10.30AM** 
 
 
@@ -40,6 +43,9 @@ content:
 
 
     Password: 017995
+
+
+    ---
 
 
     **Time: May 21, 2020 3:30-5.00PM**
@@ -54,7 +60,7 @@ content:
     Password: 024722
 
 
-    <hr>
+    ---
 
 
     **Please share these links with anyone you think should be part of deciding how Greater Manchester responds to the Covid pandemic for people who are homeless.**
