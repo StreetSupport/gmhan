@@ -2,6 +2,9 @@
 event: true
 title: GM sense making sessions
 publishDate: 2020-05-14T15:56:10.964Z
+eventCard:
+  name: GM sense making sessions
+  location: Register your interest
 content:
   body: >-
     <!--StartFragment-->
