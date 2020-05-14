@@ -5,6 +5,7 @@ publishDate: 2020-05-14T15:56:10.964Z
 eventCard:
   name: GM sense making sessions
   location: Register your interest
+  date: June - Aug 2020
 content:
   body: >-
     <!--StartFragment-->
@@ -29,4 +30,5 @@ content:
 
 
     <!--EndFragment-->
+  image: /assets/uploads/gmhan-logo.png
 ---
