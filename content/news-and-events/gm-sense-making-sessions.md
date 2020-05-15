@@ -3,15 +3,16 @@ event: true
 title: GM sense making sessions
 publishDate: 2020-05-14T15:56:10.964Z
 eventCard:
-  name: GM sense making sessions
+  name: GM Sense Making Sessions
   location: Register your interest
   date: June - Aug 2020
 content:
   body: >-
-    <!--StartFragment-->
-
-
-    So much is changing, the future is unclear, many plans are on hold, people’s experiences differ wildly, and it is not easy to see the way ahead. To move forward and find ways that work for all we need opportunities to be with each other in and through all the uncertainty, and the space to consider deeply.
+    So much is changing, the future is unclear, many plans are on hold, people’s
+    experiences differ wildly, and it is not easy to see the way ahead. To move
+    forward and find ways that work for all we need opportunities to be with
+    each other in and through all the uncertainty, and the space to consider
+    deeply.
 
 
     We are inviting people from across GM networks to join us in doing this.
@@ -27,8 +28,7 @@ content:
 
 
     Once you have registered your interest we will be in touch with further details.
-
-
-    <!--EndFragment-->
-  image: /assets/uploads/gmhan-logo.png
+  image: /assets/uploads/gaia-visual-presencing-news-presencing-institute.html.png
+  heading: Join others in Greater Manchester to make sense of what is happening
+    through creative techniques
 ---
