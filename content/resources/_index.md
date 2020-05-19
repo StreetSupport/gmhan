@@ -144,6 +144,6 @@ uploads:
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
-  uploadssix: ""
+  uploadssix: /assets/uploads/may-2020-han-breifing-note-session-2.pdf
   uploadsseven: /assets/uploads/gmhan-next-steps.pdf
 ---
