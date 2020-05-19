@@ -19,28 +19,28 @@ uploads:
     **Covid response**
 
 
-    [Covid 19 Update - Manchester City Council](https://drive.google.com/file/d/17rMzmmR6G5yccYV0tlPrydlwSrhjAPwj/view?usp=sharing)
+    [Covid 19 Update](https://drive.google.com/file/d/17rMzmmR6G5yccYV0tlPrydlwSrhjAPwj/view?usp=sharing) (Manchester City Council)
 
 
-    [Emergency Hotel Provision Service Model](https://www.riverside.org.uk/wp-content/uploads/2020/04/Emergency-hotel-provision-service-model-FINAL.pdf)
+    [Emergency Hotel Provision Service Model](https://www.riverside.org.uk/wp-content/uploads/2020/04/Emergency-hotel-provision-service-model-FINAL.pdf) (Riverside)
 
 
-    [Frontline Staff Information Booklet](https://drive.google.com/file/d/1dWUAMiU9MAjC-nXOzuAvA-KJbIxUBcet/view?usp=sharing)
+    [\#EveryoneInForGood - Ending Rough Sleeping For Good After The Lockdown](https://www.homeless.org.uk/connect/blogs/2020/may/18/everyoneinforgood-%E2%80%93-ending-rough-sleeping-for-good-after-lockdown) (Homeless Link)
 
 
-    [GM Voluntary Agencies Matrix](https://drive.google.com/file/d/1y4jHihWsXCF2Zup25z03uupYAKX3KlR_/view?usp=sharing)
+    [GM Voluntary Agencies Matrix](https://drive.google.com/file/d/1y4jHihWsXCF2Zup25z03uupYAKX3KlR_/view?usp=sharing) 
 
 
     [GMHAN and GMCA Parliamentary Inquiry Response](https://drive.google.com/file/d/1esrVGfipEFYOg9UuCyKqKV4WbY8Jh-7I/view?usp=sharing)
 
 
-    [Hostel Coronavirus Info Pack](https://drive.google.com/file/d/16celNlOsddl-7HmzuSER4qbu8t2HV6z3/view?usp=sharing)
+    [Hostel Coronavirus Info Pack](https://drive.google.com/file/d/16celNlOsddl-7HmzuSER4qbu8t2HV6z3/view?usp=sharing) (NHS)
 
 
     [Local Council Food Response Leads](https://drive.google.com/file/d/11RM_B7NEMuzU5BCHP2vgKW09q3f0JBNi/view?usp=sharing)
 
 
-    [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing)
+    [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing) (JustLife)
 
 
 
@@ -48,13 +48,22 @@ uploads:
     **Health Resources**
 
 
+    [Alcohol Audit ](https://drive.google.com/file/d/1GeTBKB0ZxNx0LhJWj1MgV_MwxYOiU_fg/view?usp=sharing)(Salford PCT)
+
+
     [Dual Diagnosis cov-19 advice](https://drive.google.com/file/d/1nZP6F7Km5rwMm8d5NreyNYfiqM_DOg39/view?usp=sharing)
 
 
-    [Health Services for people with a Salford Connection](https://drive.google.com/file/d/1-X_sw69xlI1Sxl72q80wfVFRZe1UORPI/view?usp=sharing)
+    [Family Doctor Registration Form](https://drive.google.com/file/d/1ocGoNwxspQ0hWRFNPUSIv8Ogkq3VMVh4/view?usp=sharing) (NHS)
 
 
-    [Mental Health & Homelessness help booklet ](https://drive.google.com/file/d/1_72BrxpRAR9pU3kpGnGyiEHeP5KhezM-/view?usp=sharing)
+    [Frontline Staff Information Booklet](https://drive.google.com/file/d/1dWUAMiU9MAjC-nXOzuAvA-KJbIxUBcet/view?usp=sharing) (NHS)
+
+
+    [Health Services for people with a Salford Connection](https://drive.google.com/file/d/1-X_sw69xlI1Sxl72q80wfVFRZe1UORPI/view?usp=sharing) (Salford PCT)
+
+
+    [Mental Health & Homelessness help booklet ](https://drive.google.com/file/d/1_72BrxpRAR9pU3kpGnGyiEHeP5KhezM-/view?usp=sharing)(GMMH)
 
 
     * [Oldham specific](https://drive.google.com/file/d/1vojqWfGhkkAe99-JoSkrL6J5DWihS2D9/view?usp=sharing)
@@ -66,10 +75,13 @@ uploads:
     * [Trafford specific](https://drive.google.com/file/d/1XRWpbUdIPelf-7LxnGS3JD9MlJ-gbQoJ/view?usp=sharing)
 
 
-    [Psychosocial Resource Pack](https://drive.google.com/file/d/1sPlJf4W7EFbrYmsE5BwrIV4zq6iedjUN/view?usp=sharing)
+    [Psychosocial Resource Pack](https://drive.google.com/file/d/1sPlJf4W7EFbrYmsE5BwrIV4zq6iedjUN/view?usp=sharing) (GMMH)
 
 
-    [Urban Village Medical Practice drop-in](https://drive.google.com/file/d/1mUQs_YfUbLyZZXqcjssvU0yX62WkQAlI/view?usp=sharing)
+    [Urban Village Medical Practice drop-in](https://drive.google.com/file/d/1mUQs_YfUbLyZZXqcjssvU0yX62WkQAlI/view?usp=sharing) (UVMP)
+
+
+    [Urban Village Registration Form ](https://drive.google.com/file/d/10lJDbtg_Sq8oAQukORnfj2WM-aGhObgn/view?usp=sharing)(UVMP)
 
 
 
@@ -123,7 +135,7 @@ uploads:
     [Institute for Global Homelessness](https://ighhub.org)
 
 
-    [With One Voice 'Jigsaw of Homelessness Support'](http://www.with-one-voice.com/jigsaw-homeless-support)
+    [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
   uploadsfour: /assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf
   uploadsone: /assets/uploads/greater-manchester-homelessness-action-network-3.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
