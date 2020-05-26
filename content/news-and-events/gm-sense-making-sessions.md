@@ -8,26 +8,21 @@ eventCard:
   date: June - Aug 2020
 content:
   body: >-
-    So much is changing, the future is unclear, many plans are on hold, people’s
-    experiences differ wildly, and it is not easy to see the way ahead. To move
-    forward and find ways that work for all we need opportunities to be with
-    each other in and through all the uncertainty, and the space to consider
-    deeply.
+    In this moment of uncertainty and transition, we are offering a series of
+    sessions for people from across the GM Homelessness Action Network and other
+    GM networks to come together to reflect on what is happening and emerging.
 
 
-    We are inviting people from across GM networks to join us in doing this.
-
-
-    We are taking a journey into deeper awareness, through creative sense making- including moments of stillness, being with all the unknown and vulnerability that brings.
+    We will be taking a journey into deeper awareness, through creative sense making- including moments of stillness, sharing what we see, and how it is to be with all the unknown and vulnerability that brings.
 
 
     Through a series of facilitated structured and less-structured online sessions we will go through a collective sense making process - welcoming what is happening and what is emerging for us around how may we all thrive in increased insecurity.
 
 
-    If this sounds like something for you please let us know here: [Signup form](https://forms.gle/1peiGYY7D2um5P2T8)
+    If this sounds like something for you might be interested in, or are curious to know more, please let us know here: [Signup form](https://forms.gle/1peiGYY7D2um5P2T8)
 
 
-    Once you have registered your interest we will be in touch with further details.
+    We will be in touch with further details.
   image: /assets/uploads/gaia-visual-presencing-news-presencing-institute.html.png
   heading: Join others in Greater Manchester to make sense of what is happening
     through creative techniques
