@@ -63,4 +63,5 @@ content:
 
 
     If you have any queries about this fund please contact us via : [enquiries@gmmayorscharity.co.uk](mailto:%20enquiries@gmmayorscharity.co.uk)
+  image: /assets/uploads/gm-mayor-s-charity.png
 ---
