@@ -5,7 +5,7 @@ publishDate: 2020-05-20T09:30:22.875Z
 eventCard:
   name: GMHAN 'Open Space' discussion time
   location: via Zoom
-  date: "2nd June 11am - 12.30pm "
+  date: "Every other Tuesday 11am - 12.30pm "
 content:
   heading: Open Space every two weeks
   body: >-
