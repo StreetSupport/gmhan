@@ -10,10 +10,12 @@ content:
   heading: Resources
 uploads:
   body: >-
-    [Latest update from GMCA - Thurs 23
-    April](/assets/uploads/han-update-23-april.docx)
-
-
+    The key publicaiton we are currently looking for input and feedback on is
+    [GMHAN 's'Building Back Better'
+    proposal](https://drive.google.com/file/d/1PssgqDjcbCH8G-y6SWiPJQE2AQbhtYmf/view?mc_cid=4d43e16016&mc_eid=80e23c30ae)  This
+    outlines what the Network wants to see happen as we build back after COVID,
+    based on multiple discussions in late-May 2020. Please comment on the link
+    and share with anyone you feel would like to contribute.
 
 
     **Covid response**
@@ -44,8 +46,6 @@ uploads:
 
 
     [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing) (JustLife)
-
-
 
 
     **Health Resources**
@@ -87,8 +87,6 @@ uploads:
     [Urban Village Registration Form ](https://drive.google.com/file/d/10lJDbtg_Sq8oAQukORnfj2WM-aGhObgn/view?usp=sharing)(UVMP)
 
 
-
-
     **From the Network**
 
 
@@ -113,8 +111,6 @@ uploads:
     [GMHAN Rough Sleeping Action Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)
 
 
-
-
     **Greater Manchester**
 
 
@@ -122,8 +118,6 @@ uploads:
 
 
     [GM Mental Health Housing & Mental Health Strategy](https://gmhan.netlify.com/assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf)
-
-
 
 
     **External**
