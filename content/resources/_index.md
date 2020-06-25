@@ -10,12 +10,15 @@ content:
   heading: Resources
 uploads:
   body: >-
-    The key publicaiton we are currently looking for input and feedback on is
-    [GMHAN 's'Building Back Better'
-    proposal](https://drive.google.com/file/d/1PssgqDjcbCH8G-y6SWiPJQE2AQbhtYmf/view?mc_cid=4d43e16016&mc_eid=80e23c30ae)  This
-    outlines what the Network wants to see happen as we build back after COVID,
-    based on multiple discussions in late-May 2020. Please comment on the link
-    and share with anyone you feel would like to contribute.
+    For GMHAN's co-produced proposal on Building Back Better after COVID. Please
+    download, discuss in your own networks and forums and let us know what you
+    can do to help make it a reality. We will be reviewing progress toward this
+    at the next GMHAN full meeting in September.
+
+
+    We are also focused on how we resource the Network to develop and sustain the activity that has helped us co-produce the COVID response in Greater Manchester. This document outlines the areas we need input into. If you think you can help please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
+
+
 
 
     **Covid response**
@@ -134,7 +137,7 @@ uploads:
 
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
   uploadsfour: /assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf
-  uploadsone: /assets/uploads/greater-manchester-homelessness-action-network-3.pdf
+  uploadsone: /assets/uploads/gmhan-resourcing.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
