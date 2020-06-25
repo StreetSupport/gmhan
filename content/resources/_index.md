@@ -16,7 +16,7 @@ uploads:
     at the next GMHAN full meeting in September.
 
 
-    We are also focused on how we resource the Network to develop and sustain the activity that has helped us co-produce the COVID response in Greater Manchester. This document outlines the areas we need input into. If you think you can help please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
+    We are also focused on how we resource the Network to develop and sustain the activity that has helped us co-produce the COVID response in Greater Manchester. [This document](/assets/uploads/gmhan-resourcing.pdf) outlines the areas we need input into. If you think you can help please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
 
 
 
