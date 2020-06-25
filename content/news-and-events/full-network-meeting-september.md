@@ -9,7 +9,8 @@ eventCard:
 content:
   heading: GMHAN Full Network Meeting
   body: Join us for the third full Homeless Action Network meeting of 2020, where
-    we will be reviewing progress toward the GMHAN Building Back Better proposal
+    we will be reviewing progress toward the [GMHAN Building Back Better
+    proposal](https://www.gmhan.net/assets/uploads/gmhan-building-back-better-proposal.pdf)
     to end homelessness altogether rather than recreate a broken system.
   image: /assets/uploads/han-event-ab.jpg
 ---
