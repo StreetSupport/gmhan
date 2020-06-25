@@ -11,14 +11,14 @@ content:
 uploads:
   body: >-
     For GMHAN's co-produced proposal on Building Back Better after COVID. Please
-    download, discuss in your own networks and forums and let us know what you
-    can do to help make it a reality. We will be reviewing progress toward this
-    at the next GMHAN full meeting in September.
+    [download
+    here](https://www.gmhan.net/assets/uploads/gmhan-building-back-better-proposal.pdf),
+    discuss in your own networks and forums and let us know what you can do to
+    help make it a reality. We will be reviewing progress toward this at the
+    next GMHAN full meeting in September.
 
 
     We are also focused on how we resource the Network to develop and sustain the activity that has helped us co-produce the COVID response in Greater Manchester. [This document](/assets/uploads/gmhan-resourcing.pdf) outlines the areas we need input into. If you think you can help please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
-
-
 
 
     **Covid response**
