@@ -77,4 +77,5 @@ content:
 
 
     Strategic Lead for Homelessness, GMCA
+  image: /assets/uploads/greater_manchester_combined_authority.svg.png
 ---
