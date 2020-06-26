@@ -10,8 +10,8 @@ content:
   heading: Resources
 uploads:
   body: >-
-    For GMHAN's co-produced proposal on Building Back Better after COVID. Please
-    [download
+    GMHAN's co-produced proposal on Building Back Better after COVID is the
+    current plan we are working too. Please [download
     here](https://www.gmhan.net/assets/uploads/gmhan-building-back-better-proposal.pdf),
     discuss in your own networks and forums and let us know what you can do to
     help make it a reality. We will be reviewing progress toward this at the
