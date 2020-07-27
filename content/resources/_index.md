@@ -27,7 +27,7 @@ uploads:
     [Covid 19 Update](https://drive.google.com/file/d/17rMzmmR6G5yccYV0tlPrydlwSrhjAPwj/view?usp=sharing) (Manchester City Council)
 
 
-    [Emergency Hotel Provision Service Model](https://www.riverside.org.uk/wp-content/uploads/2020/04/Emergency-hotel-provision-service-model-FINAL.pdf) (Riverside)
+    [Emergency Hotel Provision Service Model](https://www.riverside.org.uk/wp-content/uploads/2020/04/Emergency-hotel-provision-service-model-FINAL.pdf) and [Interim Evaluation](https://www.riverside.org.uk/manchester-emergency-accommodation-evaluation/) (Riverside)
 
 
     [\#EveryoneInForGood - Ending Rough Sleeping For Good After The Lockdown](https://www.homeless.org.uk/connect/blogs/2020/may/18/everyoneinforgood-%E2%80%93-ending-rough-sleeping-for-good-after-lockdown) (Homeless Link)
