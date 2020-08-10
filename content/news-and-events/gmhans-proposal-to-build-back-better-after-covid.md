@@ -18,5 +18,8 @@ content:
 
 
     [Download the proposal here](https://www.gmhan.net/assets/uploads/gmhan-building-back-better-proposal.pdf), and if you have any comments, feedback, or actions you can do to contribute, contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net).
+
+
+    The Network has also developed a paper outlining what will be needed to resource it's activities over coming months and years. You can read that paper [here](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf).
   image: /assets/uploads/gmhan-header.jpg
 ---
