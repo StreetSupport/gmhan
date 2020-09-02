@@ -1,7 +1,9 @@
 ---
-event: "GMHAN "
-title: Full Network Event
+event: "true"
+title: "GMHAN Full Network Event - September "
 publishDate: 2020-09-09T09:00:00.000Z
+eventCard:
+  name: " Join us for the full Homelessness Action Network meeting"
 content:
   body: >-
     We hope you can join others involved in ending homelessness for the second
