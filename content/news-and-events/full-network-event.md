@@ -20,6 +20,9 @@ content:
     To reserve your place, please register [here](https://www.eventbrite.co.uk/e/gmhan-full-network-event-tickets-117515031623) and the joining information will follow before the event.
 
 
+    You can access the agenda [here.](https://drive.google.com/file/d/1twsF8cH7Q789c5ydJlCRDVYwBbP7cY-K/view)
+
+
     Please share with commissioners, partners, frontline staff and especially people with lived experience of homelessness or currently accessing services for a wider representation of voices.
 
 
