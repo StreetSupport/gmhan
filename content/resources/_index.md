@@ -10,18 +10,17 @@ content:
   heading: Resources
 uploads:
   body: >-
-    GMHAN's co-produced proposal on Building Back Better after COVID is the
-    current plan we are working too. Please [download
-    here](https://www.gmhan.net/assets/uploads/gmhan-building-back-better-proposal.pdf),
-    discuss in your own networks and forums and let us know what you can do to
-    help make it a reality. We will be reviewing progress toward this at the
-    next GMHAN full meeting in September.
-
-
-    We are also focused on how we resource the Network to develop and sustain the activity that has helped us co-produce the COVID response in Greater Manchester. [This document](/assets/uploads/gmhan-resourcing.pdf) outlines the areas we need input into. If you think you can help please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
+    We are also focused on how we resource the Network to develop and sustain
+    the activity that has helped us co-produce the COVID response in Greater
+    Manchester. [This document](/assets/uploads/gmhan-resourcing.pdf) outlines
+    the areas we need input into. If you think you can help please contact
+    [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
 
 
     **Covid response**
+
+
+    [GMHAN Build Back Better paper](https://www.gmhan.net/assets/uploads/gmhan-building-back-better-proposal.pdf)
 
 
     [Covid 19 Update](https://drive.google.com/file/d/17rMzmmR6G5yccYV0tlPrydlwSrhjAPwj/view?usp=sharing) (Manchester City Council)
@@ -114,6 +113,12 @@ uploads:
     [GMHAN Rough Sleeping Action Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)
 
 
+    [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
+
+
+    [Partnership proposal with St Martin's in the Fields](https://www.gmhan.net/assets/uploads/st-martin-s-gmhan-partnership-proposal-for-consultation.pdf)
+
+
     **Greater Manchester**
 
 
@@ -142,5 +147,5 @@ uploads:
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
   uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
-  uploadsseven: /assets/uploads/gmhan-next-steps.pdf
+  uploadsseven: /assets/uploads/st-martin-s-gmhan-partnership-proposal-for-consultation.pdf
 ---
