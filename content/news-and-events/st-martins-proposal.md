@@ -29,6 +29,6 @@ content:
     * Emailing [info@gmhan.net](mailto:info@gmhan.net)
 
 
-    **Download the proposal here**
+    **Download the proposal [here](https://www.gmhan.net/assets/uploads/st-martin-s-gmhan-partnership-proposal-for-consultation.pdf)**
   image: /assets/uploads/smitf.png
 ---
