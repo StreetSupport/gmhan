@@ -19,15 +19,6 @@ content:
     The Open Space takes place via Zoom every two weeks 11-12.30pm on a Tuesday, with the link added here when available.
 
 
-    **Tues 30th June**
-
-
-    [https://zoom.us/j/4419953833?pwd=VFhXQW5tTTVOUmRDakE0MDk3N041UT09 ](https://zoom.us/j/4419953833?pwd=VFhXQW5tTTVOUmRDakE0MDk3N041UT09)
-
-
-    Meeting ID: 441 995 3833
-
-
-    Password: 3Fs2dB
+    **Next Open Space: Tues 22nd September**
   image: /assets/uploads/open.jpeg
 ---
