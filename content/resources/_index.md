@@ -116,9 +116,6 @@ uploads:
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
 
 
-    [Partnership proposal with St Martin's in the Fields](https://www.gmhan.net/assets/uploads/st-martin-s-gmhan-partnership-proposal-for-consultation.pdf)
-
-
     **Greater Manchester**
 
 
