@@ -1,7 +1,7 @@
 ---
 event: true
 title: St Martin's proposal
-publishDate: 2020-09-11T15:59:00.000Z
+publishDate: 2020-09-18T15:59:00.000Z
 eventCard:
   name: Partnership proposal with St Martin in the Fields
   location: Share your thoughts about the GMHAN's potential partnership with St
