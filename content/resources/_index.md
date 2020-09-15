@@ -10,11 +10,13 @@ content:
   heading: Resources
 uploads:
   body: >-
-    We are also focused on how we resource the Network to develop and sustain
-    the activity that has helped us co-produce the COVID response in Greater
-    Manchester. [This document](/assets/uploads/gmhan-resourcing.pdf) outlines
-    the areas we need input into. If you think you can help please contact
-    [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
+    We are currently reviewing how we resource the Network to develop and
+    sustain the activity needed to achieve the HANs long term aims. 
+
+
+    [This document](/assets/uploads/gmhan-resourcing.pdf) outlines the areas we need input into - if you think you can help please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
+
+
 
 
     **Covid response**
@@ -116,6 +118,9 @@ uploads:
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
 
 
+    [St Martin's/HAN Partnership Proposal](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf)
+
+
     **Greater Manchester**
 
 
@@ -147,5 +152,5 @@ uploads:
   uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
   uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
-  uploadsseven: /assets/uploads/st-martin-s-gmhan-partnership-proposal-for-consultation.pdf
+  uploadsseven: /assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf
 ---
