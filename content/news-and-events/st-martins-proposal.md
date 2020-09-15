@@ -1,7 +1,7 @@
 ---
 event: true
 title: St Martin's proposal
-publishDate: 2020-09-18T15:59:00.000Z
+publishDate: 2020-09-15T08:51:25.428Z
 eventCard:
   name: Partnership proposal with St Martin in the Fields
   location: Share your thoughts about the GMHAN's potential partnership with St
@@ -13,8 +13,9 @@ content:
     The GMHAN is exploring a potential partnership with national charity [St
     Martin's in the Fields Frontline
     Network](https://www.frontlinenetwork.org.uk/), and seeking network member
-    feedback. So far an initial Expression of Interest has been agreed, of which
-    you can read a summary [here](link). 
+    feedback. So far an initial Expression of Interest has been drafted, as
+    outlined in [this
+    document](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf). 
 
 
     Discussions about the partnership are still very early and subject to both the HAN and St Martin's concluding it is right for both sides.  If would potentially see the GMHAN joining 7 existing Network Partners across the UK working to support frontline workers and influence decision making of responses to homelessness. A partnership would include funding to support a set of activities which are outlined in the current proposal. It is suggest any post would be held by one of the GMHAN's local network members.
@@ -30,6 +31,6 @@ content:
     * Emailing [info@gmhan.net](mailto:info@gmhan.net)
 
 
-    **Download the proposal [here](https://www.gmhan.net/assets/uploads/st-martin-s-gmhan-partnership-proposal-for-consultation.pdf)**
+    **Download the proposal [here](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf)**
   image: /assets/uploads/smitf.png
 ---
