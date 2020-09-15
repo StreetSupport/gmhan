@@ -16,7 +16,7 @@ uploads:
     **[Homelessness Prevention Framework](https://drive.google.com/file/d/11Sas4ovARPY9LnE_KcwN_hsfbtzEfIhA/view?usp=sharing) -** this is the approach that will inform the Homelessness Prevention framework for all of Greater Manchester. The HAN will be looking at further exploration of what the framework means and what should be in the strategy in upcoming months. 
 
 
-    [St Martin's/HAN Partnership Proposal](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf) - initial proposal for how the GMHAN might become part of the national St Martin's Frontline Network
+    [St Martin's/HAN Partnership Proposal](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf) - initial proposal for how the GMHAN might become part of the national St Martin's Frontline Network. See more [here](https://www.gmhan.net/news-and-events/st-martins-proposal/).
 
 
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf) - if you think you can help with funding or resource please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
