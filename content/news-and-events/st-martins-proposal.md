@@ -26,7 +26,7 @@ content:
 
     * Leaving your comments in this [shared document](https://drive.google.com/file/d/1marTQLDouirAmoIB5YQtXTmb4JhYq1fO/view?usp=sharing) (google sign in may be required – you can do this with any email address)
 
-    * Attending the GMHAN Open Space on Tuesday 22nd September 11am-1pm. Please go to [gmhan.net/news-and-events](https://www.gmhan.net/news-and-events/) for joining instructions.
+    * Attending the GMHAN Open Space on Tuesday 6th October 11am-12.30pm. Please go to [gmhan.net/news-and-events](https://www.gmhan.net/news-and-events/) for joining instructions.
 
     * Emailing [info@gmhan.net](mailto:info@gmhan.net)
 
