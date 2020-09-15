@@ -60,10 +60,6 @@ uploads:
     [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing) (JustLife)
 
 
-
-
-
-
     **Health Resources**
 
 
@@ -103,10 +99,6 @@ uploads:
     [Urban Village Registration Form ](https://drive.google.com/file/d/10lJDbtg_Sq8oAQukORnfj2WM-aGhObgn/view?usp=sharing)(UVMP)
 
 
-
-
-
-
     **From the Network**
 
 
@@ -137,10 +129,6 @@ uploads:
     [St Martin's/HAN Partnership Proposal](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf)
 
 
-
-
-
-
     **Greater Manchester**
 
 
@@ -153,9 +141,7 @@ uploads:
     **[Homelessness Prevention Framework](https://drive.google.com/file/d/11Sas4ovARPY9LnE_KcwN_hsfbtzEfIhA/view?usp=sharing)**
 
 
-
-
-
+    \
 
     **External**
 
