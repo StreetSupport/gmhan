@@ -22,7 +22,7 @@ uploads:
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf) - if you think you can help with funding or resource please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
 
 
-    [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) - details on current helpling numbers for each GM borough via Homeless Friendly
+    [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) - details on current helpline numbers for each GM borough via Homeless Friendly
 
 
 
