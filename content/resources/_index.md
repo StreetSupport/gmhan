@@ -176,7 +176,7 @@ uploads:
   uploadsfour: /assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf
   uploadsone: /assets/uploads/gmhan-resourcing.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
-  uploadstwo: /assets/uploads/gmhan-advisory-board-terms-of-reference.pdf
+  uploadstwo: /assets/uploads/gm-information-sept-20.pdf
   uploadsfive: /assets/uploads/han-2020-schedule.pdf
   uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
   uploadsseven: /assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf
