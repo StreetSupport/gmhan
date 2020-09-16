@@ -22,6 +22,11 @@ uploads:
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf) - if you think you can help with funding or resource please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
 
 
+    [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) - details on current helpling numbers for each GM borough via Homeless Friendly
+
+
+
+
     ## **Archive**
 
 
@@ -58,11 +63,7 @@ uploads:
     [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing) (JustLife)
 
 
-
-
     \-
-
-
 
 
     **Health Resources**
@@ -104,11 +105,10 @@ uploads:
     [Urban Village Registration Form ](https://drive.google.com/file/d/10lJDbtg_Sq8oAQukORnfj2WM-aGhObgn/view?usp=sharing)(UVMP)
 
 
+    [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) (Homeless Friendly)
 
 
     \-
-
-
 
 
     **From the Network**
@@ -141,6 +141,9 @@ uploads:
     [St Martin's/HAN Partnership Proposal](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf)
 
 
+    \-
+
+
     **Greater Manchester**
 
 
@@ -153,12 +156,8 @@ uploads:
     **[Homelessness Prevention Framework](https://drive.google.com/file/d/11Sas4ovARPY9LnE_KcwN_hsfbtzEfIhA/view?usp=sharing)**
 
 
-
-
     \-
 
-
-    \
 
     **External**
 
