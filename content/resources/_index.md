@@ -25,8 +25,6 @@ uploads:
     [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) - details on current helpline numbers for each GM borough via Homeless Friendly
 
 
-
-
     ## **Archive**
 
 
@@ -156,7 +154,14 @@ uploads:
     **[Homelessness Prevention Framework](https://drive.google.com/file/d/11Sas4ovARPY9LnE_KcwN_hsfbtzEfIhA/view?usp=sharing)**
 
 
-    \-
+
+
+    **Useful Documents** 
+
+
+    [RECOMMENDATIONS FOR TELEPHONIC SUPPORT TO CLIENTS IN
+
+    HOUSING SERVICES DURING THE CONFINEMENT DURING THE COVID-19 PANDEMIA](https://drive.google.com/file/d/1y0sp_IGqg1wbsKoOFok1QPTzvW_gGGtl/view?usp=sharing)
 
 
     **External**
