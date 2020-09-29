@@ -11,6 +11,6 @@ content:
 
 
 
-    #### Services for people who are homeless or at risk are changing rapidly right now. The best place for the latest on where to get help in Greater Manchester is at [streetsupport.net](https://streetsupport.net), and we will post any major service changes the Network hear's about here.
+    #### Services for people who are homeless or at risk are changing rapidly right now. The best place for the latest on where to get help in Greater Manchester is at [streetsupport.net](https://streetsupport.net), and we will post any major service changes the Network is aware of here.
   heading: News and Events
 ---
