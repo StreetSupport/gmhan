@@ -10,13 +10,11 @@ content:
   heading: Resources
 uploads:
   body: >-
-    ## Latest
+    ##
+    Latest[](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)
 
 
-    **[Homelessness Prevention Framework](https://drive.google.com/file/d/11Sas4ovARPY9LnE_KcwN_hsfbtzEfIhA/view?usp=sharing) -** this is the approach that will inform the Homelessness Prevention framework for all of Greater Manchester. The HAN will be looking at further exploration of what the framework means and what should be in the strategy in upcoming months. 
-
-
-    [St Martin's/HAN Partnership Proposal](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf) - initial proposal for how the GMHAN might become part of the national St Martin's Frontline Network. See more [here](https://www.gmhan.net/news-and-events/st-martins-proposal/).
+    **[Public Health England advice on Winter Night Shelters ](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)**- all members of the GMHAN, including the Combined Authority and Local Authorities are very clear that night shelters should absolutely be the last resort during this winter to be made available only if other safer, better options have been exhausted. Additional funding is being made available via [Homeless Link](https://www.homeless.org.uk/connect/news/2020/oct/13/operating-principles-for-commissioners-and-providers-of-night-shelters-for) should night shelters be needed.
 
 
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf) - if you think you can help with funding or resource please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
@@ -152,8 +150,6 @@ uploads:
 
 
     **[Homelessness Prevention Framework](https://drive.google.com/file/d/11Sas4ovARPY9LnE_KcwN_hsfbtzEfIhA/view?usp=sharing)**
-
-
 
 
     **Useful Documents** 
