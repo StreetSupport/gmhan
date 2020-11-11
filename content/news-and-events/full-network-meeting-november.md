@@ -4,7 +4,7 @@ title: "Full Network Meeting: November"
 publishDate: 2020-09-09T12:26:30.859Z
 eventCard:
   name: Join us for the full Homeless Action Network meeting
-  location: tbc
+  location: 11:30 am - 13:00 pm
   date: Nov 25th 2020
 content:
   heading: GMHAN Full Network Meeting
