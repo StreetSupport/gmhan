@@ -14,21 +14,18 @@ content:
     Homeless Action Network.
 
 
-    The open space takes places every two weeks and is the opportunity for you to contribute to any live discussions or bring up an issue/idea you've come across in your work.
+    The open space takes place every two weeks and is the opportunity for you to contribute to any live discussions or bring up an issue/idea you've come across in your work.
 
 
     The Open Space takes place via Zoom every two weeks 11-12.30pm on a Tuesday, with the link added here when available.
 
 
-    **Next Open Space: Tues 3rd  Novemeber**
+    **Next Open Space: Tues 17th Nov**
 
 
     **Access today's meeting via zoom:**
 
 
-    Join Zoom Meeting [https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09](https://www.google.com/url?q=https://zoom.us/j/97943570810?pwd%3DTURXRjZiMXRUVitCY3AyQzZZZE1VQT09&sa=D&source=calendar&ust=1604828001499000&usg=AOvVaw2CWaGc1MT3yu3zzSV2PFel) Meeting ID: 979 4357 0810 Passcode: 349968 One tap mobile 
-
-
-    +16699006833,,97943570810#,,,,,,0#,,349968# US (San Jose) +12532158782,,97943570810#,,,,,,0#,,349968# US (Tacoma) Dial by your location +1 669 900 6833 US (San Jose) +1 253 215 8782 US (Tacoma) +1 301 715 8592 US (Germantown) +1 312 626 6799 US (Chicago) +1 346 248 7799 US (Houston) +1 408 638 0968 US (San Jose) +1 646 876 9923 US (New York) Meeting ID: 979 4357 0810 Passcode: 349968 Find your local number: [https://zoom.us/u/anDR7uHCx](https://www.google.com/url?q=https://zoom.us/u/anDR7uHCx&sa=D&source=calendar&ust=1604828001499000&usg=AOvVaw0J8thu7K2CnvHlj1KnD5mp)
+    Join Zoom Meeting [https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09](https://www.google.com/url?q=https://zoom.us/j/97943570810?pwd%3DTURXRjZiMXRUVitCY3AyQzZZZE1VQT09&sa=D&source=calendar&ust=1604828001499000&usg=AOvVaw2CWaGc1MT3yu3zzSV2PFel) Meeting ID: 979 4357 0810 Passcode: 349968
   image: /assets/uploads/open.jpeg
 ---
