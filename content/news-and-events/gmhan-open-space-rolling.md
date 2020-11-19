@@ -20,7 +20,7 @@ content:
     The Open Space takes place via Zoom every two weeks 11-12.30pm on a Tuesday, with the link added here when available.
 
 
-    **Next Open Space: Tues 17th Nov**
+    **Next Open Space: Tues 1st Dec**
 
 
     **Access today's meeting via zoom:**
