@@ -4,6 +4,7 @@ title: Legislative Theatre 2
 publishDate: 2020-11-25T12:07:28.850Z
 eventCard:
   name: Join the second Legislative Theatre prevention strategy workshop
+  date: Thurs 9th Dec 2-5pm
 content:
   body: >-
     The [GMHAN](https://www.gmhan.net/) and
