@@ -20,7 +20,10 @@ content:
     The Open Space takes place via Zoom every two weeks 11-12.30pm on a Tuesday, with the link added here when available.
 
 
-    **Next Open Space: Tues 1st Dec**
+    **Next Open Space: Tues 1st Dec** 
+
+
+    **Theme and discussion topic: ABEN** 
 
 
     **Access today's meeting via zoom:**
