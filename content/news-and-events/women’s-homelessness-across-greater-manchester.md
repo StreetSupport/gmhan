@@ -60,6 +60,7 @@ content:
     We will also test key recommendations around women’s homelessness. 
 
 
+    You can book via this [link](https://avaproject.org.uk/events/womens-homelessness-across-greater-manchester-influencing-gmca-homelessness-prevention-strategy/) 
 
 
     The seminar will be hosted through Zoom, you will receive details of the Zoom meeting in your confirmation email. Please contact training@avaproject.org.uk with any difficulties.
