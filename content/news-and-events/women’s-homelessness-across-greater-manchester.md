@@ -1,12 +1,12 @@
 ---
 event: true
-title: Women’s Homelessness Across Greater Manchester
+title: "Women’s Homelessness Across Greater Manchester: Influencing GMCA
+  Homelessness Prevention Strategy"
 publishDate: 2020-11-26T17:33:33.659Z
 eventCard:
   location: (online via Zoom)
   date: 10 Dec 2020, 10:00 am - 1:00 pm
-  name: "Women’s Homelessness Across Greater Manchester: Influencing GMCA
-    Homelessness Prevention Strategy"
+  name: Women’s Homelessness Across Greater Manchester
 content:
   heading: "Women’s Homelessness Across Greater Manchester: Influencing GMCA
     Homelessness Prevention Strategy"
