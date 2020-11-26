@@ -23,9 +23,6 @@ content:
     **Next Open Space: Tues 1st Dec** 
 
 
-    **Theme and discussion topic: ABEN** 
-
-
     **Access today's meeting via zoom:**
 
 
