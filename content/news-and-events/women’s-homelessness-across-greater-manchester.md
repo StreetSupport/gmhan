@@ -5,6 +5,8 @@ publishDate: 2020-11-26T17:33:33.659Z
 eventCard:
   location: (online via Zoom)
   date: 10:00 am - 1:00 pm
+  name: "Women’s Homelessness Across Greater Manchester: Influencing GMCA
+    Homelessness Prevention Strategy"
 content:
   heading: "Women’s Homelessness Across Greater Manchester: Influencing GMCA
     Homelessness Prevention Strategy"
@@ -64,5 +66,5 @@ content:
 
 
     If you are a woman with lived experience and would like to attend then vouchers are available to support you for your time. Please sign up to the event and email [lucy.allwright@avaproject.org.uk](mailto:lucy.allwright@avaproject.org.uk) for more information.
-  image: /assets/uploads/map_areas.png
+  image: /assets/uploads/46037778_2236958879856285_6614489758871584768_n.jpg
 ---
