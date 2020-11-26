@@ -11,13 +11,10 @@ content:
   heading: "Women’s Homelessness Across Greater Manchester: Influencing GMCA
     Homelessness Prevention Strategy"
   body: >-
-    This event is being run jointly by [Agenda](https://weareagenda.org/), AVA
-    and the [Greater Manchester Homelessness Action
-    Network](https://www.gmhan.net/) and forms part of the wider GMCA activities
-    for pulling together knowledge and awareness and recommendations for the new
-    GMCA homelessness prevention strategy. It will be attended by the GMCA
-    Strategic lead for rough sleeping and homelessness who is leading on
-    strategy. 
+    Date and time: Thursday 10th December, 10 am to 1 pm   
+
+
+    This event is being run jointly by [Agenda](https://weareagenda.org/), AVA and the [Greater Manchester Homelessness Action Network](https://www.gmhan.net/) and forms part of the wider GMCA activities for pulling together knowledge and awareness and recommendations for the new GMCA homelessness prevention strategy. It will be attended by the GMCA Strategic lead for rough sleeping and homelessness who is leading on strategy. 
 
 
     The webinar aims to gather evidence to and develop concrete recommendations aimed at Greater Manchester decision makers so they can ensure women’s experiences of homelessness are embedded across the new prevention strategy.
