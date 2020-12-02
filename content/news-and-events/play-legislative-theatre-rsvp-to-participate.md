@@ -43,5 +43,5 @@ content:
 
 
     Actors: Carl, Damo, Joe, Jova, Jules, Neil, Patrick
-  heading: Blog post on GMHAN Legislative Theatre - Funding and Commissioning
+  heading: GMHAN Legislative Theatre - Funding and Commissioning
 ---
