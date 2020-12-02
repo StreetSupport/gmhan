@@ -3,7 +3,7 @@ event: true
 title: "Play: Legislative Theatre - RSVP to participate "
 publishDate: 2020-12-02T00:22:39.048Z
 eventCard:
-  name: One week to go
+  name: "Blog: Legislative Theatre - RSVP to participate "
   location: (online via Zoom)
   date: Wednesday 9th December, 14:00 – 17:00
 content:
