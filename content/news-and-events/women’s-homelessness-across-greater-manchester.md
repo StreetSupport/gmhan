@@ -60,7 +60,7 @@ content:
     If you would like to[ sign up to the event](https://avaproject.org.uk/events/womens-homelessness-across-greater-manchester-influencing-gmca-homelessness-prevention-strategy/) then please click on the [following link](https://avaproject.org.uk/events/womens-homelessness-across-greater-manchester-influencing-gmca-homelessness-prevention-strategy/)
 
 
-    password : **GMCA.**
+    password : **GMCA**
 
 
     The seminar will be hosted through Zoom, you will receive details of the Zoom meeting in your confirmation email. Please contact training@avaproject.org.uk with any difficulties.
