@@ -20,7 +20,7 @@ highlightTop:
 
     * [DONATE](https://www.justgiving.com/campaigns/charity/forevermanchester/bigchangemcr) to people in Manchester through [Big Change Mcr](http://bigchangemcr.co.uk/)
 
-    * Donate to support asylum seekers and migrants not allowed to access state support through the [Migrant Destitution Fund](https://streetsupport.net/manchester/migrant-destitution-fund/)
+    * Donate to support asylum seekers and migrants not allowed to access state support through the
 
       **If you don’t see a scheme for your borough, why not get one started? A toolkit for setting up ‘Real Change’ developed by partners Riverside Housing Group is from the [Street Support](https://news.streetsupport.net/tag/real-change/) and [Homeless Link](https://www.homeless.org.uk/real-change-toolkit) websites.**
   heading: Give directly to people
