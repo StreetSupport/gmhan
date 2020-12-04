@@ -14,7 +14,7 @@ highlightTop:
 
     * [DONATE](https://www.justgiving.com/campaign/realchangewiganandleigh) to people who are homeless or at risk in Wigan & Leigh, through the [Real Change Wigan & Leigh](https://realchangewiganandleigh.co.uk/) campaign
 
-    * [DONATE](https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV) to people in Rochdale through
+    * [DONATE](https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV) to people in Rochdale through **[Real Change Rochdale](https://realchangerochdale.co.uk/)**
 
     * [DONATE](https://realchangerochdale.co.uk/) to people in Oldham through [Real Change Oldham](https://realchangeoldham.co.uk/)
 
