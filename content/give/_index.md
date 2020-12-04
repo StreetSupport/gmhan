@@ -12,18 +12,18 @@ highlightTop:
     the streets or avoid ending up there in the first place.
 
 
-    * **[DONATE](https://www.justgiving.com/campaign/realchangewiganandleigh)** to people who are homeless or at risk in Wigan & Leigh, through the [Real Change Wigan & Leigh](https://realchangewiganandleigh.co.uk/) campaign
+    * [DONATE](https://www.justgiving.com/campaign/realchangewiganandleigh) to people who are homeless or at risk in Wigan & Leigh, through the [Real Change Wigan & Leigh](https://realchangewiganandleigh.co.uk/) campaign
 
-    * **[DONATE](https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV)** to people  in Rochdale through [Real Change Rochdale](https://realchangerochdale.co.uk/) [](https://realchangerochdale.co.uk/)
+    * [DONATE](https://www.thebiggive.org.uk/s/campaign?cId=a051r00001LjKtPAAV) to people in Rochdale through [Real Change Rochdale](https://realchangerochdale.co.uk/)
 
-    * [**DONATE** ](https://realchangerochdale.co.uk/)to people in Oldham through [Real Change Oldham](https://realchangeoldham.co.uk/)
+    * [DONATE](https://realchangerochdale.co.uk/) to people in Oldham through [Real Change Oldham](https://realchangeoldham.co.uk/)
 
-    * **[DONATE](https://www.justgiving.com/campaigns/charity/forevermanchester/bigchangemcr)** to people in Manchester through [Big Change Mcr](http://bigchangemcr.co.uk/)   
+    * [DONATE](https://www.justgiving.com/campaigns/charity/forevermanchester/bigchangemcr) to people in Manchester through [Big Change Mcr](http://bigchangemcr.co.uk/)
 
-    * Donate to support asylum seekers and migrants not allowed to access state support through the [Migrant Destitution Fund](https://streetsupport.net/manchester/migrant-destitution-fund/)
+    * Donate to support asylum seekers and migrants not allowed to access state support through the [Migrant Destitution Fund](<https://streetsupport.net/manchester/migrant-destitution-fund/)[Migrant>)
 
 
-    If you don’t see a scheme for your borough, why not get one started? A toolkit for setting up ‘Real Change’ developed by partners Riverside Housing Group is from the [Street Support](https://news.streetsupport.net/tag/real-change/) and [Homeless Link](https://www.homeless.org.uk/real-change-toolkit) websites.
+    **If you don’t see a scheme for your borough, why not get one started? A toolkit for setting up ‘Real Change’ developed by partners Riverside Housing Group is from the [Street Support](https://news.streetsupport.net/tag/real-change/) and [Homeless Link](https://www.homeless.org.uk/real-change-toolkit) websites.**
   heading: Give directly to people
 highlightLeft:
   body: >-
