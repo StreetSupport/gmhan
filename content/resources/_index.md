@@ -10,11 +10,10 @@ content:
   heading: Resources
 uploads:
   body: >-
-    ##
-    Latest[](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)
+    ## Latest
 
 
-    [](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)
+    [Covid-18 Night provision of night shelters](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)
 
 
     **[Public Health England advice on Winter Night Shelters ](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)**- all members of the GMHAN, including the Combined Authority and Local Authorities are very clear that night shelters should absolutely be the last resort during this winter to be made available only if other safer, better options have been exhausted. Additional funding is being made available via [Homeless Link](https://www.homeless.org.uk/connect/news/2020/oct/13/operating-principles-for-commissioners-and-providers-of-night-shelters-for) should night shelters be needed.
