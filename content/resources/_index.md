@@ -13,7 +13,7 @@ uploads:
     ## Latest
 
 
-    [Covid-18 Night provision of night shelters](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)
+    [Covid-19 Night provision of night shelters](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)
 
 
     **[Public Health England advice on Winter Night Shelters ](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)**- all members of the GMHAN, including the Combined Authority and Local Authorities are very clear that night shelters should absolutely be the last resort during this winter to be made available only if other safer, better options have been exhausted. Additional funding is being made available via [Homeless Link](https://www.homeless.org.uk/connect/news/2020/oct/13/operating-principles-for-commissioners-and-providers-of-night-shelters-for) should night shelters be needed.
@@ -34,9 +34,6 @@ uploads:
     [GMHAN Build Back Better paper](https://www.gmhan.net/assets/uploads/gmhan-building-back-better-proposal.pdf)
 
 
-    [Covid 19 Update](https://drive.google.com/file/d/17rMzmmR6G5yccYV0tlPrydlwSrhjAPwj/view?usp=sharing) (Manchester City Council)
-
-
     [Emergency Hotel Provision Service Model](https://www.riverside.org.uk/wp-content/uploads/2020/04/Emergency-hotel-provision-service-model-FINAL.pdf) and [Interim Evaluation](https://www.riverside.org.uk/manchester-emergency-accommodation-evaluation/) (Riverside)
 
 
@@ -46,16 +43,13 @@ uploads:
     [GM Covid Committee Report on Next Steps](https://streetsupport.us12.list-manage.com/track/click?u=da9a1d4bb2b1a69a981456972&id=d2362eeb41&e=80e23c30ae) (GMCA)
 
 
-    [GM Voluntary Agencies Matrix](https://drive.google.com/file/d/1y4jHihWsXCF2Zup25z03uupYAKX3KlR_/view?usp=sharing) 
+    [GM Voluntary Agencies Matrix](https://drive.google.com/file/d/1y4jHihWsXCF2Zup25z03uupYAKX3KlR_/view?usp=sharing)
 
 
     [GMHAN and GMCA Parliamentary Inquiry Response](https://drive.google.com/file/d/1esrVGfipEFYOg9UuCyKqKV4WbY8Jh-7I/view?usp=sharing)
 
 
     [Hostel Coronavirus Info Pack](https://drive.google.com/file/d/16celNlOsddl-7HmzuSER4qbu8t2HV6z3/view?usp=sharing) (NHS)
-
-
-    [Local Council Food Response Leads](https://drive.google.com/file/d/11RM_B7NEMuzU5BCHP2vgKW09q3f0JBNi/view?usp=sharing)
 
 
     [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing) (JustLife)
@@ -112,12 +106,6 @@ uploads:
     **From the Network**
 
 
-    [10/3/20 Advisory Board Agenda](https://www.gmhan.net/assets/uploads/advisory-board-agenda-10.3.20-2.pdf)
-
-
-    [3/3/20 Full Network Meeting Notes](https://www.gmhan.net/assets/uploads/greater-manchester-homelessness-action-network-3.pdf)
-
-
     [Potential Next Steps](/assets/uploads/gmhan-next-steps.pdf)
 
 
@@ -134,9 +122,6 @@ uploads:
 
 
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
-
-
-    [St Martin's/HAN Partnership Proposal](https://www.gmhan.net/assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf)
 
 
     \-
