@@ -9,22 +9,13 @@ whatIs:
     ambition, so we can work together towards a common cause. 
 
 
-    We do this through large scale **events** every 3 months aimed at
-    co-designing Greater Manchester's homelessness **policy** and showcasing
-    **best practice.** We also have an Advisory Board to work on topics raised
-    in between events and promote the Network's voice on the GM Homelessness
-    Programme Board (which is where decisions are made). 
+    We do this through large scale **events** every 3 months aimed at co-designing Greater Manchester's homelessness **policy** and showcasing **best practice.** We also have an Advisory Board to work on topics raised in between events and promote the Network's voice on the GM Homelessness Programme Board (which is where decisions are made). 
 
 
-    The Network is cross sector, including representatives from all ten Greater
-    Manchester boroughs. Most importantly, it operated on the basis of
-    'community development' and co-production*, bringing people together to work
-    side by side rather than alone or in hierarchies.
+    The Network is cross sector, including representatives from all ten Greater Manchester boroughs. Most importantly, it operated on the basis of 'community development' and co-production*, bringing people together to work side by side rather than alone or in hierarchies.
 
 
-    Information flows from the Network events through the Advisory Board to the
-    Programme Board and operational teams delivering services or interventions.
-    It also comes back the other way in a continual feedback loop. 
+    Information flows from the Network events through the Advisory Board to the Programme Board and operational teams delivering services or interventions. It also comes back the other way in a continual feedback loop. 
   heading: What is the GMHAN?
 howWorks:
   body: >-
@@ -32,43 +23,28 @@ howWorks:
     across homelessness and interconnected issues within Greater Manchester.
 
 
-    Members include anyone interested in taking a more active role in the
-    organisation of the GMHAN and in strengthening a community development
-    approach to ending homelessness.
+    Members include anyone interested in taking a more active role in the organisation of the GMHAN and in strengthening a community development approach to ending homelessness.
 
 
-    Members are 'brokers' in their areas of work, acting as bridges into their
-    sector to ensure there is an exchange of information and knowledge from the
-    ground up and vice versa. They currently include voluntary sector
-    partnership managers, Combined Authority officers, faith leaders, university
-    researchers, co-production experts and housing provider representatives. The
-    ambition is for this membership to expand to fill gaps in all specialisms
-    and geographical areas.
+    Members are 'brokers' in their areas of work, acting as bridges into their sector to ensure there is an exchange of information and knowledge from the ground up and vice versa. They currently include voluntary sector partnership managers, Combined Authority officers, faith leaders, university researchers, co-production experts and housing provider representatives. The ambition is for this membership to expand to fill gaps in all specialisms and geographical areas.
 
 
-    The Terms of Reference for the Advisory Board is available
-    **[here](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf).**
+    The Terms of Reference for the Advisory Board is available **[here](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf).**
 
 
-    The Advisory Board has two components which reflect its dual functions of
-    action:
+    The Advisory Board has two components which reflect its dual functions of action:
 
 
     **Action Sessions**
 
 
-    Members with live actions meet every two weeks to sort out anything which
-    needs to be done, including communications to the Network, co-designing
-    network events and supporting local partnership developments.
+    Members with live actions meet every two weeks to sort out anything which needs to be done, including communications to the Network, co-designing network events and supporting local partnership developments.
 
 
     **Accountability Meetings**
 
 
-    All Advisory Board members meet every two months to consider the overall
-    direction and take key decisions on the basis of feedback from the Network.
-    This is also a chance to update and inform others about relevant activities
-    within each member's area of expertise and experience.
+    All Advisory Board members meet every two months to consider the overall direction and take key decisions on the basis of feedback from the Network. This is also a chance to update and inform others about relevant activities within each member's area of expertise and experience.
   heading: How the Advisory Board works
 whatHave:
   body: >-
@@ -78,25 +54,17 @@ whatHave:
     include:
 
 
-    * Co-producing a **[Rough Sleeping Action
-    Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)**
-    for the city.
+    * Co-producing a **[Rough Sleeping Action Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)** for the city.
 
-    * Taking the decision to deliver the **Bed Every Night emergency shelter
-    scheme**, which has halved rough sleeping in Greater Manchester.
+    * Taking the decision to deliver the **Bed Every Night emergency shelter scheme**, which has halved rough sleeping in Greater Manchester.
 
-    * Securing funding for a **homeless families scheme** by highlighting the
-    issue with Mayor Andy Burnham and the GM Programme Board.
+    * Securing funding for a **homeless families scheme** by highlighting the issue with Mayor Andy Burnham and the GM Programme Board.
 
-    * Shining the spotlight on youth homelessness, resulting in the development
-    of a **Youth Homelessness Social Impact Bond** programme focused on this
-    issue.
+    * Shining the spotlight on youth homelessness, resulting in the development of a **Youth Homelessness Social Impact Bond** programme focused on this issue.
 
-    * Supporting the evolution of a **community partnership** within a a local
-    borough to work alongside and receive funding from the Local Authority.
+    * Supporting the evolution of a **community partnership** within a a local borough to work alongside and receive funding from the Local Authority.
 
-    * Informed the **national political asks** made by the Mayor of Greater
-    Manchester to parties during the 2019 General Election
+    * Informed the **national political asks** made by the Mayor of Greater Manchester to parties during the 2019 General Election
   heading: What have we achieved so far?
 whoIs:
   body: >-
@@ -107,14 +75,10 @@ whoIs:
     activists and politicians. And more.
 
 
-    We are constantly working to develop the network and its members so this is
-    not a finite list, if you would like to be involved in the network, either
-    by attending events or in the Advisory Board, contact us on
-    [info@gmhan.net](mailto:info@gmhan.net).
+    We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the Advisory Board, contact us on [info@gmhan.net](mailto:info@gmhan.net).
 
 
-    We are currently looking for people who represent the following areas or
-    knowledge:
+    We are currently looking for people who represent the following areas or knowledge:
 
 
     * Wigan & Leigh
@@ -139,8 +103,9 @@ whatAre:
     priorities and programme.
 
 
-    Priorities for 2020 will be established at the full GMHAN Event on 3rd March
-    - watch this space!
+    2020 threw a lot of the Network's priorities out the window, with the focus going on the immediate COVID response, knitting together the different components of this, sustaining the increased partnership working which came out of it, and what longer term changes were needed longer term.
+
+
+    The Network has also been able to kickstart the development of a Homelessness Prevention Strategy through 'Legislative Theatre' sessions which will continue into the New Year. On top of this, focused workshops on issues like Women's Homelessness, Prison release and A Bed Every Night ongoing development have been hosted with partners.
   heading: What are we working on this year?
 ---
-
