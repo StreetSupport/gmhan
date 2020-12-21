@@ -160,6 +160,9 @@ uploads:
 
 
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
+
+
+    [Christmas services opening times list in Manchester](https://drive.google.com/file/d/1rBozXaC5XEoLtDc7TwAy_gzZW04TTKkV/view?usp=sharing)
   uploadsfour: /assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf
   uploadsone: /assets/uploads/gmhan-resourcing.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
