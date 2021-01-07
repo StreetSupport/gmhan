@@ -21,8 +21,17 @@ content:
     Join our **GMHAN Open Space** meeting on **Prison and resettlement** on 12th January **at 11:00 AM - 12:30 PM**
 
 
-    Access the meeting via zoom:
+    Register here : https://www.eventbrite.co.uk/e/gmhan-open-space-meeting-tickets-130711980051
 
 
-    **Join Zoom Meeting <https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09> Meeting ID:** 979 4357 0810 **Passcode:** 349968
+    https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09
+
+
+    Meeting ID: 979 4357 0810
+
+
+    Passcode: 349968
+
+
+    Please share with your colleagues.
 ---
