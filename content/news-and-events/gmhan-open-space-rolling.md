@@ -3,9 +3,9 @@ event: true
 title: GMHAN Open Space rolling
 publishDate: 2020-09-09T10:46:37.549Z
 eventCard:
-  name: Join the GMHAN Open Space
+  name: Join the GMHAN Open Space /  Every Tuesday 11am-12.30pm
   location: (online via Zoom)
-  date: 12th Jan 2021 - Every Tuesday 11am-12.30pm
+  date: "12th Jan 2021, 11 am - 12:30 pm "
 content:
   heading: Join us for our regular Open Space to explore all issues related to
     homelessness in Greater Manchester
