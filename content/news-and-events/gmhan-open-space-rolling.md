@@ -10,22 +10,28 @@ content:
   heading: Join us for our regular Open Space to explore all issues related to
     homelessness in Greater Manchester
   body: >-
-    Join our Open Space to raise any questions related to the work of the
-    Homeless Action Network.
+    Join our Open Space on 12th Jan to discuss homelessness as a result of
+    prison releases.
 
 
-    The open space takes place every two weeks and is the opportunity for you to contribute to any live discussions or bring up an issue/idea you've come across in your work.
+    The open space takes place every two weeks and is an opportunity for you to contribute to any live discussions or bring up an issue/idea you’ve come across in your work.
 
 
-    The Open Space takes place via Zoom every two weeks 11-12.30pm on a Tuesday, with the link added here when available.
+    Join our **GMHAN Open Space** meeting on **Prison and resettlement** on 12th January **at 11:00 AM - 12:30 PM**
 
 
-    **Next Open Space: Tues 12th Jan** 
+    Register here : <https://www.eventbrite.co.uk/e/gmhan-open-space-meeting-tickets-130711980051>
 
 
-    **Access today's meeting via zoom:**
+    <https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09>
 
 
-    Join Zoom Meeting [https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09](https://www.google.com/url?q=https://zoom.us/j/97943570810?pwd%3DTURXRjZiMXRUVitCY3AyQzZZZE1VQT09&sa=D&source=calendar&ust=1604828001499000&usg=AOvVaw2CWaGc1MT3yu3zzSV2PFel) Meeting ID: 979 4357 0810 Passcode: 349968
+    Meeting ID: 979 4357 0810
+
+
+    Passcode: 349968
+
+
+    Please share with your colleagues.
   image: /assets/uploads/open.jpeg
 ---
