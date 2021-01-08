@@ -1,10 +1,12 @@
 ---
 event: true
-title: Statement following new lockdown
+title: Update from Molly Bishop, Strategic Lead for Homelessness, GM Combined
+  Authority
 publishDate: 2021-01-08T12:58:49.346Z
 eventCard:
   name: Update from Molly Bishop, Strategic Lead for Homelessness, GM Combined
     Authority
+  location: Statement following new lockdown
 content:
   body: >-
     Dear colleagues, 
@@ -56,4 +58,5 @@ content:
 
     Greater Manchester Combined Authority
   image: /assets/uploads/unnamed.jpg
+  heading: ""
 ---
