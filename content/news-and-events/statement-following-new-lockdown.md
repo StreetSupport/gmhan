@@ -3,7 +3,8 @@ event: true
 title: Statement following new lockdown
 publishDate: 2021-01-08T12:58:49.346Z
 eventCard:
-  name: Statement following new lockdown
+  name: Update from Molly Bishop, Strategic Lead for Homelessness, GM Combined
+    Authority
 content:
   body: >-
     Dear colleagues, 
