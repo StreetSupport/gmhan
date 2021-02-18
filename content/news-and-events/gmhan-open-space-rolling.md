@@ -5,7 +5,7 @@ publishDate: 2020-09-09T10:46:37.549Z
 eventCard:
   name: Join the GMHAN Open Space /  Every Tuesday 11am-12.30pm
   location: (online via Zoom)
-  date: "9th Feb 11 am - 12:30 pm "
+  date: "23rd Feb 11 am - 12:30 pm "
 content:
   heading: Join us for our regular Open Space to explore all issues related to
     homelessness in Greater Manchester
