@@ -22,7 +22,7 @@ content:
     As GMHAN network we developed to provide a space for independent and cross-sector collaboration, innovation, and scrutiny.
 
 
-    We thank everyone who helped shape the strategy including all our colleagues from the Greater Manchester Homelessness Programme Board, housing practice, and policy, as well as people who have been through the homelessness system, all the policy proposals drawn from the legislative theatre events, and those who have the knowledge and experience of what was needed to do to prevent and reduce homelessness in all its forms.
+    We thank everyone who helped shape the strategy including all our colleagues from the Greater Manchester Homelessness Programme Board, housing practice, and policy, as well as people who have been through the homelessness system, all the policy proposals drawn from the legislative theatre events, and those who have the knowledge and experience of what was needed to do to prevent and reduce homelessness in all its forms. 
 
 
     To reserve your place, [please register here](https://www.eventbrite.co.uk/e/gmhan-full-network-event-tickets-141953018299) and the joining information, as well as a copy of the GMHPS draft, will follow before the event.
