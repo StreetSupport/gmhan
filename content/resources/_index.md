@@ -109,7 +109,7 @@ uploads:
     [Potential Next Steps](/assets/uploads/gmhan-next-steps.pdf)
 
 
-    [HAN Schedule 2020](/assets/uploads/han-2020-schedule.pdf)
+    HAN Schedule 2021
 
 
     [Advisory Board Terms of Reference](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf)
@@ -137,8 +137,6 @@ uploads:
 
 
     **[Homelessness Prevention Framework](https://drive.google.com/file/d/11Sas4ovARPY9LnE_KcwN_hsfbtzEfIhA/view?usp=sharing)**
-
-
 
 
     **Oldham**
