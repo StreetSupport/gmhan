@@ -173,7 +173,7 @@ uploads:
   uploadsone: /assets/uploads/gmhan-resourcing.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gm-information-sept-20.pdf
-  uploadsfive: /assets/uploads/gmhan-2021-schedule.jpeg
+  uploadsfive: /assets/uploads/2021-schedule.pdf
   uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
   uploadsseven: /assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf
 ---
