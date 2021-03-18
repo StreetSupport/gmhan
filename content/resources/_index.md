@@ -109,7 +109,7 @@ uploads:
     [Potential Next Steps](/assets/uploads/gmhan-next-steps.pdf)
 
 
-    HAN Schedule 2021
+    [HAN Schedule 2021](/assets/uploads/gmhan-2021-schedule.jpeg)
 
 
     [Advisory Board Terms of Reference](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf)
@@ -173,7 +173,7 @@ uploads:
   uploadsone: /assets/uploads/gmhan-resourcing.pdf
   uploadsthree: /assets/uploads/gmhan-national-asks.pdf
   uploadstwo: /assets/uploads/gm-information-sept-20.pdf
-  uploadsfive: /assets/uploads/han-2020-schedule.pdf
+  uploadsfive: /assets/uploads/gmhan-2021-schedule.jpeg
   uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
   uploadsseven: /assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf
 ---
