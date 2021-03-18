@@ -109,7 +109,7 @@ uploads:
     [Potential Next Steps](/assets/uploads/gmhan-next-steps.pdf)
 
 
-    [HAN Schedule 2021](/assets/uploads/gmhan-2021-schedule.jpeg)
+    [HAN Schedule 2021](/assets/uploads/2021-schedule.pdf)
 
 
     [Advisory Board Terms of Reference](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf)
