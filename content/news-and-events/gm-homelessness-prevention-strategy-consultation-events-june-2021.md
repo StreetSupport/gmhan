@@ -4,6 +4,7 @@ title: GM Homelessness Prevention Strategy Consultation Events - June 2021
 publishDate: 2021-06-03T14:58:52.691Z
 eventCard:
   name: GM Homelessness Prevention Strategy Consultation Events - June 2021
+  location: Book your place
 content:
   heading: GM Homelessness Prevention Strategy Consultation Events - June 2021
   body: >-
@@ -44,5 +45,5 @@ content:
     \
 
     **You can read the latest strategy draft here: [GM Homelessness Prevention Strategy](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf) and book your place to our consultation sessions using this [link](https://www.eventbrite.co.uk/o/gm-homelessness-action-network-16577907683).**
-  image: /assets/uploads/untitled-6.png
+  image: /assets/uploads/untitled-4hh.png
 ---
