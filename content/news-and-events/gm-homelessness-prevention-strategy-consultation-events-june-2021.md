@@ -2,6 +2,8 @@
 event: true
 title: GM Homelessness Prevention Strategy Consultation Events - June 2021
 publishDate: 2021-06-03T14:58:52.691Z
+eventCard:
+  name: GM Homelessness Prevention Strategy Consultation Events - June 2021
 content:
   heading: GM Homelessness Prevention Strategy Consultation Events - June 2021
   body: >-
