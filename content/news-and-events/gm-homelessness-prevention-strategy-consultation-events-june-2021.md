@@ -7,13 +7,13 @@ content:
   body: >-
     **Join us between 10th June - 18th June for your opportunity to consult on
     the latest draft of the
-    [G](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf)****[reater
+    [G](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf)**[reater
     Manchester Homelessness Prevention
-    Strategy. ](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf)****\
+    Strategy. ](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf)**\
 
-    Tackling homelessness and rough sleeping is a key priority for GMCA and organisations across Greater Manchester as well as GMHAN Network. ****\
+    Tackling homelessness and rough sleeping is a key priority for GMCA and organisations across Greater Manchester as well as GMHAN Network. \*\***\
 
-    These sessions would focus on [Housing](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-housing-tickets-157808243705),  [Transitions](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-transitions-tickets-157830422041?aff=ebdsoporgprofile), [Participation](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-participation-tickets-157850859169), [People & Equalities](https://www.eventbrite.co.uk/e/han-homelessness-prevention-strategy-consultation-on-peopleequalities-tickets-157846851181), [Partnerships](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-partnerships-tickets-157949425985) and [Person-Centred](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-person-centred-tickets-157955829137) and where it sits in the strategy’s objectives where it aims to set out:** 
+    These sessions would focus on [Housing](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-housing-tickets-157808243705),  [Transitions](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-transitions-tickets-157830422041?aff=ebdsoporgprofile), [Participation](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-participation-tickets-157850859169), [People & Equalities](https://www.eventbrite.co.uk/e/han-homelessness-prevention-strategy-consultation-on-peopleequalities-tickets-157846851181), [Partnerships](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-partnerships-tickets-157949425985) and [Person-Centred](https://www.eventbrite.co.uk/e/gmhan-homelessness-prevention-strategy-consultation-on-person-centred-tickets-157955829137) and where it sits in the strategy’s objectives where it aims to set out:\*\* 
 
 
     * **Everyone is able to sustain a home that is safe, decent, and affordable**
