@@ -9,7 +9,7 @@ content:
   heading: GM Homelessness Prevention Strategy Consultation Events - June 2021
   body: >-
     **Join us between 10th June - 18th June for your opportunity to be part of
-    GMHANN consultation events on the latest draft of the
+    GMHAN consultation events on the latest draft of the
     [G](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf)**[reater
     Manchester Homelessness Prevention
     Strategy.](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf)  **Book
