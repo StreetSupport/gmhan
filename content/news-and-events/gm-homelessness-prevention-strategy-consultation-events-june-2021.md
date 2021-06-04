@@ -13,7 +13,7 @@ content:
     [G](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf)**[reater
     Manchester Homelessness Prevention
     Strategy.](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf)  **Book
-    your place to GMHAN consultation sessions using this
+    your place for our consultation sessions using this
     [link](https://www.eventbrite.co.uk/o/gm-homelessness-action-network-16577907683).**
 
 
@@ -46,6 +46,6 @@ content:
 
     \
 
-    **You can read the latest strategy draft here: [GM Homelessness Prevention Strategy](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf) and book your place to our consultation sessions using this [link](https://www.eventbrite.co.uk/o/gm-homelessness-action-network-16577907683).**
+    **You can read the latest strategy draft here: [GM Homelessness Prevention Strategy](https://www.greatermanchester-ca.gov.uk/media/4498/draft-gm-homelessness-prevention-strategy.pdf) and book your place for our consultation sessions using this [link](https://www.eventbrite.co.uk/o/gm-homelessness-action-network-16577907683).**
   image: /assets/uploads/untitled-4hh.png
 ---
