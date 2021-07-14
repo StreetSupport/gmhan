@@ -5,7 +5,7 @@ publishDate: 2020-09-09T10:46:37.549Z
 eventCard:
   name: Join the GMHAN Open Space /  Every Tuesday 11am-12.30pm
   location: (online via Zoom)
-  date: "8th June 2021 / 11 am - 12:30 pm - CANCELLED "
+  date: "27 July 2021 / 11 am - 12:30 pm  "
 content:
   heading: Join us for our regular Open Space to explore all issues related to
     homelessness in Greater Manchester
@@ -18,7 +18,7 @@ content:
     This meeting would focus on discussing Greater Manchester Homelessness Prevention Strategy's draft that went out for public consultation. 
 
 
-    Join our **GMHAN Open Space** meeting on **8th June at 11:00 AM - 12:30 PM - CANCELLED**
+    Join our **GMHAN Open Space** meeting on **27th July at 11:00 AM - 12:30 PM** 
 
 
     https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09
