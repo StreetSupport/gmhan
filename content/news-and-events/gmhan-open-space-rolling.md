@@ -5,7 +5,7 @@ publishDate: 2021-09-07T15:29:44.285Z
 eventCard:
   name: Join the GMHAN Open Space /  Every Tuesday 11am-12.30pm
   location: (online via Zoom)
-  date: "27 July 2021 / 11 am - 12:30 pm  "
+  date: ""
 content:
   heading: Join us for our regular Open Space to explore all issues related to
     homelessness in Greater Manchester
