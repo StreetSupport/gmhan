@@ -1,7 +1,7 @@
 ---
 event: true
 title: GMHAN Open Space rolling
-publishDate: 2020-09-09T10:46:37.549Z
+publishDate: 2021-09-07T15:29:44.285Z
 eventCard:
   name: Join the GMHAN Open Space /  Every Tuesday 11am-12.30pm
   location: (online via Zoom)
@@ -10,15 +10,12 @@ content:
   heading: Join us for our regular Open Space to explore all issues related to
     homelessness in Greater Manchester
   body: >-
-    The open space takes place every two weeks and is an opportunity for you to
-    contribute to any live discussions or bring up an issue/idea you’ve come
-    across in your work.
+    The open space takes place every two weeks on a Tuesday and is an
+    opportunity for you to contribute to any live discussions or bring up an
+    issue/idea you’ve come across in your work.
 
 
-    This meeting would focus on discussing Greater Manchester Homelessness Prevention Strategy's draft that went out for public consultation. 
-
-
-    Join our **GMHAN Open Space** meeting on **27th July at 11:00 AM - 12:30 PM** 
+    **Joining details**
 
 
     https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09
@@ -28,5 +25,19 @@ content:
 
 
     Passcode: 349968
+
+
+
+
+    Upcoming Open Space sessions in September and October will be on the following dates:
+
+
+    * 7th Sept
+
+    * 21st Sept
+
+    * 5th Oct
+
+    * 19th Oct
   image: /assets/uploads/open.jpeg
 ---
