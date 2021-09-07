@@ -1,7 +1,7 @@
 ---
-event: true
+event: "FALSE"
 title: "Full Network Meeting: March "
-publishDate: 2020-09-09T12:26:30.859Z
+publishDate: 2020-02-01T13:26:30.859Z
 eventCard:
   name: Join us for the full Homeless Action Network meeting
   location: 10:00 am - 12:00 pm
