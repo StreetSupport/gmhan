@@ -4,6 +4,8 @@ title: October 21 Full Network event
 publishDate: 2021-09-29T11:54:31.311Z
 eventCard:
   name: Full Network Event - focus on Local Homelessness Partnerships
+  location: Click to see info and joining details
+  date: "Tues 12th October, 11-12.30 "
 content:
   heading: Next Full Network Event focusing on Local Homelessness Partnerships
   body: >-
