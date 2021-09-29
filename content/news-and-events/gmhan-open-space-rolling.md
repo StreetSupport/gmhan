@@ -27,9 +27,7 @@ content:
     Passcode: 349968
 
 
-
-
-    Upcoming Open Space sessions in September and October will be on the following dates:
+    Upcoming Open Space sessions in September and October will be on the following dates: (all 11am-12.30pm)
 
 
     * 7th Sept
