@@ -153,7 +153,7 @@ uploads:
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
   uploadsfour: ""
   uploadsone: /assets/uploads/gmhan-resourcing.pdf
-  uploadsthree: ""
+  uploadsthree: /assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf
   uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsfive: /assets/uploads/2021-schedule.pdf
   uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
