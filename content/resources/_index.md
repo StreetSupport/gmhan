@@ -13,16 +13,12 @@ uploads:
     ## Latest
 
 
-    [Covid-19 Night provision of night shelters](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)
+    [GMHAN Prevention Strategy](/assets/uploads/gmhps-final.pdf) and [Action Plan](<missing link>) (including [Narrative](<missing link>) document describing purpose/approach). The Action Plan will be reviewed every 6 months to keep attention on how things are developing and what might be the next priority to address. If you have any feedback about the approach, priorities or how it's going on the ground, please contact [info@gmhan.net](mailto:info:gmhan.net). 
 
 
-    **[Public Health England advice on Winter Night Shelters ](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)**- all members of the GMHAN, including the Combined Authority and Local Authorities are very clear that night shelters should absolutely be the last resort during this winter to be made available only if other safer, better options have been exhausted. Additional funding is being made available via [Homeless Link](https://www.homeless.org.uk/connect/news/2020/oct/13/operating-principles-for-commissioners-and-providers-of-night-shelters-for) should night shelters be needed.
+    [Inquests: A Guide For Bereaved Families](static/assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf) - Guidance produced for families of people who died while homeless
 
 
-    [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf) - if you think you can help with funding or resource please contact [gmhan@streetsupport.net](mailto:gmhan@streetsupport.net). 
-
-
-    [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) - details on current helpline numbers for each GM borough via Homeless Friendly
 
 
     ## **Archive**
@@ -34,12 +30,6 @@ uploads:
     [GMHAN Build Back Better paper](https://www.gmhan.net/assets/uploads/gmhan-building-back-better-proposal.pdf)
 
 
-    [Emergency Hotel Provision Service Model](https://www.riverside.org.uk/wp-content/uploads/2020/04/Emergency-hotel-provision-service-model-FINAL.pdf) and [Interim Evaluation](https://www.riverside.org.uk/manchester-emergency-accommodation-evaluation/) (Riverside)
-
-
-    [\#EveryoneInForGood - Ending Rough Sleeping For Good After The Lockdown](https://www.homeless.org.uk/connect/blogs/2020/may/18/everyoneinforgood-%E2%80%93-ending-rough-sleeping-for-good-after-lockdown) (Homeless Link)
-
-
     [GM Covid Committee Report on Next Steps](https://streetsupport.us12.list-manage.com/track/click?u=da9a1d4bb2b1a69a981456972&id=d2362eeb41&e=80e23c30ae) (GMCA)
 
 
@@ -49,10 +39,7 @@ uploads:
     [GMHAN and GMCA Parliamentary Inquiry Response](https://drive.google.com/file/d/1esrVGfipEFYOg9UuCyKqKV4WbY8Jh-7I/view?usp=sharing)
 
 
-    [Hostel Coronavirus Info Pack](https://drive.google.com/file/d/16celNlOsddl-7HmzuSER4qbu8t2HV6z3/view?usp=sharing) (NHS)
-
-
-    [Unsupported Temporary Accommodation in Greater Manchester](https://drive.google.com/file/d/1xoVmsPLDHbiiJt-qhkkn-JNDvU-Iaqre/view?usp=sharing) (JustLife)
+    **[Public Health England advice on Winter Night Shelters ](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)**- all members of the GMHAN, including the Combined Authority and Local Authorities are very clear that night shelters should absolutely be the last resort during the winter to be made available only if other safer, better options have been exhausted. Additional funding is being made available via [Homeless Link](https://www.homeless.org.uk/connect/news/2020/oct/13/operating-principles-for-commissioners-and-providers-of-night-shelters-for) should night shelters be needed.
 
 
     \-
@@ -62,12 +49,6 @@ uploads:
 
 
     [Alcohol Audit ](https://drive.google.com/file/d/1GeTBKB0ZxNx0LhJWj1MgV_MwxYOiU_fg/view?usp=sharing)(Salford PCT)
-
-
-    [Dual Diagnosis cov-19 advice](https://drive.google.com/file/d/1nZP6F7Km5rwMm8d5NreyNYfiqM_DOg39/view?usp=sharing)
-
-
-    [Family Doctor Registration Form](https://drive.google.com/file/d/1ocGoNwxspQ0hWRFNPUSIv8Ogkq3VMVh4/view?usp=sharing) (NHS)
 
 
     [Frontline Staff Information Booklet](https://drive.google.com/file/d/1dWUAMiU9MAjC-nXOzuAvA-KJbIxUBcet/view?usp=sharing) (NHS)
@@ -91,10 +72,7 @@ uploads:
     [Psychosocial Resource Pack](https://drive.google.com/file/d/1sPlJf4W7EFbrYmsE5BwrIV4zq6iedjUN/view?usp=sharing) (GMMH)
 
 
-    [Urban Village Medical Practice drop-in](https://drive.google.com/file/d/1mUQs_YfUbLyZZXqcjssvU0yX62WkQAlI/view?usp=sharing) (UVMP)
-
-
-    [Urban Village Registration Form ](https://drive.google.com/file/d/10lJDbtg_Sq8oAQukORnfj2WM-aGhObgn/view?usp=sharing)(UVMP)
+    [Urban Village Medical Practice drop-in](https://drive.google.com/file/d/1mUQs_YfUbLyZZXqcjssvU0yX62WkQAlI/view?usp=sharing) & [Registration Form ](https://drive.google.com/file/d/10lJDbtg_Sq8oAQukORnfj2WM-aGhObgn/view?usp=sharing)(UVMP)
 
 
     [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) (Homeless Friendly)
@@ -106,7 +84,6 @@ uploads:
     **From the Network**
 
 
-    [Potential Next Steps](/assets/uploads/gmhan-next-steps.pdf)
 
 
     [HAN Schedule 2021](/assets/uploads/2021-schedule.pdf)
@@ -115,10 +92,10 @@ uploads:
     [Advisory Board Terms of Reference](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf)
 
 
-    [GMHAN National Asks](/assets/uploads/gmhan-national-asks.pdf)
-
-
     [GMHAN Rough Sleeping Action Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)
+
+
+    [Potential Next Steps](/assets/uploads/gmhan-next-steps.pdf) for the GM Homelessness Action Network
 
 
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
@@ -136,7 +113,9 @@ uploads:
     [GM Mental Health Housing & Mental Health Strategy](https://gmhan.netlify.com/assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf)
 
 
-    **[Homelessness Prevention Framework](https://drive.google.com/file/d/11Sas4ovARPY9LnE_KcwN_hsfbtzEfIhA/view?usp=sharing)**
+
+
+    **\-**
 
 
     **GM A Bed Every Night** 
@@ -145,12 +124,10 @@ uploads:
     **A Bed Every Night – Reflection by Matthew Kidd from Creative Inclusion**
 
 
-    **In March 2021, the Homelessness Action Network held a learning event to reflect on people’s experiences of ABEN provision in Greater Manchester. Creative Inclusion was commissioned to write a [report](https://drive.google.com/file/d/1eCiw_Q5Lk98ybbOM2xIoRglh6rqsModm/view) which brings together different perspectives on how Greater Manchester can respond as a whole system to improve the experiences of people accessing ABEN. [Matthew Kid](https://twitter.com/mattyk14?mc_cid=053bfa4dcb&mc_eid=e35df83018) offers his reflections.**
+    In March 2021, the Homelessness Action Network held a learning event to reflect on people’s experiences of ABEN provision in Greater Manchester. Creative Inclusion was commissioned to write a [report](https://drive.google.com/file/d/1eCiw_Q5Lk98ybbOM2xIoRglh6rqsModm/view) which brings together different perspectives on how Greater Manchester can respond as a whole system to improve the experiences of people accessing ABEN. [Matthew Kid](https://twitter.com/mattyk14?mc_cid=053bfa4dcb&mc_eid=e35df83018) offers his reflections.
 
 
-    **You can [read here](https://drive.google.com/file/d/1jOp1dBF53-PNz_8uPuZ6z6jTmMXbBIBu/view) the independent evaluation that evaluates the effectiveness of ABEN by Dr Beth Watts and Lynne McCordie with Melissa Espinoza, Dora Welker, and Prof. Sarah Johnsen (The Institute for Social Policy, Housing, Equalities Research (I-SPHERE). In addition, we’d warmly invite you to contribute to the GM Homelessness Prevention Strategy to help develop an integrated rough sleeping response where no one is left behind.** 
-
-
+    You can [read here](https://drive.google.com/file/d/1jOp1dBF53-PNz_8uPuZ6z6jTmMXbBIBu/view) the independent evaluation that evaluates the effectiveness of ABEN by Dr Beth Watts and Lynne McCordie with Melissa Espinoza, Dora Welker, and Prof. Sarah Johnsen (The Institute for Social Policy, Housing, Equalities Research (I-SPHERE). In addition, we’d warmly invite you to contribute to the GM Homelessness Prevention Strategy to help develop an integrated rough sleeping response where no one is left behind. 
 
 
     **Oldham**
@@ -159,12 +136,6 @@ uploads:
     [OLDHAM ROUGH SLEEPER INITIATIVE REVIEW 2021](https://drive.google.com/file/d/1lzIapbUQCWBdVl2uHP5nhj7pkaFG0m6D/view?usp=sharing)
 
 
-    **Useful Documents** 
-
-
-    [RECOMMENDATIONS FOR TELEPHONIC SUPPORT TO CLIENTS IN
-
-    HOUSING SERVICES DURING THE CONFINEMENT DURING THE COVID-19 PANDEMIA](https://drive.google.com/file/d/1y0sp_IGqg1wbsKoOFok1QPTzvW_gGGtl/view?usp=sharing)
 
 
     **External**
@@ -180,14 +151,11 @@ uploads:
 
 
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
-
-
-    [Christmas services opening times list in Manchester](https://drive.google.com/file/d/1rBozXaC5XEoLtDc7TwAy_gzZW04TTKkV/view?usp=sharing)
-  uploadsfour: /assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf
+  uploadsfour: ""
   uploadsone: /assets/uploads/gmhan-resourcing.pdf
-  uploadsthree: /assets/uploads/gmhan-national-asks.pdf
-  uploadstwo: /assets/uploads/gm-information-sept-20.pdf
+  uploadsthree: ""
+  uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsfive: /assets/uploads/2021-schedule.pdf
   uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
-  uploadsseven: /assets/uploads/proposal-for-partnership-between-st-martin-s-and-gmhan.pdf
+  uploadsseven: ""
 ---
