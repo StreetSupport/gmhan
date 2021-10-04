@@ -16,9 +16,7 @@ uploads:
     [GMHAN Prevention Strategy](/assets/uploads/gmhps-final.pdf) and [Action Plan](<missing link>) (including [Narrative](<missing link>) document describing purpose/approach). The Action Plan will be reviewed every 6 months to keep attention on how things are developing and what might be the next priority to address. If you have any feedback about the approach, priorities or how it's going on the ground, please contact [info@gmhan.net](mailto:info:gmhan.net). 
 
 
-    [Inquests: A Guide For Bereaved Families](static/assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf) - Guidance produced for families of people who died while homeless
-
-
+    [Inquests: A Guide For Bereaved Families](https://www.gmhan.net/assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf) - Guidance produced for families of people who died while homeless
 
 
     ## **Archive**
@@ -84,8 +82,6 @@ uploads:
     **From the Network**
 
 
-
-
     [HAN Schedule 2021](/assets/uploads/2021-schedule.pdf)
 
 
@@ -113,8 +109,6 @@ uploads:
     [GM Mental Health Housing & Mental Health Strategy](https://gmhan.netlify.com/assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf)
 
 
-
-
     **\-**
 
 
@@ -134,8 +128,6 @@ uploads:
 
 
     [OLDHAM ROUGH SLEEPER INITIATIVE REVIEW 2021](https://drive.google.com/file/d/1lzIapbUQCWBdVl2uHP5nhj7pkaFG0m6D/view?usp=sharing)
-
-
 
 
     **External**
