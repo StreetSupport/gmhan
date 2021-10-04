@@ -17,6 +17,6 @@ content:
     National partners including Shelter, the GM Law Centre and Museum of Homelessness have come together to produce a a short guide to the inquest process for bereaved families whose loved ones have died in emergency or hostel accommodation during the COVID-19 pandemic.
 
 
-    You can download the Guide describing the inquest process by following [this link](static/assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf).
+    You can download the Guide describing the inquest process by following [this link](https://www.gmhan.net/assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf).
   image: /assets/uploads/inquests.png
 ---
