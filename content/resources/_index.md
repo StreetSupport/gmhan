@@ -13,7 +13,7 @@ uploads:
     ## Latest
 
 
-    [GMHAN Prevention Strategy](/assets/uploads/gmhps-final.pdf) and [Action Plan](<missing link>) (including [Narrative](<missing link>) document describing purpose/approach). The Action Plan will be reviewed every 6 months to keep attention on how things are developing and what might be the next priority to address. If you have any feedback about the approach, priorities or how it's going on the ground, please contact [info@gmhan.net](mailto:info:gmhan.net). 
+    [GMHAN Prevention Strategy](/assets/uploads/gmhps-final.pdf) and [Action Plan](https://www.gmhan.net/assets/uploads/gm-homelessness-prevention-action-plan.pdf) - The Action Plan will be reviewed every 6 months to keep attention on how things are developing and what might be the next priority to address. If you have any feedback about the approach, priorities or how it's going on the ground, please contact [info@gmhan.net](mailto:info:gmhan.net). 
 
 
     [Inquests: A Guide For Bereaved Families](https://www.gmhan.net/assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf) - Guidance produced for families of people who died while homeless
@@ -143,7 +143,7 @@ uploads:
 
 
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
-  uploadsfour: ""
+  uploadsfour: /assets/uploads/gm-homelessness-prevention-action-plan.pdf
   uploadsone: /assets/uploads/gmhan-resourcing.pdf
   uploadsthree: /assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf
   uploadstwo: /assets/uploads/gmhps-final.pdf
