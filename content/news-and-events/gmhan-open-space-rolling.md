@@ -18,24 +18,24 @@ content:
     **Joining details**
 
 
-    https://zoom.us/j/97943570810?pwd=TURXRjZiMXRUVitCY3AyQzZZZE1VQT09
+    <https://us02web.zoom.us/j/87027909890?pwd=QjVBRU5hUHpUR09rNDJTTDFkWGJkZz09>
 
 
-    Meeting ID: 979 4357 0810
+    Meeting ID: 870 2790 9890
 
 
-    Passcode: 349968
+    Passcode: 945 704
 
 
-    Upcoming Open Space sessions in September and October will be on the following dates: (all 11am-12.30pm)
+    Upcoming Open Space sessions in November and December will be on the following dates: (all 11am-12.30pm)
 
 
-    * 7th Sept
+    * 2nd November
 
-    * 21st Sept
+    * 16th November
 
-    * 5th Oct
+    * 30th November
 
-    * 19th Oct
+    * 14th December
   image: /assets/uploads/open.jpeg
 ---
