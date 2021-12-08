@@ -3,7 +3,7 @@ event: true
 title: GMHAN Open Space Nov-Dec
 publishDate: 2021-10-22T09:15:44.690Z
 eventCard:
-  name: Join the GMHAN Open Space /  Every Tuesday 11am-12.30pm
+  name: Join the GMHAN Open Space /  Every other Tuesday 11am-12.30pm
   location: (online via Zoom)
 content:
   body: >-
