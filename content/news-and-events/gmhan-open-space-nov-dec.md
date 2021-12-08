@@ -33,7 +33,7 @@ content:
 
     * 30th November
 
-    * 14th December
+    * 14th December (Co-design session for next full HAN Network event in January)
   heading: Join us for our regular Open Space to explore all issues related to
     homelessness in Greater Manchester
   image: /assets/uploads/open.jpeg
