@@ -33,13 +33,20 @@ content:
 
     M1 1JQ
 
-     
 
     Together we have collectively co-created the GM homelessness prevention strategy that gives us our vision, so this is opportunity to look at the gap between where we are now and this vision, and see what we can do together to realise it. We will mainly be working in locality groups, so **please take some time to think who else from your locality it would be good to have there, and send on this invitation**.\
 
     \
 
     We all have different parts of the whole picture we need (around whats happening and potential solutions. Bringing people with new information, resources, ideas and connections into the room opens up more options. Do you know people working on alternative housing models? Organisations with access to different resources? Community based initiatives? Please invite them along.
+
+
+    **You can read the Strategy and accompanying documents here:**
+
+
+    [GM Homelessness Prevention Strategy](https://streetsupport.us12.list-manage.com/track/click?u=da9a1d4bb2b1a69a981456972&id=8eaed683f1&e=20f4d60d20)\
+
+    [Action Plan](https://streetsupport.us12.list-manage.com/track/click?u=da9a1d4bb2b1a69a981456972&id=c210de20d1&e=20f4d60d20)
 
 
     For any questions about the session, contact [info@gmhan.net](mailto:info@gmhan.net)
