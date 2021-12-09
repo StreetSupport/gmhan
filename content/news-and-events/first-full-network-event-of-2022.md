@@ -16,9 +16,6 @@ content:
     Strategy as part of our next Full Network Event.
 
 
-    To register for the event, go to: https://www.eventbrite.co.uk/e/gm-homelessness-action-network-prevention-strategy-launch-tickets-225259746967[](https://www.eventbrite.co.uk/e/gm-homelessness-action-network-local-homelessness-partnerships-tickets-181228367927)
-
-
     This event is planned to be **in person**, for the first time since the start of COVID pandemic, at:
 
 
@@ -32,6 +29,9 @@ content:
 
 
     M1 1JQ
+
+
+    To register for the event go to <https://www.eventbrite.co.uk/e/gm-homelessness-action-network-prevention-strategy-launch-tickets-225259746967>
 
 
     Together we have collectively co-created the GM homelessness prevention strategy that gives us our vision, so this is opportunity to look at the gap between where we are now and this vision, and see what we can do together to realise it. We will mainly be working in locality groups, so **please take some time to think who else from your locality it would be good to have there, and send on this invitation**.\
