@@ -16,7 +16,7 @@ content:
     Strategy as part of our next Full Network Event.
 
 
-    To register for the event, go to: [](https://www.eventbrite.co.uk/e/gm-homelessness-action-network-local-homelessness-partnerships-tickets-181228367927)
+    To register for the event, go to: https://www.eventbrite.co.uk/e/gm-homelessness-action-network-prevention-strategy-launch-tickets-225259746967[](https://www.eventbrite.co.uk/e/gm-homelessness-action-network-local-homelessness-partnerships-tickets-181228367927)
 
 
     This event is planned to be **in person**, for the first time since the start of COVID pandemic, at:
