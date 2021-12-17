@@ -16,7 +16,7 @@ content:
     Strategy as part of our next Full Network Event.
 
 
-    This event is planned to be **in person**, for the first time since the start of COVID pandemic, at:
+    **\*This event is planned to be in person, but please note that if restrictions on in person events remain in place in the New Year then this event will move online\***
 
 
     Methodist Central Hall
