@@ -1,12 +1,12 @@
 .block {
   position: relative;
 
-  &.block--orange {
-    background: $gmhan-orange;
+  &.block--green {
+    background: $fsan-green; 
   }
 
   &.block--grey {
-    background: $gmhan-grey;
+    background: $fsan-grey;
     color: #f1f1f1;
     padding: 40px 20%;
     text-align: center;
@@ -18,7 +18,7 @@
 
   &.block--highlight {
     margin: 25px 10px 0px 10px;
-    border: 2px solid $gmhan-orange;
+    border: 2px solid $fsan-green;
     padding: 0px 25px;
     flex: 1 1 0px;
 
@@ -27,19 +27,19 @@
     }
 
     h3 {
-      color: $gmhan-orange;
+      color: $fsan-green;
     }
 
     &.block--highlight-grey {
-      background: $gmhan-grey;
+      background: $fsan-grey;
       color: #fff;;
     }
 
-    &.block--highlight-orange {
-      background: $gmhan-orange;
+    &.block--highlight-green {
+      background: $fsan-green;
       color: white;
       h3, a {
-        color: $gmhan-grey;
+        color: $fsan-grey;
       }
     }
   }

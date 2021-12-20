@@ -1,7 +1,7 @@
 .home-hero {
   position: relative;
   height: 400px;
-  background: $gmhan-orange;
+  background: $fsan-light-grey;
   
   img {
     height: 400px;
@@ -10,7 +10,7 @@
 
   @media screen and (max-width: 650px) {
     .home-hero-title {
-      color: $gmhan-grey;
+      color: $fsan-light-grey;
     }
 
     img {
@@ -21,12 +21,12 @@
 
 .home-hero-title {
   position: absolute;
-  font-family: 'exo';
+  font-family: 'Nunito';
   text-align: center;
   font-size: 48px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: $gmhan-orange;
+  color: #fff;
   text-shadow: 1px 1px 1px #000;
 }

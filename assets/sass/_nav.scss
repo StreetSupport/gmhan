@@ -6,11 +6,11 @@ nav {
     height: 110px;
     font-family: be vietnam;
     background: #f1f1f1;
-    border-bottom: 3px solid #e2a601;
+    border-bottom: 3px solid #535353;
 }
 
 .logo {
-    width: 100px;
+    width: 200px;
     padding: 5px;
 }
 
@@ -47,7 +47,7 @@ nav {
 
 .nav-links li:before {
   content: " | ";
-  color: #FFB533;
+  color: #14a99d;
 }
 
 .burger {
@@ -58,7 +58,7 @@ nav {
 .burger div {
   width: 25px;
   height: 3px;
-  background-color: #e2a601;
+  background-color: #14a99d;
   margin: 5px;
   transition: all 0.3s ease;
   z-index: 20;
