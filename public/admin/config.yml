@@ -60,19 +60,19 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "How the board works", name: "howWorks", widget: "object", fields: [
+          - {label: "How the board works", name: "scale", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Achieved so far", name: "whatHave", widget: "object", fields: [
+          - {label: "Achieved so far", name: "left", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Who is involved?", name: "whoIs", widget: "object", fields: [
+          - {label: "Who is involved?", name: "bottom", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Working on", name: "whatAre", widget: "object", fields: [
+          - {label: "Working on", name: "right", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}

@@ -7,7 +7,7 @@
 
   &.block--grey {
     background: $fsan-grey;
-    color: #f1f1f1;
+    color: #fff;
     padding: 40px 20%;
     text-align: center;
   }
@@ -18,7 +18,7 @@
 
   &.block--highlight {
     margin: 25px 10px 0px 10px;
-    border: 2px solid $fsan-green;
+
     padding: 0px 25px;
     flex: 1 1 0px;
 
@@ -33,6 +33,7 @@
     &.block--highlight-grey {
       background: $fsan-grey;
       color: #fff;;
+      border: 2px solid $fsan-green;
     }
 
     &.block--highlight-green {

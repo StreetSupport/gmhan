@@ -23,6 +23,7 @@ h3, .h3 {
 
 p {
   font-size: 14px;
+  line-height: 18px;
 }
 
 a {
@@ -30,6 +31,7 @@ a {
   color: $fsan-green;
   cursor: pointer;
   font-size: 14px;
+  overflow-wrap: break-word;
 }
 
 ul li, ol li {
