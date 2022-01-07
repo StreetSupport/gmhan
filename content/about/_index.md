@@ -28,7 +28,7 @@ scale:
 
     * 134 Food Banks operate across GM and 68 Food Pantries/Clubs
 
-    * 7,610 Emergency Food Cards have been distributed to young people in need since October 2020
+    * 12,500 Emergency Food Cards have been distributed to young people in need since October 2020
   heading: The scale of the Food Insecurity issue in Greater Manchester
 left:
   body: The Food Security Action Network (FSAN) is a group of stakeholders across
