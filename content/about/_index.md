@@ -9,7 +9,7 @@ whatIs:
     in this ambition, so we can work together towards a common cause.
 
 
-    We do this through our larger scale network events every 3 months aimed at co-designing Greater Manchester’s food security policy and showcasing best practice. We have three smaller task force groups that work on the priorities raised by the wider network; Increasing the uptake of Healthy Start Vouchers, Ending Holiday Hunger and Doing More For Those Who Miss Out On Support. The work of these three task force groups is organised by the GMFSAN Core Coordination Group, a small group comprising the chairs of the three task forces, GMCA Policy Officers and our GMFSAN Chair.
+    We do this through our larger scale network events every 3 months aimed at co-designing Greater Manchester’s food security response and showcasing good practice and connecting people to maximise innovation. We have three focussed task force groups that work on the priorities raised by the wider network; Increasing the uptake of Healthy Start Vouchers, Ending Holiday Hunger and Doing More For Those Who Miss Out On Support. The work of these three task force groups is organised by the GMFSAN Core Coordination Group, a small group comprising the chairs of the three task forces, GMCA Officers and our GMFSAN Chair.
 
 
     The Network is cross sector, including representatives from all ten Greater Manchester boroughs. Most importantly, it operated on the basis of ‘community development’ and co-production*, bringing people together to work side by side rather than alone or in hierarchies.
