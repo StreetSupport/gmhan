@@ -19,21 +19,14 @@
     </div>
   </section>
 
-  <section class="container highlight-container">
+  <section class="container">
     <div class="block block--highlight block--highlight-green">
       <div class="content">
-        <h3>{{ .Params.highlightLeft.heading }}</h3>
-        <p>{{ partial "bodyMarkdown.html" .Params.highlightLeft.body }}</p>
-      </div>
-    </div>
-    <div class="block block--highlight block--highlight-grey">
-      <div class="content">
-        <h3>{{ .Params.highlightRight.heading }}</h3>
-        <p>{{ partial "bodyMarkdown.html" .Params.highlightRight.body }}</p>
+        <h3>{{ .Params.highlightBottom.heading }}</h3>
+        <p>{{ partial "bodyMarkdown.html" .Params.highlightBottom.body }}</p>
       </div>
     </div>
   </section>
-</div>
   
 {{ $footer := .Site.GetPage "_footer.md" }}
 {{ partial "footer.html" (dict "footer" $footer) }}

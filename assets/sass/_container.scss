@@ -23,6 +23,13 @@
   padding: 0 5%;
 }
 
+.two-column {
+  width: 50%;
+  @media (max-width: $bp-tablet) {
+    width: 97%;
+  }
+}
+
 #main {
   min-height: 100%;
 }

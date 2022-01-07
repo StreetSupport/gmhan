@@ -18,37 +18,38 @@
     </div>
   </section>
 
-  <section class="container highlight-container">
-    <div class="block block--highlight block--highlight-green">
-      <div class="content">
-        <h3>{{ .Params.whatHave.heading }}</h3>
-        <p>{{ partial "bodyMarkdown.html" .Params.whatHave.body }}</p>
-      </div>
-    </div>
+  <section class="container">
     <div class="block block--highlight block--highlight-grey">
       <div class="content">
-        <h3>{{ .Params.whatAre.heading }}</h3>
-        <p>{{ partial "bodyMarkdown.html" .Params.whatAre.body }}</p>
+        <h3>{{ .Params.scale.heading }}</h3>
+        <p>{{ partial "bodyMarkdown.html" .Params.scale.body }}</p>
       </div>
     </div>
   </section>
 
   <section class="container highlight-container">
-      <div class="block block--highlight block--highlight-grey">
-        <div class="content">
-          <h3>{{ .Params.howWorks.heading }}</h3>
-          <p>{{ partial "bodyMarkdown.html" .Params.howWorks.body }}</p>
-          <img class="advisory-board-image" src="/assets/uploads/Advisory Board breakdown.png" alt="">
-        </div>
+    <div class="block block--highlight block--highlight-green two-column">
+      <div class="content">
+        <h3>{{ .Params.left.heading }}</h3>
+        <p>{{ partial "bodyMarkdown.html" .Params.left.body }}</p>
       </div>
-      <div class="block block--highlight block--highlight-green">
-        <div class="content">
-          <h3>{{ .Params.whoIs.heading }}</h3>
-          <p>{{ partial "bodyMarkdown.html" .Params.whoIs.body }}</p>
-        </div>
+    </div>
+    <div class="block block--highlight block--highlight-grey two-column">
+      <div class="content">
+        <h3>{{ .Params.right.heading }}</h3>
+        <p>{{ partial "bodyMarkdown.html" .Params.right.body }}</p>
       </div>
+    </div>
   </section>
-</div>
+
+  <section class="container">
+    <div class="block block--highlight block--highlight-grey">
+      <div class="content">
+        <h3>{{ .Params.bottom.heading }}</h3>
+        <p>{{ partial "bodyMarkdown.html" .Params.bottom.body }}</p>
+      </div>
+    </div>
+  </section>
   
 {{ $footer := .Site.GetPage "_footer.md" }}
 {{ partial "footer.html" (dict "footer" $footer) }}

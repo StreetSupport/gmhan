@@ -1,13 +1,13 @@
 ---
 img: 
 tagline: >-
-  The Greater Manchester Homeless Action Network (GMHAN) brings together
-  everyone in Greater Manchester working to end homelessness:
+  The Greater Manchester Food Security Action Network (GMFSAN) brings together
+  everyone in Greater Manchester working to end the scandal of food poverty:
 
 
-  People with personal insights into homelessness, people from the frontline
+  People with personal insights into food insecurity, people from the frontline
   organisations, public sector officers, and anyone working to find more
-  effective solutions to the homelessness crisis.
+  effective solutions to the food poverty crisis.
 ctaCards:
   cardOne:
     cardLink: /news-and-events
@@ -15,11 +15,11 @@ ctaCards:
     cardTitle: News & Events
   cardThree:
     cardLink: /about
-    cardText: Learn what Greater Manchester is doing to end homelessness
+    cardText: Learn what Greater Manchester is doing to end food insecurity
     cardTitle: About
   cardTwo:
     cardLink: /give
-    cardText: Find the most effective ways to donate to end homelessness
+    cardText: Find the most effective ways to donate to end food insecurity
     cardTitle: Give
 secondary:
   buttonOne:
