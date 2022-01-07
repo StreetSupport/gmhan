@@ -1,5 +1,5 @@
 ---
-event: "true"
+event: true
 title: Join us for the full Food Security Action Network meeting
 publishDate: 2022-01-07T12:58:50.482Z
 eventCard:
