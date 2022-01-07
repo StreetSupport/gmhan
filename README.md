@@ -1,4 +1,4 @@
-# gmhan
+# gmfsan
 Website for Greater Manchester Food Security Action Network
 
 ## Live site: Hugo + Netlify CMS
