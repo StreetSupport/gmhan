@@ -1,5 +1,5 @@
 # gmhan
-Website for Greater Manchester Homelessness Action Network
+Website for Greater Manchester Food Security Action Network
 
 ## Live site: Hugo + Netlify CMS
 
