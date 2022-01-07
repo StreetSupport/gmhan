@@ -13,8 +13,8 @@ content:
     full, online, quarterly Food Security Action Network event. Please join
     through this [Microsoft Teams
     Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzMyYmQ1MmYtOGE1MS00MjNkLTk3YTAtNTczNWNhMzZkNmU5%40thread.v2/0?context=%7b%22Tid%22%3a%22e8d8036a-b5f9-4f3f-9d36-d7cd740299bb%22%2c%22Oid%22%3a%2274318281-8da5-4c25-9c2f-98004019047b%22%7d)
-    and please contact [info@gmfsan.net](mailto:info@gmfsan.net)[](<>) if you
-    have any queries. See below the agenda for the session:
+    and please contact info@gmfsan.net if you have any queries. See below the
+    agenda for the session:
 
 
     AGENDA
