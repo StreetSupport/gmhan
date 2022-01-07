@@ -56,11 +56,11 @@ collections:
           - {label: "Page title", name: "content", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
           ]}
-          - {label: "What is the GMHAN?", name: "whatIs", widget: "object", fields: [
+          - {label: "What is the FSHAN?", name: "whatIs", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "How the board works", name: "scale", widget: "object", fields: [
+          - {label: "The scale of the issue", name: "scale", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
@@ -68,11 +68,11 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Who is involved?", name: "bottom", widget: "object", fields: [
+          - {label: "Who is involved?", name: "right", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Working on", name: "right", widget: "object", fields: [
+          - {label: "Core coordination group", name: "bottom", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}

@@ -10,9 +10,18 @@
   </section>
 
   <section class="container">
+    <div class="block block--highlight block--highlight-green">
+      <div class="content">
+        <h3>{{ .Params.moreGetInvolved.heading }}</h3>
+        <p>{{ partial "bodyMarkdown.html" .Params.moreGetInvolved.body }}</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="container">
 
       <div class="block block--highlight block--highlight-grey">
-        <h2 class="h2">{{ .Params.speakUp.heading }}</h2>
+        <h2>{{ .Params.speakUp.heading }}</h2>
         <p>{{ partial "bodyMarkdown.html" .Params.speakUp.body }}</p>
       </div>
 

@@ -34,6 +34,9 @@
       background: $fsan-grey;
       color: #fff;;
       border: 2px solid $fsan-green;
+      h2 {
+        color: $fsan-green;
+      }
     }
 
     &.block--highlight-green {
