@@ -1,7 +1,7 @@
   
 backend:
   name: git-gateway
-  branch: master
+  branch: fsan
 
 media_folder: "/static/assets/uploads"
 public_folder: "/assets/uploads"

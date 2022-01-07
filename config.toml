@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-gb"
-title = "Greater Manchester Homelessness Action Network"
+title = "Greater Manchester Food Security Action Network"
 disableKinds = ["RSS", "taxonomyTerm"]
 [blackfriday]
    hrefTargetBlank = true
