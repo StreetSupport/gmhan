@@ -88,7 +88,7 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Highlight box left", name: "highlightLeft", widget: "object", fields: [
+          - {label: "Highlight box left", name: "highlightBottom", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
