@@ -142,13 +142,13 @@ collections:
     create: true
     filter: {field: "event", value: true}
     fields:
-      - {label: "Event", name: "event", default: true}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Event (required)", name: "event", default: true}
+      - {label: "Event title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "publishDate", widget: "datetime"}
       - {label: "Summary (Card displayed on news and events page)", name: "eventCard", widget: "object", fields: [
           {label: "Heading", name: "name", widget: "string", required: false},
-          {label: "Sub-heading or Location", name: "location", widget: "string", required: false},
-          {label: "Date/Author", name: "date", widget: "string", required: false}
+          {label: "First sub-heading e.g. location/date", name: "location", widget: "string", required: false},
+          {label: "Second sub-heading e.g. author/time", name: "date", widget: "string", required: false}
         ]}
       - {label: "Content", name: "content", widget: "object", fields: [
           {label: "Heading", name: "heading", widget: "string", required: false},
