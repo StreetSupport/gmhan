@@ -16,7 +16,6 @@ collections:
         label: "Home" 
         name: "home"
         fields:
-          - {label: "Image", name: "img", widget: "image"}
           - {label: "Tagline", name: "tagline", widget: "markdown"}
           - {label: "CTA cards", name: "ctaCards", widget: "object", fields: [
               {label: "Card one", name: "cardOne", widget: "object", fields: [
@@ -82,17 +81,13 @@ collections:
         fields:
           - {label: "Content", name: "content", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
+              {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
-          - {label: "Highlight box top", name: "highlightTop", widget: "object", fields: [
+          - {label: "Box top", name: "highlightTop", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
-          - {label: "Highlight box left", name: "highlightBottom", widget: "object", fields: [
-              {label: "Heading", name: "heading", widget: "string"},
-              {label: "Body", name: "body", widget: "markdown"}
-          ]}
-          - {label: "Highlight box right", name: "highlightRight", widget: "object", fields: [
+          - {label: "Highlight box bottom", name: "highlightBottom", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown"}
           ]}
