@@ -9,9 +9,9 @@ content:
     To help this, all publications, resources or papers relevant to ending food poverty in Greater Manchester will be published here. If you think anything is missing, contact us at info@gmfsan.net
   heading: Resources
 uploads:
-  body: "[Test document](/assets/uploads/test-document.docx)"
+  body: Publications to be added soon
   uploadsfour: null
-  uploadsone: /assets/uploads/test-document.docx
+  uploadsone: ""
   uploadsthree: null
   uploadstwo: null
   uploadsfive: null
