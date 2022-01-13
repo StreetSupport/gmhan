@@ -7,20 +7,11 @@
     height: 400px;
     width: 100%;
   }
-
-  @media screen and (max-width: 650px) {
-    .home-hero-title {
-      color: $fsan-light-grey;
-    }
-
-    img {
-      display: none;
-    }
-  }
 }
 
 .home-hero-title {
   position: absolute;
+  width: 55%;
   font-family: 'Nunito';
   text-align: center;
   font-size: 48px;
@@ -29,4 +20,25 @@
   transform: translate(-50%, -50%);
   color: #fff;
   text-shadow: 1px 1px 1px #000;
+}
+
+@media screen and (max-width: 1090px) {
+  .home-hero-title {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .home-hero-title {
+    font-size: 38px;
+    padding-bottom: 20px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .home-hero-title {
+    font-size: 36px;
+    width: 95%;
+    padding-bottom: 20px;
+  }
 }
