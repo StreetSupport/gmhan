@@ -35,22 +35,21 @@ speakUp:
   body: >-
     The issue of food insecurity is the consequence of many complex and
     complicated issues coming together to form what is known as a ‘wicked
-    problem’. Wicked problems can be viewed as a tied knot of a social,
-    economic, environmental and political factors. No single group or individual
-    alone can untangle a wicked problem such as food insecurity - collaborative
-    action is required locally, nationally and globally. Greater Manchester and
-    it’s residents have a proud history of working together, standing up and
-    speaking up for what matters. All voices count in tackling food insecurity
-    so what do you stand for and who can you speak to about taking action?
+    problem’. Wicked problems can be viewed as a tied knot of social, economic,
+    environmental and political factors. No single group or individual alone can
+    untangle a wicked problem such as food insecurity - collaborative action is
+    required locally, nationally and globally. Greater Manchester and it’s
+    residents have a proud history of working together, standing up and speaking
+    up for what matters. All voices count in tackling food insecurity so what do
+    you stand for and who can you speak to about taking action?
 
 
     Different levels of government have various responsibilities around food security:
 
+
     * National Government sets the overall budget for what is available for local authorities to spend as well as national policy for welfare, benefits and employment. The eligibility criteria, availability and monetary value of benefits such as Free School Meals and Healthy Start Vouchers are also set at the national level.
 
-
-    * Local Authorities prioritise what matters most locally and therefore allocate proportions of their overall budget accordingly. They provide and administer their own benefits advice services, Local Welfare Assistance Schemes and other community or hardship related funds. They also play a key role in supporting new or existing VCS groups that provide a response to food insecurity.
-
+    * Local Authorities prioritise what matters most locally and therefore allocate proportions of their overall budget accordingly. They provide and administer their own benefits advice services, Local Welfare Assistance Schemes and other community or hardship related funds. They also play a key role in supporting new or existing VCSE and Faith groups that provide a response to food insecurity.
 
     * Regional Government (in areas with Combined Authorities like Greater Manchester), have limited formal responsibility for food security, but their elected Mayors have taken political responsibility for making sure the issues surrounding food security and poverty are focused at a regional level. Areas like Greater Manchester are able to speak collectively with ‘one voice’ which can generate considerable impact and influence. Currently, Combined Authorities have not been given any dedicated funds from National Government to run regional preventative programmes to respond to food insecurity.
 
