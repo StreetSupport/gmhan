@@ -9,12 +9,8 @@ content:
     To help this, all publications, resources or papers relevant to ending food poverty in Greater Manchester will be published here. If you think anything is missing, contact us at info@gmfsan.net
   heading: Resources
 uploads:
-  body: >-
-    GM FSAN Meeting Slides 10.01.22 -
+  body: GM FSAN Meeting Slides 10.01.22 -
     [/assets/uploads/fsan-meeting-slides-10.01.22.pptx](/assets/uploads/fsan-meeting-slides-10.01.22.pptx)
-
-
-    ![](/assets/uploads/fsan-10.01.22-.jpg "Components of the GM Food Security Action Network")
   uploadsfour: null
   uploadsone: /assets/uploads/fsan-meeting-slides-10.01.22.pptx
   uploadsthree: null
