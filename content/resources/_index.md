@@ -11,7 +11,7 @@ content:
 uploads:
   body: Publications to be added soon
   uploadsfour: null
-  uploadsone: ""
+  uploadsone: /assets/uploads/fsan-meeting-slides-10.01.22.pptx
   uploadsthree: null
   uploadstwo: null
   uploadsfive: null
