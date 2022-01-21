@@ -49,9 +49,6 @@ right:
     cultural spaces, researchers, activists and politicians. And more.
 
     We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the specific Task Force Groups, contact us on: [info@gmfsan.net](mailto:info@gmfsan.net).
-
-
-    ![](/assets/uploads/fsan-10.01.22-.jpg)
   heading: Who is involved in the FSAN?
 bottom:
   body: >-
