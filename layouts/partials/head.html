@@ -1,5 +1,4 @@
 <head prefix="og: http://ogp.me/ns#">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="#"></script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -10,15 +9,16 @@
   <meta property="og:title" content="{{.Title}} {{.Site.Title}}" />
   <meta name="description" content="The Greater Manchester Food Security Action Network (GMFSAN) is a network for everyone working to end food insecurity in Greater Manchester.">
   <title>{{.Title}} {{.Site.Title}}</title>
-
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-QRV4PGM3FJ"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
   
-    gtag('config', 'G-QRV4PGM3FJ');
-  </script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QRV4PGM3FJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QRV4PGM3FJ');
+</script>
 
   <!-- stylesheet -->
   {{ $styleSass := resources.Get "sass/site.scss" }}
