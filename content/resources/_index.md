@@ -14,16 +14,14 @@ uploads:
     10.01.22](/assets/uploads/fsan-meeting-slides-10.01.22.pptx)
 
 
-    [Healthy Start Voucher Translation Document](</assets/uploads/healthy-s…uidance-translations.pdf
-
-    Choose different file>)
-
-
     [Healthy Start Voucher Poster for GM settings](/assets/uploads/hsv-poster-qr.pdf)
-  uploadsfour: null
+
+
+    [Healthy Start Voucher Translation Document](/assets/uploads/healthy-s…uidance-translations.pdf)
+  uploadsfour: /assets/uploads/healthy-start-voucher-guidance-translations.pdf
   uploadsone: /assets/uploads/fsan-meeting-slides-10.01.22.pptx
   uploadsthree: /assets/uploads/hsv-poster-qr.pdf
-  uploadstwo: /assets/uploads/healthy-start-voucher-guidance-translations.pdf
+  uploadstwo: ""
   uploadsfive: null
   uploadssix: null
   uploadsseven: null
