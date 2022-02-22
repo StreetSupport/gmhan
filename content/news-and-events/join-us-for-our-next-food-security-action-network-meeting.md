@@ -9,5 +9,5 @@ eventCard:
 content:
   heading: Greater Manchester Food Security Action Network Wider Network Meeting
   body: ""
-  image: /assets/uploads/fsan.png
+  image: /assets/uploads/food.jfif
 ---
