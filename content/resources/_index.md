@@ -9,12 +9,19 @@ content:
     To help this, all publications, resources or papers relevant to ending food poverty in Greater Manchester will be published here. If you think anything is missing, contact us at info@gmfsan.net
   heading: Resources
 uploads:
-  body: "[GM FSAN Meeting Slides
-    10.01.22](/assets/uploads/fsan-meeting-slides-10.01.22.pptx)"
+  body: >-
+    [GM FSAN Meeting Slides
+    10.01.22](/assets/uploads/fsan-meeting-slides-10.01.22.pptx)
+
+
+    [Healthy Start Voucher Translation Document](/assets/uploads/healthy-s…ations-without-form-.pdf)
+
+
+    [Healthy Start Voucher Poster for GM settings](/assets/uploads/hsv-poster-qr.pdf)
   uploadsfour: null
   uploadsone: /assets/uploads/fsan-meeting-slides-10.01.22.pptx
-  uploadsthree: null
-  uploadstwo: null
+  uploadsthree: /assets/uploads/hsv-poster-qr.pdf
+  uploadstwo: /assets/uploads/healthy-start-all-translations-without-form-.pdf
   uploadsfive: null
   uploadssix: null
   uploadsseven: null
