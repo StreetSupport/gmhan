@@ -52,9 +52,12 @@ right:
   heading: Who is involved in the FSAN?
 bottom:
   body: >-
-    * ![](/assets/uploads/fsan-10.01.22-.jpg)
+    * The membership of the Core co-ordination group is made up of individuals
+    who are committed and actively support the GM Food Security Mission Plan and
+    are interested in taking an active role in the organisation of the FSAN and
+    in strengthening a cross sector, collaborative approach as a mechanism to
+    end Food Poverty.
 
-      The membership of the Core co-ordination group is made up of individuals who are committed and actively support the GM Food Security Mission Plan and are interested in taking an active role in the organisation of the FSAN and in strengthening a cross sector, collaborative approach as a mechanism to end Food Poverty.
     * Responsible for an inclusive and coordinated approach to understanding and tackling Food Insecurity in Greater Manchester.
 
     * Act as the advocates and ambassadors for Greater Manchester’s approach to tackling Food Insecurity in own sector and wider partnerships.
