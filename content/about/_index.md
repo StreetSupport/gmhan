@@ -69,5 +69,5 @@ bottom:
     * Ensure the communication and exchange of key feedback, information, decisions, news and events to the full Network
 
     * Ensure mutual accountability between each other, internal and external partners.
-  heading: How the Core Coordination Group works
+  heading: Our Network
 ---
