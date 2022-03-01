@@ -51,23 +51,6 @@ right:
     We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the specific Task Force Groups, contact us on: [info@gmfsan.net](mailto:info@gmfsan.net).
   heading: Who is involved in the FSAN?
 bottom:
-  body: >-
-    * The membership of the Core co-ordination group is made up of individuals
-    who are committed and actively support the GM Food Security Mission Plan and
-    are interested in taking an active role in the organisation of the FSAN and
-    in strengthening a cross sector, collaborative approach as a mechanism to
-    end Food Poverty.
-
-    * Responsible for an inclusive and coordinated approach to understanding and tackling Food Insecurity in Greater Manchester.
-
-    * Act as the advocates and ambassadors for Greater Manchester’s approach to tackling Food Insecurity in own sector and wider partnerships.
-
-    * Provide feedback from the monthly Taskforce Group meetings including progress on key actions and identify opportunities for support and collaboration.
-
-    * Organise quarterly FSAN events in line with the initial objective of No Child Should Go Hungry using the outcomes of these events to drive activity.
-
-    * Ensure the communication and exchange of key feedback, information, decisions, news and events to the full Network
-
-    * Ensure mutual accountability between each other, internal and external partners.
+  img: /assets/fsan-components.jpg
   heading: Our Network
 ---
