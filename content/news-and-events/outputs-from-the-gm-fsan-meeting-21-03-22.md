@@ -7,4 +7,5 @@ eventCard:
   location: Including a message from Andy Burnham, Mayor of Greater Manchester
 content:
   image: /assets/uploads/21.03.22.jpg
+  body: "[Meeting Slides](/assets/uploads/fsan-21.03.22.pptx)"
 ---
