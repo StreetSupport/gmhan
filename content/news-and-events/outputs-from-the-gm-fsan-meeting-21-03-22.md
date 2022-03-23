@@ -23,6 +23,6 @@ content:
     the end of the session. To see what was discussed in the session you can
     view the [Meeting Slides](/assets/uploads/fsan-21.03.22.pptx) and to see the
     commitment shared via video link from Andy Burnham, Mayor of Greater
-    Manchester please click here.
+    Manchester please [click here.](/assets/uploads/fsan.mp4)
   heading: Outputs from the GM FSAN Meeting 21.03.22
 ---
