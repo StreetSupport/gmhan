@@ -3,8 +3,8 @@ event: true
 title: Outputs from the GM FSAN Meeting 21.03.22
 publishDate: 2022-03-23T09:50:27.973Z
 eventCard:
-  name: Outputs from the GM FSAN Meeting 21.03.22
-  location: Including a message from Andy Burnham, Mayor of Greater Manchester
+  name: Outputs from the GM FSAN Meeting
+  location: 21.03.22
 content:
   image: /assets/uploads/21.03.22.jpg
   body: The Greater Manchester Food Security Action Network met for the third time
@@ -21,8 +21,6 @@ content:
     and how we can better work together. We were also lucky enough to have food
     cooked by our members Cracking Good Food which we all enjoyed together at
     the end of the session. To see what was discussed in the session you can
-    view the [Meeting Slides](/assets/uploads/fsan-21.03.22.pptx) and to see the
-    commitment shared via video link from Andy Burnham, Mayor of Greater
-    Manchester please [click here.](/assets/uploads/fsan.mp4)
+    view the [Meeting Slides](/assets/uploads/fsan-21.03.22.pptx).
   heading: Outputs from the GM FSAN Meeting 21.03.22
 ---
