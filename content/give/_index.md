@@ -28,8 +28,13 @@ highlightTop:
   heading: Give directly to support activity which alleviates holiday hunger
 highlightBottom:
   body: >-
-    **Join our members from so many organisations that are part of the GM FSAN
-    by contacting gmfoodsecurityactionnetwork@greatermanchester-ca.gov.uk**
+    **The actions of our network, and the taskforce groups that sit within it,
+    only happen with support from people across Greater Manchester wanting to
+    end food insecurity. Our membership below includes individuals working in
+    Health, Education, Local Authorities, Private Sector, VCSFE Sector, Food
+    Manufacturers and many more. Join our members from so many organisations
+    that are part of the GM FSAN by contacting
+    gmfoodsecurityactionnetwork@greatermanchester-ca.gov.uk**
 
 
     Charlie Day - Charity and Community Partnership Manager, Lidl GB
