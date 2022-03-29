@@ -43,12 +43,12 @@ left:
 right:
   body: >-
     The FSAN is anyone who wants to end food insecurity. So far, this has
-    included people from Greater Manchester’s voluntary and community
-    sector,people who have been or are experiencing food insecurity, education,
+    included people from Greater Manchester’s voluntary and community sector,
+    people who have been or are experiencing food insecurity, education,
     universities, health, faith communities, local and regional government,
     cultural spaces, researchers, activists and politicians. And more.
 
-    We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the specific Task Force Groups, contact us on: [info@gmfsan.net](mailto:info@gmfsan.net).
+    We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the specific Task Force Groups, contact us on: [](mailto:info@gmfsan.net)GMFoodSecurityActionNetwork@greatermanchester-ca.gov.uk
   heading: Who is involved in the FSAN?
 bottom:
   img: /assets/fsan-components.jpg
