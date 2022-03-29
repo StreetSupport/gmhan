@@ -50,7 +50,7 @@ right:
     the full list of members head to our Give page
     [here.](https://www.gmfsan.net/give/)
 
-    We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the specific Task Force Groups, contact us on: [](mailto:info@gmfsan.net)GMFoodSecurityActionNetwork@greatermanchester-ca.gov.uk
+    We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the specific Task Force Groups, contact us on: [](mailto:info@gmfsan.net)info@gmfsan.net
   heading: Who is involved in the FSAN?
 bottom:
   img: /assets/fsan-components.jpg
