@@ -13,6 +13,9 @@ uploads:
     ## Latest
 
 
+    [GMHAN Governance Structure and Co-ordination Group Terms of Reference](https://www.gmhan.net/assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf)
+
+
     [GMHAN Prevention Strategy](/assets/uploads/gmhps-final.pdf) and [Action Plan](https://www.gmhan.net/assets/uploads/gm-homelessness-prevention-action-plan.pdf) - The Action Plan will be reviewed every 6 months to keep attention on how things are developing and what might be the next priority to address. If you have any feedback about the approach, priorities or how it's going on the ground, please contact [info@gmhan.net](mailto:info:gmhan.net). 
 
 
@@ -149,5 +152,5 @@ uploads:
   uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsfive: /assets/uploads/2021-schedule.pdf
   uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
-  uploadsseven: ""
+  uploadsseven: /assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf
 ---
