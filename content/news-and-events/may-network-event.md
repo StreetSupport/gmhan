@@ -20,6 +20,24 @@ content:
     homelessness.
 
 
+    **Details for the Event are:**
+
+
+    Monday 23rd May, 10am-1pm\
+
+    Methodist Central Hall\
+
+    Oldham Street\
+
+    M1 2JQ\
+
+    \
+
+    [https://goo.gl/maps/ycrjBR2jMUwspoE27](https://streetsupport.us12.list-manage.com/track/click?u=da9a1d4bb2b1a69a981456972&id=df4d8d2e9a&e=20f4d60d20)
+
+
+
+
     We will be joined as usual by **Mayor of Greater Manchester Andy Burnham**, with opportunity to put questions to him about your ideas and concerns. The rest of the session will include:
 
 
