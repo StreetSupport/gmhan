@@ -47,5 +47,5 @@ content:
 
 
     **Chair, Greater Manchester Food Security Action Network**
-  image: /assets/uploads/21.03.22.jpg
+  image: /assets/uploads/fsan.jpg
 ---
