@@ -25,26 +25,24 @@ content:
     This is what the Task Groups will focus on:
 
 
-    **Learn:** understand what is working effectively to address homelessness, through insight from people who have experienced it, good practice happening on the ground or research from around the UK and beyond.
+    **Learning:** understand what is working effectively to address homelessness, through insight from people who have experienced it, good practice happening on the ground or research from around the UK and beyond.
 
 
-    **Lobby**: take this learning to decision makers to make the case for necessary changes and hold those involved to account.
+    **Lobbying**: take this learning to decision makers to make the case for necessary changes and hold those involved to account.
 
 
-    **Delivery**: implementing these changes by designing solutions, creating the partnerships for them to work, and supporting those on the ground who are doing them.
+    **Delivering**: implementing these changes by designing solutions, creating the partnerships for them to work, and supporting those on the ground who are doing them.
 
 
-    Participation expenses OF £20/hour are available for anyone joining a Task Group who is unwaged, and the time commitment is between 3 and 5 hours per month, with Co-Chairs likely to be at the higher end. More information on the role is in the Expression of Interest which you can download [here](LINK).
-
-
+    Participation expenses OF £20/hour are available for anyone joining a Task Group who is unwaged, and the time commitment is between 3 and 5 hours per month, with Co-Chairs likely to be at the higher end. More information on the role is in the Expression of Interest which you can download [here](static/assets/uploads/gmhan-task-group-expression-of-interest.docx).
 
 
     *if you'd like to contribute more to support the activity of the Network join a Task Group by registering your Expression of Interest in one of these ways:*
 
 
-    * Complete the [Expression of Interest form](LINK) and return it to info@gmhan.net
+    * Complete the [Expression of Interest form](static/assets/uploads/gmhan-task-group-expression-of-interest.docx) and return it to info@gmhan.net
 
-    * Complete this [quick form online](link) now
+    * Complete this [quick form online](https://forms.gle/eNPUHBE7VQvxDdG5A) now
 
     * Call or send a **voice-note** at any time to 07894 214 284, outlining:
 
