@@ -1,7 +1,7 @@
 ---
 event: true
 title: Task Group EOI
-publishDate: 2022-05-22T14:45:00.000Z
+publishDate: 2022-05-22T20:48:25.271Z
 eventCard:
   name: Expressions of Interest for GMHAN Task Group membership now open
   location: Be a part of how the Network ends and prevents homelessness
