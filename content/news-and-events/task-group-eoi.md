@@ -34,7 +34,7 @@ content:
     **Delivering**: implementing these changes by designing solutions, creating the partnerships for them to work, and supporting those on the ground who are doing them.
 
 
-    Participation expenses OF £20/hour are available for anyone joining a Task Group who is unwaged, and the time commitment is between 3 and 5 hours per month, with Co-Chairs likely to be at the higher end. More information on the role is in the Expression of Interest which you can download [here](static/assets/uploads/gmhan-task-group-expression-of-interest.docx).
+    Participation expenses OF £20/hour are available for anyone joining a Task Group who is unwaged, and the time commitment is between 3 and 5 hours per month, with Co-Chairs likely to be at the higher end. More information on the role is in the Expression of Interest which you can download [here](https://www.gmhan.net/assets/uploads/gmhan-task-group-expression-of-interest.docx).
 
 
     *if you'd like to contribute more to support the activity of the Network join a Task Group by registering your Expression of Interest in one of these ways:*
