@@ -13,6 +13,9 @@ uploads:
     ## Latest
 
 
+    [Expression of Interest to join a Task Group ](/assets/uploads/gmhan-tas…ression-of-interest.docx)- 
+
+
     [GMHAN Governance Structure and Co-ordination Group Terms of Reference](https://www.gmhan.net/assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf)
 
 
@@ -147,7 +150,7 @@ uploads:
 
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
   uploadsfour: /assets/uploads/gm-homelessness-prevention-action-plan.pdf
-  uploadsone: /assets/uploads/gmhan-resourcing.pdf
+  uploadsone: /assets/uploads/gmhan-task-group-expression-of-interest.docx
   uploadsthree: /assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf
   uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsfive: /assets/uploads/2021-schedule.pdf
