@@ -13,7 +13,7 @@ uploads:
     ## Latest
 
 
-    [Expression of Interest to join a Task Group ](/assets/uploads/gmhan-tas…ression-of-interest.docx)- 
+    **\*NEW\*** [Expression of Interest to join a Task Group ](/assets/uploads/gmhan-tas…ression-of-interest.docx)- How you can play a further part in the efforts of the Network to end rough sleeping and reduce homelessness.
 
 
     [GMHAN Governance Structure and Co-ordination Group Terms of Reference](https://www.gmhan.net/assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf)
