@@ -40,7 +40,7 @@ content:
     *if you'd like to contribute more to support the activity of the Network join a Task Group by registering your Expression of Interest in one of these ways:*
 
 
-    * Complete the [Expression of Interest form](static/assets/uploads/gmhan-task-group-expression-of-interest.docx) and return it to info@gmhan.net
+    * Download the [Expression of Interest form](https://www.gmhan.net/assets/uploads/gmhan-task-group-expression-of-interest.docx) and return it to info@gmhan.net
 
     * Complete this [quick form online](https://forms.gle/eNPUHBE7VQvxDdG5A) now
 
