@@ -22,7 +22,18 @@ uploads:
     [GMHAN Prevention Strategy](/assets/uploads/gmhps-final.pdf) and [Action Plan](https://www.gmhan.net/assets/uploads/gm-homelessness-prevention-action-plan.pdf) - The Action Plan will be reviewed every 6 months to keep attention on how things are developing and what might be the next priority to address. If you have any feedback about the approach, priorities or how it's going on the ground, please contact [info@gmhan.net](mailto:info:gmhan.net). 
 
 
-    [Inquests: A Guide For Bereaved Families](https://www.gmhan.net/assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf) - Guidance produced for families of people who died while homeless
+
+
+    Notes from the Quarterly Network event in May are now available by clicking on these links:
+
+
+    * Notes from Learn/Lobby/Deliver breakout groups
+
+    * Presentation on the GM Homelessness Prevention Strategy, shared by Joe Donohue
+
+    * Slides from HI Future social mobility recruitment initiative, shared by Lauren Coleman
+
+
 
 
     ## **Archive**
