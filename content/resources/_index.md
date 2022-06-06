@@ -153,7 +153,7 @@ uploads:
   uploadsone: /assets/uploads/gmhan-task-group-expression-of-interest.docx
   uploadsthree: /assets/uploads/inquests-a-short-guide-for-bereaved-families-final-2-.pdf
   uploadstwo: /assets/uploads/gmhps-final.pdf
-  uploadsfive: /assets/uploads/2021-schedule.pdf
-  uploadssix: /assets/uploads/gmhan-building-back-better-proposal.pdf
+  uploadsfive: /assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx
+  uploadssix: /assets/uploads/hif-han-sharing-learning-.pptx
   uploadsseven: /assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf
 ---
