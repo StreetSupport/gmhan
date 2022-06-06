@@ -27,11 +27,13 @@ uploads:
     Notes from the Quarterly Network event in May are now available by clicking on these links:
 
 
-    * Notes from Learn/Lobby/Deliver breakout groups
+    * Notes from [Learn/Lobby/Deliver](https://www.gmhan.net/assets/uploads/230522-gmhan-meeting-task-group-discussion-notes.docx) breakout groups
 
-    * Presentation on the GM Homelessness Prevention Strategy, shared by Joe Donohue
+    * What you [Learnt, Lacked, Liked and Longed](https://docs.google.com/presentation/d/16j_akubfXUeIVUdWhJRJNH8TIvUWa3MK/edit?usp=sharing&ouid=110723434542731878331&rtpof=true&sd=true) For over the last two years
 
-    * Slides from HI Future social mobility recruitment initiative, shared by Lauren Coleman
+    * [Presentation on the GM Homelessness Prevention Strategy,](https://www.gmhan.net/assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx) shared by Joe Donohue
+
+    * Slides from [HI Future](https://docs.google.com/presentation/d/16j_akubfXUeIVUdWhJRJNH8TIvUWa3MK/edit?usp=sharing&ouid=110723434542731878331&rtpof=true&sd=true) social mobility recruitment initiative, shared by Lauren Coleman
 
 
 
@@ -165,6 +167,6 @@ uploads:
   uploadsthree: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes.docx
   uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsfive: /assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx
-  uploadssix: /assets/uploads/hif-han-sharing-learning-.pptx
+  uploadssix: ""
   uploadsseven: /assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf
 ---
