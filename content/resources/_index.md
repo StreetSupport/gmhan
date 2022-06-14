@@ -160,7 +160,7 @@ uploads:
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
   uploadsfour: /assets/uploads/gm-homelessness-prevention-action-plan.pdf
   uploadsone: /assets/uploads/gmhan-task-group-expression-of-interest.docx
-  uploadsthree: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes.docx
+  uploadsthree: ""
   uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsfive: /assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx
   uploadssix: ""
