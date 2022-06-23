@@ -132,7 +132,12 @@ collections:
               {label: "Uploads", name: "uploadsfour", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
               {label: "Uploads", name: "uploadsfive", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
               {label: "Uploads", name: "uploadssix", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsseven", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false}
+              {label: "Uploads", name: "uploadsseven", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
+              {label: "Uploads", name: "uploadseight", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
+              {label: "Uploads", name: "uploadsnine", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
+              {label: "Uploads", name: "uploadsten", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
+              {label: "Uploads", name: "uploadseleven", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
+              {label: "Uploads", name: "uploadstwelve", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false}
           ]}
   - name: "news-and-events"
     label: "news/event"
