@@ -4,18 +4,19 @@ content:
 whatIs:
   body: >-
     The Greater Manchester Homeless Action Network (GMHAN) is a network for
-    everyone working to end homelessness in Greater Manchester. The Network
-    brings together all the different sectors and specialisms involved in this
-    ambition, so we can work together towards a common cause. 
+    everyone working to end homelessness in all 10 boroughs of Greater
+    Manchester. The Network brings together all the different sectors and
+    specialisms involved in this ambition, so we can work together towards a
+    common cause. 
 
 
-    We do this through large scale **events** every 3 months aimed at co-designing Greater Manchester's homelessness **policy** and showcasing **best practice.** We also have an Advisory Board to work on topics raised in between events and promote the Network's voice on the GM Homelessness Programme Board (which is where decisions are made). 
+    We do this through large scale **events** every 3 months aimed at co-designing Greater Manchester's homelessness **policy** and showcasing **best practice.** We have three task groups which work on topics raised in between events and promote the Network's voice on the GM Homelessness Programme Board (which is where decisions are made). 
 
 
     The Network is cross sector, including representatives from all ten Greater Manchester boroughs. Most importantly, it operated on the basis of 'community development' and co-production*, bringing people together to work side by side rather than alone or in hierarchies.
 
 
-    Information flows from the Network events through the Advisory Board to the Programme Board and operational teams delivering services or interventions. It also comes back the other way in a continual feedback loop. 
+    Information flows from the Network events through the Task Groups to the Programme Board and operational teams delivering services or interventions. It also comes back the other way in a continual feedback loop.
   heading: What is the GMHAN?
 howWorks:
   body: >-
@@ -78,7 +79,7 @@ whoIs:
     We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the Advisory Board, contact us on [info@gmhan.net](mailto:info@gmhan.net).
 
 
-    We are currently looking for people who represent the following areas or knowledge:
+    We want the network to be representative of everyone and so we are currently looking for people who represent the following areas or knowledge:
 
 
     * Wigan & Leigh
@@ -89,15 +90,13 @@ whoIs:
 
     * Stockport
 
-    * Tameside
-
-    * Bury
-
     * Criminal Justice
+
+    * Private Rental Sector
   heading: Who is involved in the HAN?
 whatAre:
   body: >-
-    The HAN sets its strategic priorities once a year at the beginning of the
+    The GMHAN sets its strategic priorities once a year at the beginning of the
     year. The priorities are set at the full Network Events, working alongside
     the Greater Manchester Combined Authority to align with the political
     priorities and programme.
