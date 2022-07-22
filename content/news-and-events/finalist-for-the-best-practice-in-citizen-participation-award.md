@@ -1,12 +1,11 @@
 ---
 event: true
 title: Finalist for the Best Practice in Citizen Participation Award!
-publishDate: 2022-07-22T11:45:03.758Z
+publishDate: 2022-07-22T11:47:48.150Z
 eventCard:
   location: ""
-  name: We are excited to announce that the Greater Manchester Homelessness
-    Prevention strategy Legislative Theatre project is a finalist for the IOPD
-    Best Practice in Citizen Participation Award!
+  name: The GM Homelessness Prevention strategy Legislative Theatre project is a
+    finalist for Best Practice in Citizen Participation Award!
 content:
   image: /assets/uploads/iopd-award.png
   body: >-
