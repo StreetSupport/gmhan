@@ -4,8 +4,8 @@ title: Finalist for the Best Practice in Citizen Participation Award!
 publishDate: 2022-07-22T11:47:48.150Z
 eventCard:
   location: ""
-  name: The GM Homelessness Prevention strategy Legislative Theatre project is a
-    finalist for Best Practice in Citizen Participation Award!
+  name: Finalist for Best Practice in Citizen Participation Award- GM Homelessness
+    Prevention strategy Legislative Theatre Project
 content:
   image: /assets/uploads/iopd-award.png
   body: >-
