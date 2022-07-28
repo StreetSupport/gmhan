@@ -20,5 +20,5 @@ content:
 
 
     You can access the full prospectus [here](https://www.gov.uk/government/publications/night-shelter-transformation-fund-prospectus-and-application-form/night-shelter-transformation-fund-2022-25-funding-prospectus)
-  image: /assets/uploads/homeless-link-meeting-2-.png
+  image: /assets/uploads/homeless-link-meeting-3-.png
 ---
