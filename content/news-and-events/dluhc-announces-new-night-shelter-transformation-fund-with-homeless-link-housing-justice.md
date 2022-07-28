@@ -3,6 +3,9 @@ event: true
 title: DLUHC announces new Night Shelter Transformation Fund with Homeless Link
   & Housing Justice
 publishDate: 2022-07-28T09:23:35.207Z
+eventCard:
+  name: DLUHC announces new Night Shelter Transformation Fund with Homeless Link &
+    Housing Justice
 content:
   body: >-
     DLUHC have announced funding for winter provision in partnership with
@@ -17,5 +20,5 @@ content:
 
 
     You can access the full prospectus [here](https://www.gov.uk/government/publications/night-shelter-transformation-fund-prospectus-and-application-form/night-shelter-transformation-fund-2022-25-funding-prospectus)
-  image: /assets/uploads/homeless-link-meeting.png
+  image: /assets/uploads/homeless-link-meeting-2-.png
 ---
