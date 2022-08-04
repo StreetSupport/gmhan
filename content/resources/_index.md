@@ -158,11 +158,12 @@ uploads:
 
 
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
-  uploadsfour: /assets/uploads/gm-homelessness-prevention-action-plan.pdf
-  uploadsone: /assets/uploads/gmhan-task-group-expression-of-interest.docx
-  uploadsthree: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes.docx
-  uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsfive: /assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx
+  uploadsthree: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes.docx
   uploadssix: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes-updated-.docx
+  uploadsone: /assets/uploads/gmhan-task-group-expression-of-interest.docx
+  uploadsfour: /assets/uploads/gm-homelessness-prevention-action-plan.pdf
+  uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsseven: /assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf
+  uploadseight: /assets/uploads/1678-a5-oldham-rsi-key-info-3rd-ed-booklet-v2.pdf
 ---
