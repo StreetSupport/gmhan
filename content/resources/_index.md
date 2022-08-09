@@ -21,6 +21,9 @@ uploads:
 
 
     [GM FSAN Meeting Slides 21.03.22](/assets/uploads/fsan-21.03.22.pptx)
+
+
+    [Power Up the Flavour Low Fuel Food Plan](https://manchestercommunitycentral.org/sites/manchestercommunitycentral.co.uk/files/Power%20Up%20the%20Flavour%20-%20Support%20Booklet.pdf)
   uploadsfour: /assets/uploads/fsan-21.03.22.pptx
   uploadsone: /assets/uploads/fsan-meeting-slides-10.01.22.pptx
   uploadsthree: /assets/uploads/hsv-poster-qr.pdf
