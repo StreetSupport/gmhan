@@ -25,7 +25,7 @@ uploads:
     Notes from the Quarterly Network event in May are now available by clicking on these links:
 
 
-    * Notes from [Learn/Lobby/Deliver](https://www.gmhan.net/assets/uploads/230522-gmhan-meeting-task-group-discussion-notes.docx) breakout groups
+    * Notes from [Learn/Lobby/Deliver](https://www.gmhan.net/assets/uploads/230522-gmhan-meeting-task-group-discussion-notes-updated-.docx) breakout groups
 
     * What you [Learnt, Lacked, Liked and Longed](https://docs.google.com/presentation/d/16j_akubfXUeIVUdWhJRJNH8TIvUWa3MK/edit?usp=sharing&ouid=110723434542731878331&rtpof=true&sd=true) For over the last two years
 
@@ -160,7 +160,7 @@ uploads:
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
   uploadsfive: /assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx
   uploadsnine: /assets/uploads/grow-trainee-changing-futures.pdf
-  uploadsthree: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes.docx
+  uploadsthree: ""
   uploadssix: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes-updated-.docx
   uploadsone: /assets/uploads/gmhan-task-group-expression-of-interest.docx
   uploadsfour: /assets/uploads/gm-homelessness-prevention-action-plan.pdf
