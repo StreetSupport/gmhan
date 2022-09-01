@@ -13,9 +13,6 @@ uploads:
     ## Latest
 
 
-    **\*NEW\*** [Expression of Interest to join a Task Group ](https://www.gmhan.net/assets/uploads/gmhan-task-group-expression-of-interest.docx)- How you can play a further part in the efforts of the Network to end rough sleeping and reduce homelessness.
-
-
     [GMHAN Governance Structure and Co-ordination Group Terms of Reference](https://www.gmhan.net/assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf)
 
 
@@ -55,7 +52,6 @@ uploads:
     **[Public Health England advice on Winter Night Shelters ](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)**- all members of the GMHAN, including the Combined Authority and Local Authorities are very clear that night shelters should absolutely be the last resort during the winter to be made available only if other safer, better options have been exhausted. Additional funding is being made available via [Homeless Link](https://www.homeless.org.uk/connect/news/2020/oct/13/operating-principles-for-commissioners-and-providers-of-night-shelters-for) should night shelters be needed.
 
 
-    \-
 
 
     **Health Resources**
@@ -91,7 +87,6 @@ uploads:
     [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) (Homeless Friendly)
 
 
-    \-
 
 
     **From the Network**
@@ -112,7 +107,6 @@ uploads:
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
 
 
-    \-
 
 
     **Greater Manchester**
@@ -122,21 +116,6 @@ uploads:
 
 
     [GM Mental Health Housing & Mental Health Strategy](https://gmhan.netlify.com/assets/uploads/gmmh-housing-and-mental-health-strategy.final.pdf)
-
-
-    **\-**
-
-
-    **GM A Bed Every Night** 
-
-
-    **A Bed Every Night – Reflection by Matthew Kidd from Creative Inclusion**
-
-
-    In March 2021, the Homelessness Action Network held a learning event to reflect on people’s experiences of ABEN provision in Greater Manchester. Creative Inclusion was commissioned to write a [report](https://drive.google.com/file/d/1eCiw_Q5Lk98ybbOM2xIoRglh6rqsModm/view) which brings together different perspectives on how Greater Manchester can respond as a whole system to improve the experiences of people accessing ABEN. [Matthew Kid](https://twitter.com/mattyk14?mc_cid=053bfa4dcb&mc_eid=e35df83018) offers his reflections.
-
-
-    You can [read here](https://drive.google.com/file/d/1jOp1dBF53-PNz_8uPuZ6z6jTmMXbBIBu/view) the independent evaluation that evaluates the effectiveness of ABEN by Dr Beth Watts and Lynne McCordie with Melissa Espinoza, Dora Welker, and Prof. Sarah Johnsen (The Institute for Social Policy, Housing, Equalities Research (I-SPHERE). In addition, we’d warmly invite you to contribute to the GM Homelessness Prevention Strategy to help develop an integrated rough sleeping response where no one is left behind. 
 
 
     **Oldham**
