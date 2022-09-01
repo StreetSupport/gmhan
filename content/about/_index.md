@@ -33,7 +33,7 @@ howWorks:
 
 
     The task groups are supported by a coordination group. This is a smaller group which has representatives from each sector, whose roles mean they are in a position to advocate and advise the task groups. Whilst also dealing with any immediate issues which arise.
-  heading: What is the Structure of the GMHAN
+  heading: What is the Structure of the GMHAN?
 whatHave:
   body: >-
     The HAN has been established to achieve long-term systems change so that no
