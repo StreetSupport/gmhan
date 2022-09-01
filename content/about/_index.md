@@ -20,33 +20,20 @@ whatIs:
   heading: What is the GMHAN?
 howWorks:
   body: >-
-    The GMHAN Advisory Board is a core group of people who have experience
-    across homelessness and interconnected issues within Greater Manchester.
+    **Task Groups**
+
+
+    The GMHAN task groups on the driving force behind the network. They focus on Learning, Lobbying & Delivery. They are made up of people across the sector who have knowlegde and experience across homelessness and interconnected issues within Greater Manchester.
 
 
     Members include anyone interested in taking a more active role in the organisation of the GMHAN and in strengthening a community development approach to ending homelessness.
 
 
-    Members are 'brokers' in their areas of work, acting as bridges into their sector to ensure there is an exchange of information and knowledge from the ground up and vice versa. They currently include voluntary sector partnership managers, Combined Authority officers, faith leaders, university researchers, co-production experts and housing provider representatives. The ambition is for this membership to expand to fill gaps in all specialisms and geographical areas.
+    **Coordination Group**
 
 
-    The Terms of Reference for the Advisory Board is available **[here](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf).**
-
-
-    The Advisory Board has two components which reflect its dual functions of action:
-
-
-    **Action Sessions**
-
-
-    Members with live actions meet every two weeks to sort out anything which needs to be done, including communications to the Network, co-designing network events and supporting local partnership developments.
-
-
-    **Accountability Meetings**
-
-
-    All Advisory Board members meet every two months to consider the overall direction and take key decisions on the basis of feedback from the Network. This is also a chance to update and inform others about relevant activities within each member's area of expertise and experience.
-  heading: How the Advisory Board works
+    The task groups are supported by a coordination group. This is a smaller group which has representatives from each sector, whose roles mean they are in a position to advocate and advise the task groups. Whilst also dealing with any immediate issues which arise.
+  heading: What is the Structure of the GMHAN
 whatHave:
   body: >-
     The HAN has been established to achieve long-term systems change so that no
@@ -69,11 +56,11 @@ whatHave:
   heading: What have we achieved so far?
 whoIs:
   body: >-
-    The HAN is anyone who wants to end homelessness. So far, this has included
-    people from Greater Manchester’s voluntary and community sector, housing
-    providers, people who have been or are homeless, universities, health, faith
-    communities, local and regional government, cultural spaces, researchers,
-    activists and politicians. And more.
+    The Network is anyone who wants to end homelessness. So far, this has
+    included people from Greater Manchester’s voluntary and community sector,
+    housing providers, people who have been or are homeless, universities,
+    health, faith communities, local and regional government, cultural spaces,
+    researchers, activists and politicians. And more.
 
 
     We are constantly working to develop the network and its members so this is not a finite list, if you would like to be involved in the network, either by attending events or in the Advisory Board, contact us on [info@gmhan.net](mailto:info@gmhan.net).
@@ -102,9 +89,6 @@ whatAre:
     priorities and programme.
 
 
-    2020 threw a lot of the Network's priorities out the window, with the focus going on the immediate COVID response, knitting together the different components of this, sustaining the increased partnership working which came out of it, and what longer term changes were needed longer term.
-
-
-    The Network has also been able to kickstart the development of a Homelessness Prevention Strategy through 'Legislative Theatre' sessions which will continue into the New Year. On top of this, focused workshops on issues like Women's Homelessness, Prison release and A Bed Every Night ongoing development have been hosted with partners.
+    This year we have restructured to ensure that the work the network is doing is reflective of what is happening across Greater Manchester. We have established three task groups which will drive the strategic priorities in the future. Our priority this year is embedding this new structure and supporting the groups to get off the ground
   heading: What are we working on this year?
 ---
