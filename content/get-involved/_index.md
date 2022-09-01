@@ -11,11 +11,11 @@ content:
 
     * Sign up to the [Mailing List](https://streetsupport.us12.list-manage.com/subscribe?u=da9a1d4bb2b1a69a981456972&id=3c6ae13085) to hear about new events and activities
 
-    * Attend the wider network events every three months. These usually take place in space donated by Salford University and will be advertised through the mailing list and on the [News And Events](/news-and-events) page.
+    * Attend the wider network events every three months. These events are advertised in our [News And Events](/news-and-events) page.
 
     * Let us know about good practice in ending homelessness that you are involved in, or a problem you've spotted that you don't think is being addressed by contacting [info@gmhan.net](mailto:info@gmhan.net). 
 
-    * Volunteer to be part of one of our three task groups- Learn, Lobby & Deliver. Through these groups you can share your knowledge and influence the direction of the GMHAN. Submit an expression of interest [here](https://www.gmhan.net/news-and-events/task-group-eoi/)
+    * Volunteer to be part of one of our three task groups- Learn, Lobby & Deliver. Email us at [info@gmhan.net](mailto:info@gmhan.net) to find out more about how to join one of the groups
 
     * Volunteer to be the link person for your borough or field of work. See which areas we're looking for representatives from on the [About](/about) page under 'Who is involved in the HAN?
 
