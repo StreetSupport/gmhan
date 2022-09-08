@@ -3,6 +3,11 @@
 
 <div id="main">
 
+  <div class="block block--grey">
+    <h1>{{ .Params.banner.bannerHeading }}</h1>
+    <p>{{ partial "bodyMarkdown.html" .Params.banner.bannerCopy }}</p>
+  </div>
+
   <section class="home-hero">
     <img src="{{ .Params.img }}" alt="">
     <h1 class="home-hero-title">Ending homelessness in Greater Manchester</h1>

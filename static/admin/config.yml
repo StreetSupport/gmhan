@@ -17,6 +17,9 @@ collections:
         name: "home"
         fields:
           - {label: "Image", name: "img", widget: "image"}
+          - {label: "Banner", name: "banner", widget: "object"
+              {label: "Banner heading", name: "bannerHeading", widget: "string"},
+              {label: "Banner copy", name: bannerCopy, widget: "marakdown"}}
           - {label: "Tagline", name: "tagline", widget: "markdown"}
           - {label: "CTA cards", name: "ctaCards", widget: "object", fields: [
               {label: "Card one", name: "cardOne", widget: "object", fields: [
