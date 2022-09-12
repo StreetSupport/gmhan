@@ -24,11 +24,14 @@ uploads:
 
 
     [Power Up the Flavour Low Fuel Food Plan](https://manchestercommunitycentral.org/sites/manchestercommunitycentral.co.uk/files/Power%20Up%20the%20Flavour%20-%20Support%20Booklet.pdf)
+
+
+    [O﻿pen Kitchen Recipe Videos Food Bank Resources Sheet](/assets/uploads/recipe-vi…-bank-resource-sheet.pdf)
   uploadsfour: /assets/uploads/fsan-21.03.22.pptx
   uploadsone: /assets/uploads/fsan-meeting-slides-10.01.22.pptx
   uploadsthree: /assets/uploads/hsv-poster-qr.pdf
   uploadstwo: /assets/uploads/network-and-taskforce-meeting-dates-and-meeting-links.pdf
-  uploadsfive: ""
+  uploadsfive: /assets/uploads/recipe-videos-food-bank-resource-sheet.pdf
   uploadssix: null
   uploadsseven: null
 ---
