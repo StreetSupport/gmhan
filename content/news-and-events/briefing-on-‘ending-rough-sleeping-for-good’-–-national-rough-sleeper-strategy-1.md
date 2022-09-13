@@ -7,6 +7,8 @@ eventCard:
   date: Philippa Iwnicki
   name: '"Ending Rough Sleeping for Good"- What does the updated Rough Sleeper
     Strategy tell us?'
+  location: '"Ending Rough Sleeping for Good"- What does the updated Rough Sleeper
+    Strategy tell us?'
 content:
   body: >-
     On Saturday 5th September the Department for Levelling Up, Housing &
