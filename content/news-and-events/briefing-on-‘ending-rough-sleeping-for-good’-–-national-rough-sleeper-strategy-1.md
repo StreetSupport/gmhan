@@ -7,8 +7,7 @@ eventCard:
   date: Philippa Iwnicki
   name: '"Ending Rough Sleeping for Good"- What does the updated Rough Sleeper
     Strategy tell us?'
-  location: '"Ending Rough Sleeping for Good"- What does the updated Rough Sleeper
-    Strategy tell us?'
+  location: ""
 content:
   body: >-
     On Saturday 5th September the Department for Levelling Up, Housing &
@@ -108,4 +107,6 @@ content:
 
     5. We will improve how different services work together for people sleeping rough, particularly people facing multiple disadvantage, including supporting partners within the new Integrated Care Systems to develop joined-up local strategies that bring together housing, homelessness and healthcare; **£64m Changing Futures pilots**, NHS Duty to Cooperate
   image: /assets/uploads/ending-rough-sleeping.png
+  heading: '"Ending Rough Sleeping for Good"- What does the updated Rough Sleeper
+    Strategy tell us?'
 ---
