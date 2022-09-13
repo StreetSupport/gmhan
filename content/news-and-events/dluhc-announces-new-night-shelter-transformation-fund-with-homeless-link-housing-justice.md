@@ -6,6 +6,7 @@ publishDate: 2022-07-28T09:23:35.207Z
 eventCard:
   name: DLUHC announces new Night Shelter Transformation Fund with Homeless Link &
     Housing Justice
+  date: "Philippa Iwnicki "
 content:
   body: >-
     DLUHC have announced funding for winter provision in partnership with
