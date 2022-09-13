@@ -53,7 +53,7 @@ content:
 
     1. We will increase affordability and security of housing; ***Affordable Housing Programme (£1.5bn)*** and Private Rented Sector reform
 
-    2. We will empower local authorities to better prevent rough sleeping – including fully embedding the landmark Homelessness Reduction Act 2017; **Homelessness Prevention Grant (£316m 2022/23)**
+    2. We will empower local authorities to better prevent rough sleeping – including fully embedding the landmark Homelessness Reduction Act 2017; **Homelessness Prevention Grant (£316m 2022-23)**
 
     3. We will commit to working with stakeholders from local authorities and the service delivery sector to establish an operational risk assessment tool to assist with prevention of rough sleeping
 
@@ -61,7 +61,7 @@ content:
 
        4.1 No-one should leave prison homeless or to sleep rough; **Accommodation for Ex-Offenders**, Approved Premises expansion, Housing Specialists, Resettlement Passports
 
-       4.2 Young people leaving care will receive the support they need to secure and maintain suitable accommodation; **targeted care leaver funding (£3.2m 2022/23)**
+       4.2 Young people leaving care will receive the support they need to secure and maintain suitable accommodation; **targeted care leaver funding (£3.2m 2022-23)**
 
        4.3 No-one should be discharged from hospital to the streets; **Out of Hospital Care Programme**
 
