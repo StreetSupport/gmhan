@@ -52,7 +52,7 @@ content:
     **Prevention**
 
 
-    1. We will increase affordability and security of housing; ***Affordable Housing Programme (£1.5bn)*** and Private Rented Sector reform
+    1. We will increase affordability and security of housing; **Affordable Housing Programme (£1.5bn)** and Private Rented Sector reform
 
     2. We will empower local authorities to better prevent rough sleeping – including fully embedding the landmark Homelessness Reduction Act 2017; **Homelessness Prevention Grant (£316m 2022-23)**
 
