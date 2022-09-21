@@ -10,10 +10,8 @@ content:
   heading: Resources
 uploads:
   body: >-
-    ## Key Resources
-
-
-    [GMHAN Governance Structure and Co-ordination Group Terms of Reference](https://www.gmhan.net/assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf)
+    [GMHAN Governance Structure and Co-ordination Group Terms of
+    Reference](https://www.gmhan.net/assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf)
 
 
     ## **Archive**
