@@ -10,28 +10,28 @@ content:
   heading: Resources
 uploads:
   body: >-
-    ## Latest
+    ## Key Resources
 
 
     [GMHAN Governance Structure and Co-ordination Group Terms of Reference](https://www.gmhan.net/assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf)
 
 
-    [GMHAN Prevention Strategy](/assets/uploads/gmhps-final.pdf) and [Action Plan](https://www.gmhan.net/assets/uploads/gm-homelessness-prevention-action-plan.pdf) - The Action Plan will be reviewed every 6 months to keep attention on how things are developing and what might be the next priority to address. If you have any feedback about the approach, priorities or how it's going on the ground, please contact [info@gmhan.net](mailto:info:gmhan.net). 
-
-
-    Notes from the Quarterly Network event in May are now available by clicking on these links:
-
-
-    * Notes from [Learn/Lobby/Deliver](https://www.gmhan.net/assets/uploads/230522-gmhan-meeting-task-group-discussion-notes-updated-.docx) breakout groups
-
-    * What you [Learnt, Lacked, Liked and Longed](https://docs.google.com/presentation/d/16j_akubfXUeIVUdWhJRJNH8TIvUWa3MK/edit?usp=sharing&ouid=110723434542731878331&rtpof=true&sd=true) For over the last two years
-
-    * [Presentation on the GM Homelessness Prevention Strategy,](https://www.gmhan.net/assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx) shared by Joe Donohue
-
-    * Slides from [HI Future](https://docs.google.com/presentation/d/16j_akubfXUeIVUdWhJRJNH8TIvUWa3MK/edit?usp=sharing&ouid=110723434542731878331&rtpof=true&sd=true) social mobility recruitment initiative, shared by Lauren Coleman
-
-
     ## **Archive**
+
+
+    **T﻿ask Groups- Learn, Lobby & Deliver**
+
+
+    Notes from [Learn/Lobby/Deliver](https://www.gmhan.net/assets/uploads/230522-gmhan-meeting-task-group-discussion-notes-updated-.docx) breakout groups
+
+
+    **G﻿MCA Homelessness Prevention Strategy**
+
+
+    [Presentation on the GM Homelessness Prevention Strategy](https://www.gmhan.net/assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx)
+
+
+    [GMHAN Prevention Strategy](/assets/uploads/gmhps-final.pdf) and [Action Plan](https://www.gmhan.net/assets/uploads/gm-homelessness-prevention-action-plan.pdf) - The Action Plan will be reviewed every 6 months to keep attention on how things are developing and what might be the next priority to address. If you have any feedback about the approach, priorities or how it's going on the ground, please contact [info@gmhan.net](mailto:info:gmhan.net).
 
 
     **Covid response**
@@ -50,8 +50,6 @@ uploads:
 
 
     **[Public Health England advice on Winter Night Shelters ](https://www.gov.uk/guidance/covid-19-provision-of-night-shelters)**- all members of the GMHAN, including the Combined Authority and Local Authorities are very clear that night shelters should absolutely be the last resort during the winter to be made available only if other safer, better options have been exhausted. Additional funding is being made available via [Homeless Link](https://www.homeless.org.uk/connect/news/2020/oct/13/operating-principles-for-commissioners-and-providers-of-night-shelters-for) should night shelters be needed.
-
-
 
 
     **Health Resources**
@@ -87,8 +85,6 @@ uploads:
     [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) (Homeless Friendly)
 
 
-
-
     **From the Network**
 
 
@@ -105,8 +101,6 @@ uploads:
 
 
     [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
-
-
 
 
     **Greater Manchester**
