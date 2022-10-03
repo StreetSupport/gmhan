@@ -9,9 +9,10 @@ eventCard:
     homelessness?
 content:
   body: >-
-    
-
-    The Greater Manchester Homelessness Action Network, in partnership with the GMCA, is hosting an in-person event on Wednesday 2nd November 10am-1pm at [Methodist Central Hall](https://www.google.com/maps/place/Methodist+Church/@53.4823224,-2.2380207,17z/data=!3m1!4b1!4m5!3m4!1s0x487bba7683115f49:0xe36d2103ec4860a2!8m2!3d53.4823192!4d-2.235832)
+    The Greater Manchester Homelessness Action Network, in partnership with the
+    GMCA, is hosting an in-person event on **Wednesday 2nd November 10am-1pm**
+    at [Methodist Central
+    Hall](https://www.google.com/maps/place/Methodist+Church/@53.4823224,-2.2380207,17z/data=!3m1!4b1!4m5!3m4!1s0x487bba7683115f49:0xe36d2103ec4860a2!8m2!3d53.4823192!4d-2.235832)
 
 
     This event will look at how we can improve Employment, Education and Training for people who have experience of homelessness in Greater Manchester. 
