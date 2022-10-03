@@ -1,6 +1,6 @@
 ---
 event: true
-title: Employment, Training & Education- Full Network Event
+title: Network Event- Employment, Training & Education
 publishDate: 2022-10-03T15:06:56.514Z
 eventCard:
   name: Network Event- Employment, Training & Education
