@@ -3,7 +3,7 @@ event: true
 title: Employment, Training & Education- Full Network Event
 publishDate: 2022-10-03T15:06:56.514Z
 eventCard:
-  name: Employment, Training & Education- Full Network Event
+  name: Network Event- Employment, Training & Education
   date: Philippa Iwnicki
   location: How do we improve employment, training & education for people facing
     homelessness?
