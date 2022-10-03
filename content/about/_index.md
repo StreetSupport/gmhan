@@ -35,12 +35,9 @@ howWorks:
     The task groups are supported by a coordination group. This is a smaller group which has representatives from each sector, whose roles mean they are in a position to advocate and advise the task groups. Whilst also dealing with any immediate issues which arise.
   heading: What is the Structure?
 whatHave:
-  body: >-
-    The GMHAN was established in 2017 to achieve long-term system change so that
-    no one need become homeless in Greater Manchester. We 
-
-
-    ![](/assets/uploads/2017.png)
+  body: The GMHAN was established in 2017 to achieve long-term system change so
+    that no one need become homeless in Greater Manchester. We've achieved a lot
+    in the past 5 years, but there is a still a lot of work to be done
   heading: What have we achieved?
 whoIs:
   body: >-
