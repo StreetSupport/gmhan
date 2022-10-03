@@ -36,23 +36,11 @@ howWorks:
   heading: What is the Structure?
 whatHave:
   body: >-
-    The HAN has been established to achieve long-term systems change so that no
-    one need become homeless in Greater Manchester. We're not looking for quick
-    fixes. Examples of what the HAN has been involved in since starting in 2017
-    include:
+    The GMHAN was established in 2017 to achieve long-term system change so that
+    no one need become homeless in Greater Manchester. We 
 
 
-    * Co-producing a **[Rough Sleeping Action Plan](https://www.greatermanchester-ca.gov.uk/media/1234/homeless-action-network-strategy.pdf)** for the city.
-
-    * Taking the decision to deliver the **Bed Every Night emergency shelter scheme**, which has halved rough sleeping in Greater Manchester.
-
-    * Securing funding for a **homeless families scheme** by highlighting the issue with Mayor Andy Burnham and the GM Programme Board.
-
-    * Shining the spotlight on youth homelessness, resulting in the development of a **Youth Homelessness Social Impact Bond** programme focused on this issue.
-
-    * Supporting the evolution of a **community partnership** within a a local borough to work alongside and receive funding from the Local Authority.
-
-    * Informed the **national political asks** made by the Mayor of Greater Manchester to parties during the 2019 General Election
+    ![](/assets/uploads/2017.png)
   heading: What have we achieved?
 whoIs:
   body: >-
