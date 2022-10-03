@@ -33,7 +33,7 @@ howWorks:
 
 
     The task groups are supported by a coordination group. This is a smaller group which has representatives from each sector, whose roles mean they are in a position to advocate and advise the task groups. Whilst also dealing with any immediate issues which arise.
-  heading: What is the Structure of the GMHAN?
+  heading: What is the Structure?
 whatHave:
   body: >-
     The HAN has been established to achieve long-term systems change so that no
@@ -53,7 +53,7 @@ whatHave:
     * Supporting the evolution of a **community partnership** within a a local borough to work alongside and receive funding from the Local Authority.
 
     * Informed the **national political asks** made by the Mayor of Greater Manchester to parties during the 2019 General Election
-  heading: What have we achieved so far?
+  heading: What have we achieved?
 whoIs:
   body: >-
     The Network is anyone who wants to end homelessness. So far, this has
@@ -80,7 +80,7 @@ whoIs:
     * Criminal Justice
 
     * Private Rental Sector
-  heading: Who is involved in the HAN?
+  heading: Who is involved?
 whatAre:
   body: >-
     The GMHAN sets its strategic priorities once a year at the beginning of the
@@ -90,5 +90,5 @@ whatAre:
 
 
     This year we have restructured to ensure that the work the network is doing is reflective of what is happening across Greater Manchester. We have established three task groups which will drive the strategic priorities in the future. Our priority this year is embedding this new structure and supporting the groups to get off the ground
-  heading: What are we working on this year?
+  heading: What are we working?
 ---
