@@ -31,7 +31,7 @@ content:
 
 
     [S﻿ign up on Eventbrite](https://www.eventbrite.co.uk/e/427805978197)
-  image: /assets/uploads/ete-event-image.png
+  image: /assets/uploads/untitled-600-×-400-px-1400-×-600-px-2160-×-1080-px-.png
   heading: How do we improve employment, training & education for people facing
     homelessness? - Wednesday 2nd November 10am-1pm
 ---
