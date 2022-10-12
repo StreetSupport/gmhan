@@ -36,6 +36,9 @@ uploads:
 
 
     [S﻿haring Good Practice - A Healthy Start for Liverpool Blog](https://feedingbritain.org/a-healthy-start-for-liverpool/)
+
+
+    [Church Times – “Foodbanks are a last line of defence against hunger — but a different approach is also needed”: Read Frank Field and Andrew Forsey’s article in The Church Times here](https://www.churchtimes.co.uk/articles/2022/23-september/comment/opinion/foodbanks-are-merely-a-short-term-solution)
   uploadsfour: /assets/uploads/fsan-21.03.22.pptx
   uploadsone: /assets/uploads/fsan-meeting-slides-10.01.22.pptx
   uploadsthree: /assets/uploads/hsv-poster-qr.pdf
