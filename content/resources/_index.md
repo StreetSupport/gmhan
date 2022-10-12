@@ -30,6 +30,9 @@ uploads:
 
 
     [G﻿M FSAN Meeting Slides 05.07.22](/assets/uploads/fsan-05.07.22.pdf)
+
+
+    [S﻿haring Good Practice - Gateshead Warm Spaces Directory](https://www.gateshead.gov.uk/article/21164/Warm-Spaces#Warm%20Spaces%20Gateshead%20Charter)
   uploadsfour: /assets/uploads/fsan-21.03.22.pptx
   uploadsone: /assets/uploads/fsan-meeting-slides-10.01.22.pptx
   uploadsthree: /assets/uploads/hsv-poster-qr.pdf
