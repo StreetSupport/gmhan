@@ -3,7 +3,7 @@ event: true
 title: What do you think of the GM Homelessness Prevention Strategy?
 publishDate: 2022-10-19T08:40:42.998Z
 eventCard:
-  name: What do you think of the GM Homelessness Prevention Strategy 2021-26?
+  name: What do you think of the GM Homelessness Prevention Strategy?
   location: We want to hear your opinions so far
 content:
   image: /assets/uploads/have-your-say-on-the-gmca-homelessness-prevention-strategy.png
