@@ -1,6 +1,6 @@
 ---
 event: true
-title: What do you think of the GM Homelessness Prevention Strategy 2021-26?
+title: What do you think of the GM Homelessness Prevention Strategy?
 publishDate: 2022-10-19T08:40:42.998Z
 eventCard:
   name: What do you think of the GM Homelessness Prevention Strategy 2021-26?
