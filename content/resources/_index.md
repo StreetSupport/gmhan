@@ -135,8 +135,10 @@ uploads:
   uploadsfive: /assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx
   uploadsnine: /assets/uploads/grow-trainee-changing-futures.pdf
   uploadsten: /assets/uploads/gmhan-task-group-expenses-policy.pdf
+  uploadstwelve: /assets/uploads/what-support-is-missing.pdf
   uploadsthree: ""
   uploadssix: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes-updated-.docx
+  uploadseleven: /assets/uploads/what-support-is-available.docx
   uploadsone: /assets/uploads/gmhan-task-group-expression-of-interest.docx
   uploadsfour: /assets/uploads/gm-homelessness-prevention-action-plan.pdf
   uploadstwo: /assets/uploads/gmhps-final.pdf
