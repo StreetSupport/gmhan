@@ -133,10 +133,10 @@ uploads:
 
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
   uploadsfive: /assets/uploads/gmhps-action-plan-slides-for-gmhan.pptx
-  uploadsnine: /assets/uploads/grow-trainee-changing-futures.pdf
+  uploadsnine: /assets/uploads/workshop-notes-digital-barriers.docx
   uploadsten: /assets/uploads/gmhan-task-group-expenses-policy.pdf
   uploadstwelve: /assets/uploads/what-support-is-missing.pdf
-  uploadsthree: ""
+  uploadsthree: /assets/uploads/workshop-notes-adult-education.docx
   uploadssix: /assets/uploads/230522-gmhan-meeting-task-group-discussion-notes-updated-.docx
   uploadseleven: /assets/uploads/what-support-is-available.docx
   uploadsone: /assets/uploads/gmhan-task-group-expression-of-interest.docx
