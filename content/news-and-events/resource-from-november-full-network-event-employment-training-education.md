@@ -27,7 +27,7 @@ content:
     Workshop Resources
 
 
-    * **Untapped Lived Experience Workforce-** If you have questions about the Changing Futures GROW programme then you can contact TJ-  [TJ_richards@shelter.org.uk](mailto:TJ_richards@shelter.org.uk)
+    * **Untapped Lived Experience Workforce-** If you have questions about the Changing Futures GROW programme then you can contact TJ-  GROW@shelter.org.uk 
 
     * **Adult Education as a Destination-** This workshop was delivered by [Back on Track](http://www.backontrackmanchester.org.uk/courses/). You can find the notes from the workshop [here](https://www.gmhan.net/assets/uploads/workshop-notes-adult-education.docx).
 
