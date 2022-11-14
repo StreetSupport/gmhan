@@ -143,5 +143,5 @@ uploads:
   uploadsfour: /assets/uploads/gm-homelessness-prevention-action-plan.pdf
   uploadstwo: /assets/uploads/gmhps-final.pdf
   uploadsseven: /assets/uploads/gmhan-governance-structure-and-co-ordination-group-terms-of-reference-march-2022.pdf
-  uploadseight: /assets/uploads/slides.pptx
+  uploadseight: /assets/uploads/ete-event-slides.pdf
 ---
