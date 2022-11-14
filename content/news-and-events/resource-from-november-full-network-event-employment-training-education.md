@@ -7,12 +7,12 @@ eventCard:
   date: Philippa Iwnicki
 content:
   body: >-
-    
+    Thanks again to everyone who attended the GMHAN & GMCA full Network Event:
+    How do we improve Employment, Training & Education support for people who
+    have experienced Homelessness? It was great to see so many of you there
 
-    Thanks again to everyone who attended the GMHAN & GMCA full Network Event: How do we improve Employment, Training & Education support for people who have experienced Homelessness? It was great to see so many of you there
 
-
-    The day started with presentations on The Cost of Living Crisis- The Impact on Employment, Training & Education from GMPA and Employment, Training & Education as Homelessness Preventionfrom GMCA. You can check out the slides from all presentations here
+    The day started with presentations on The Cost of Living Crisis- The Impact on Employment, Training & Education from GMPA and Employment, Training & Education as Homelessness Preventionfrom GMCA. You can check out the slides from all presentations [here](https://www.gmhan.net/assets/uploads/slides.pptx)
 
 
     We asked attendees to share knowledge around what Employment, Training and Education provisions are available and what gaps there are in services across Greater Manchester- You told us [What you thought was available](https://www.gmhan.net/assets/uploads/what-support-is-available.docx) and [What you thought was missing](https://www.gmhan.net/assets/uploads/what-support-is-missing.pdf)
