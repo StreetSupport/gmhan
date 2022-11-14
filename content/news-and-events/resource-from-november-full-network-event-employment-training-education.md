@@ -12,7 +12,7 @@ content:
     have experienced Homelessness? It was great to see so many of you there
 
 
-    The day started with presentations on The Cost of Living Crisis- The Impact on Employment, Training & Education from GMPA and Employment, Training & Education as Homelessness Preventionfrom GMCA. You can check out the slides from all presentations [here](https://www.gmhan.net/assets/uploads/slides.pptx)
+    The day started with presentations on The Cost of Living Crisis- The Impact on Employment, Training & Education from GMPA and Employment, Training & Education as Homelessness Preventionfrom GMCA. You can check out the slides from all presentations [here](https://www.gmhan.net/assets/uploads/ete-event-slides.pdf)
 
 
     We asked attendees to share knowledge around what Employment, Training and Education provisions are available and what gaps there are in services across Greater Manchester- You told us [What you thought was available](https://www.gmhan.net/assets/uploads/what-support-is-available.docx) and [What you thought was missing](https://www.gmhan.net/assets/uploads/what-support-is-missing.pdf)
@@ -38,4 +38,5 @@ content:
 
     If you would like to share any comments or feedback from the event then get in touch [info@gmhan.net](mailto:info@gmhan.net). We want to ensure our full network events are useful and productive, so we really value any feedback you have
   image: /assets/uploads/20221102_103805.jpg
+  heading: Resources from our November Full Network Event
 ---
