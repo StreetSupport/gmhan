@@ -5,8 +5,10 @@ title: Job Opportunity - Benefits, Debt and Housing Caseworker (Food Banks),
   Manchester Mind
 publishDate: 2023-01-16T08:45:23.637Z
 eventCard:
-  name: Manchester Mind are seeking people with advice experience and people who
-    care about social justice  and collaboration to work with them
+  name: Job Opportunity - Benefits, Debt and Housing Caseworker (Food Banks),
+    Manchester Mind
+  location: Manchester Mind are seeking people with advice experience and people
+    who care about social justice  and collaboration to work with them
 content:
   image: /assets/uploads/manchester-mind.jpg
   heading: Manchester Mind are seeking people with advice experience and people
