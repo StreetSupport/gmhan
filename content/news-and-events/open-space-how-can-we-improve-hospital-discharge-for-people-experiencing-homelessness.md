@@ -3,8 +3,7 @@ event: true
 title: How can we Improve Hospital Discharge for people Experiencing Homelessness?
 publishDate: 2023-02-06T10:39:33.576Z
 eventCard:
-  name: Open Space- How can we Improve Hospital Discharge for people Experiencing
-    Homelessness?
+  name: How can we Improve Hospital Discharge for people Experiencing Homelessness?
   date: Philippa Iwnicki
   location: Share your thoughts at our Open Space on 28th Feb
 content:
@@ -16,7 +15,7 @@ content:
     homelessness?
 
 
-    An opportunity has arisen to work with the GM Integrated Care Partnership, and the Home from Hospital Investment Fund to achieve exactly this. This subject has long been on the radar of the Network, and a key part of the Targeted Prevention mission in the GM Homelessness Prevention Strategy (or pages 7-8 in the Action Plan).
+    An opportunity has arisen to work with the GM Integrated Care Partnership, and the Home from Hospital Investment Fund to achieve exactly this. This subject has long been on the radar of the Network, and a key part of the Targeted Prevention mission in the [Greater Manchester Homelessness Prevention Strategy](https://www.greatermanchester-ca.gov.uk/media/5074/gmhps-final-july-21.pdf) (or pages 7-8 in the Action Plan).
 
 
     We are holding an online Open Space on Tuesday 28th February 2.30pm-4pm to explore what solutions or good practices we might be able to try out or expand in coming months. Everyone with an interest is invited to join the conversation and share your perspective, especially people who have experienced in-patient care at a hospital when homeless, are currently supporting people being discharged from hospital settings, or would like to contribute to future responses. 
