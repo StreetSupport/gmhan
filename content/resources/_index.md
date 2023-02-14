@@ -146,6 +146,7 @@ uploads:
     [Jigsaw of Homelessness Support](http://www.with-one-voice.com/jigsaw-homeless-support) (With One Voice)
   uploadsfive: /assets/uploads/workshop-notes-work-for-ready.docx
   uploadsnine: /assets/uploads/workshop-notes-digital-barriers.docx
+  uploadsthirteen: /assets/uploads/jokers-menu-pdf.pdf
   uploadsten: /assets/uploads/gmhan-task-group-expenses-policy.pdf
   uploadstwelve: /assets/uploads/what-support-is-missing.pdf
   uploadsthree: /assets/uploads/workshop-notes-adult-education.docx
