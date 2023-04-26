@@ -26,6 +26,9 @@ uploads:
     [P﻿olicy for Participation expenses](https://www.gmhan.net/assets/uploads/gmhan-task-group-expenses-policy.pdf) for anyone participating in the task groups who is 'unwaged'
 
 
+    What is good support for Meaningful Lived Experience Involvement?- [Learning through Poetry](/assets/uploads/all-poems.pdf)
+
+
     **G﻿MCA Homelessness Prevention Strategy**
 
 
