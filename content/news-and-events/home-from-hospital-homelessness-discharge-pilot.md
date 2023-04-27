@@ -29,8 +29,5 @@ content:
     * Develop learning-based materials which can be used in other sites and inform a longer-term response to homelessness within hospital settings
 
 
-    [F﻿ind out more about applying for this opportunity](https://www.10gm.org.uk/assets/files/Hospital-DischargeHomelessnessInformationforApplicants.pdf), or to express your interest in developing and delivery the project then complete this [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=UHNx2qWcNEi9h_YGiHvOHQCUwqEDkYRLv1SjH9JYE1tUQTJJNEc3NUtWV0pRN0Q5TFRVOEpHUDYwOS4u) by 10am Wednesday 10th May
-
-
-    [](https://forms.office.com/Pages/ResponsePage.aspx?id=UHNx2qWcNEi9h_YGiHvOHQCUwqEDkYRLv1SjH9JYE1tUQTJJNEc3NUtWV0pRN0Q5TFRVOEpHUDYwOS4u)
+    [F﻿ind out more about applying for this opportunity](https://www.10gm.org.uk/assets/files/Hospital-DischargeHomelessnessInformationforApplicants.pdf), or to express your interest in developing and delivery the project then complete this [online form](https://forms.office.com/Pages/ResponsePage.aspx?id=UHNx2qWcNEi9h_YGiHvOHQCUwqEDkYRLv1SjH9JYE1tUQTJJNEc3NUtWV0pRN0Q5TFRVOEpHUDYwOS4u) by 10am Wednesday 10th May[](https://forms.office.com/Pages/ResponsePage.aspx?id=UHNx2qWcNEi9h_YGiHvOHQCUwqEDkYRLv1SjH9JYE1tUQTJJNEc3NUtWV0pRN0Q5TFRVOEpHUDYwOS4u)
 ---
