@@ -5,6 +5,7 @@ publishDate: 2023-04-27T07:45:10.071Z
 eventCard:
   date: Matt Johnson
   name: What does good support look like for lived experience involvement?
+  location: "A poetry "
 content:
   body: >-
     The GMHAN Learning Group launched their new ‘learning cycle’ on Tuesday 18th
@@ -19,7 +20,7 @@ content:
     The focus of this new learning cycle is to explore the question ‘**What does good support look like for lived experience involvement and coproduction?**’ The aim is to create space for honest reflection on how the sector does co-production, and to think about the needs and wants of people who are involved and asked to bring their own personal stories and experiences into system design work.
 
 
-    In the session we focused on the feelings and emotions arising from coproduction, using verbal and non-verbal responses to capture participant feedback. The learning has then been developing into poems, rather than meeting minutes, to enable people to engage with the learning outcomes differently. You can read these poems below, and they will be used as tools to explore our questions further.
+    In the session we focused on the feelings and emotions arising from coproduction, using verbal and non-verbal responses to capture participant feedback. The learning has then been developing into poems, rather than meeting minutes, to enable people to engage with the learning outcomes differently. You can [read these poems here](https://www.gmhan.net/assets/uploads/all-poems.pdf), and they will be used as tools to explore our questions further
 
 
     Over the next 3 months, the learning group will be looking to hold a wide variety of learning events, in different localities, at different times and with different approaches, to change the way we deliver meetings, to improve accessibility of events and outcomes.
@@ -38,6 +39,6 @@ content:
 
 
     4.       Share our learning with others and encourage others to join our learning project
-  image: /assets/uploads/the-others-us.png
+  image: /assets/uploads/3-monkeys-210-×-210-mm-.png
   heading: What does good support look like for lived experience involvement?
 ---
