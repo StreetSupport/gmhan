@@ -5,7 +5,7 @@ publishDate: 2023-04-27T10:02:22.454Z
 eventCard:
   name: "Home From Hospital: Homelessness Discharge Pilot"
   location: GMHAN & Hospital Discharge Alliance are working together to pilot an
-    intervention to improve hospital discharge for people who face homelessness.
+    intervention to improve hospital discharge for people facing homelessness
 content:
   heading: "Home From Hospital: Homelessness Discharge Pilot"
   image: /assets/uploads/copy-of-untitled-design.png
