@@ -21,5 +21,5 @@ content:
 
 
     The Network has also developed a paper outlining what will be needed to resource it's activities over coming months and years. You can read that paper [here](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf).
-  image: /assets/uploads/gmhan-header.jpg
+  image: /assets/uploads/3-monkeys-210-×-210-mm-2160-×-1080-px-1-.png
 ---
