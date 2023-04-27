@@ -39,6 +39,6 @@ content:
 
 
     4.       Share our learning with others and encourage others to join our learning project
-  image: /assets/uploads/3-monkeys-210-×-210-mm-2160-×-1080-px-.png
+  image: /assets/uploads/3-monkeys-210-×-210-mm-2160-×-1080-px-1-.png
   heading: What does good support look like for lived experience involvement?
 ---
