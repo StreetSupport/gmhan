@@ -5,7 +5,7 @@ publishDate: 2023-04-27T07:45:10.071Z
 eventCard:
   date: Matt Johnson
   name: What does good support look like for lived experience involvement?
-  location: "A poetry "
+  location: Open Space minutes captured through poetry
 content:
   body: >-
     The GMHAN Learning Group launched their new ‘learning cycle’ on Tuesday 18th
@@ -39,6 +39,6 @@ content:
 
 
     4.       Share our learning with others and encourage others to join our learning project
-  image: /assets/uploads/3-monkeys-210-×-210-mm-.png
+  image: /assets/uploads/3-monkeys-210-×-210-mm-2160-×-1080-px-.png
   heading: What does good support look like for lived experience involvement?
 ---
