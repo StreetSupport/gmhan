@@ -24,4 +24,5 @@ content:
 
 
     [S﻿ign up on Eventbrite to attend](https://www.eventbrite.co.uk/e/learn-lobby-deliver-tickets-643633363717)
+  heading: Join the GMHAN task groups to Learn! Lobby! and Deliver!
 ---
