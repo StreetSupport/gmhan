@@ -13,10 +13,10 @@ content:
     **Resources from the Learn! Lobby! Delivery! Network Event**
 
 
-    * [N﻿otes](https://www.gmhan.net/static/assets/uploads/learning-workshop.pdf) from the Learning group workshop
+    * [N﻿otes](https://www.gmhan.net/assets/uploads/learning-workshop.pdf) from the Learning group workshop
 
     * D﻿elivery group- [Terms of reference for sprints](https://www.gmhan.net/assets/uploads/delivery-group-sprint-terms-of-reference.pdf)
 
-    * D﻿elivery group- [Ideas for the next sprint](https://www.gmhan.net/static/assets/uploads/delivery-group-sprint-terms-of-reference.pdf)
+    * D﻿elivery group- [Ideas for the next sprint](https://www.gmhan.net/assets/uploads/delivery-group-sprint-terms-of-reference.pdf)
   heading: Learn, Lobby & Deliver
 ---
