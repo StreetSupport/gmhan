@@ -16,5 +16,7 @@ content:
     * [N﻿otes](https://www.gmhan.net/static/assets/uploads/learning-workshop.pdf) from the Learning group workshop
 
     * D﻿elivery group- [Sprint Terms of Reference](https://www.gmhan.net/static/assets/uploads/delivery-group-sprint-terms-of-reference.pdf)
+
+    * D﻿elivery group- [Ideas for the next sprint](https://www.gmhan.net/static/assets/uploads/delivery-group-sprint-terms-of-reference.pdf)
   heading: Learn, Lobby & Deliver
 ---
