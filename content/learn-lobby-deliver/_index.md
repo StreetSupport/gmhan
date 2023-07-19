@@ -10,7 +10,7 @@ content:
     * What is good support for Meaningful Lived Experience Involvement?- [Learning through Poetry](/assets/uploads/all-poems.pdf)
 
 
-    Resources from the Learn! Lobby! Delivery! Network Event
+    **Resources from the Learn! Lobby! Delivery! Network Event**
 
 
     * [N﻿otes](static/assets/uploads/learning-workshop.pdf) from the Learning group workshop
