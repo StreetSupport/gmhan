@@ -13,6 +13,8 @@ content:
     **Resources from the Learn! Lobby! Delivery! Network Event**
 
 
-    * [N﻿otes](static/assets/uploads/learning-workshop.pdf) from the Learning group workshop
+    * [N﻿otes](https://www.gmhan.net/static/assets/uploads/learning-workshop.pdf) from the Learning group workshop
+
+    * D﻿elivery group- [Sprint Terms of Reference](https://www.gmhan.net/static/assets/uploads/delivery-group-sprint-terms-of-reference.pdf)
   heading: Learn, Lobby & Deliver
 ---
