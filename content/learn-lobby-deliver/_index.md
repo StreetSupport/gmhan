@@ -17,6 +17,6 @@ content:
 
     * D﻿elivery group- [Terms of reference for sprints](https://www.gmhan.net/assets/uploads/delivery-group-sprint-terms-of-reference.pdf)
 
-    * D﻿elivery group- [Ideas for the next sprint](https://www.gmhan.net/assets/uploads/delivery-group-sprint-terms-of-reference.pdf)
+    * D﻿elivery group- [Ideas for the next sprint](https://www.gmhan.net/assets/uploads/delivery-group-next-sprint-ideas.pdf)
   heading: Learn, Lobby & Deliver
 ---
