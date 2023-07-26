@@ -10,5 +10,7 @@ content:
     * [Potential Next Steps](/assets/uploads/gmhan-next-steps.pdf) for the GM Homelessness Action Network
 
     * [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
+
+    * [Homeless Link Self Assessment Toolkit](https://www.gmhan.net/assets/uploads/self-assessment-tool-all-info-hl-mar_23.pdf)
   heading: From The Network
 ---
