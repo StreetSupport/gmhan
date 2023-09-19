@@ -8,7 +8,7 @@ textarea {
 }
 
 
-form { max-width:420px; margin:50px auto; }
+form { max-width:450px; margin:50px auto; }
 
 .feedback-input {
   color:#1c1c1c;
@@ -18,7 +18,7 @@ form { max-width:420px; margin:50px auto; }
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid #1c1c1c;
+  border:2px solid $gmhan-grey;
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
@@ -48,6 +48,6 @@ textarea {
   padding-bottom:10px;
   transition: all 0.3s;
   margin-top:-4px;
-  font-weight:700;
+  font-weight:400;
 }
 [type="submit"]:hover { background: $gmhan-orange; }
