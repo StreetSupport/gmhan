@@ -2,13 +2,13 @@
 {{ partial "header.html" .Params.header }}
 
 
-<div class="block block--white">
-  <h1 class="service-heading">Contact us</h1>  
-  <p>Have a question? Why not get in touch.</p>
-  <form name="contact-us" method="POST" data-netlify="true">      
-    <input name="name" type="text" class="feedback-input" placeholder="Name" />   
-    <input name="email" type="text" class="feedback-input" placeholder="Email" />
-    <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+<div style="padding-top:30px;" class="block block--white">
+  <h1 class="service-heading">GMHAN Focus Suggestion</h1>  
+  <p>Make a suggestion for what you think the GMHAN should be focusing on. This can be an idea for a full network event, something for us to discuss in an Open Space, or what you think the network’s task groups should be working on. Submit your idea here or contact <a href="mailto:info@GMHAN.net">info@GMHAN.net</a> if you want to speak to us about this.</p>
+  <form name="suggestions" method="POST" data-netlify="true">      
+    <input name="name" type="text" class="feedback-input" placeholder="Name (optional)" />   
+    <input name="email" type="text" class="feedback-input" placeholder="Email (optional)" />
+    <textarea name="text" class="feedback-input" placeholder="Suggestion..."></textarea>
     <input type="submit" value="SUBMIT"/>
   </form>
 </div>
