@@ -1,0 +1,19 @@
+{{ define "main" }}
+{{ partial "header.html" .Params.header }}
+
+
+<div class="block block--white">
+  <h1 class="service-heading">Contact us</h1>  
+  <p>Have a question? Why not get in touch.</p>
+  <form name="contact-us" method="POST" data-netlify="true">      
+    <input name="name" type="text" class="feedback-input" placeholder="Name" />   
+    <input name="email" type="text" class="feedback-input" placeholder="Email" />
+    <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+    <input type="submit" value="SUBMIT"/>
+  </form>
+</div>
+
+  
+{{ $footer := .Site.GetPage "_footer.md" }}
+{{ partial "footer.html" (dict "footer" $footer) }}
+{{ end }}
