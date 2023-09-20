@@ -16,6 +16,16 @@
     text-align: center;
   }
 
+  &.block--mini-banner {
+    text-align: center;
+    background: #817f7f;
+    color: #fff;
+    padding: 5px 0;
+    p {
+      margin: 0;
+    }
+  }
+
   &.block--highlight {
     margin: 25px 10px 0px 10px;
     border: 2px solid $gmhan-orange;
