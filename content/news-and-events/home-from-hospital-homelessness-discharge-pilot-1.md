@@ -5,6 +5,7 @@ publishDate: 2023-09-27T16:02:16.987Z
 eventCard:
   name: Home from Hospital Homelessness Discharge pilot
   date: Philippa Iwnicki
+  location: Petrus Community delivering new link worker project
 content:
   body: >-
     E﻿arlier this year we hosted an ‘Open Space’ with 10GM to to explore
