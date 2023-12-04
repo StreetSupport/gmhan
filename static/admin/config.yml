@@ -165,6 +165,14 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown",}
           ]}
+      - file: "content/youth-homelessness/_index.md"
+        label: "Youth Homelessness"
+        name: "youth-homelessness"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
       - file: "content/health-and-homelessness/_index.md"
         label: "Health & Homelessness"
         name: "health-and-homelessness"
