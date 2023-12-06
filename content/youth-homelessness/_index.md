@@ -7,7 +7,7 @@ content:
     Youth Homelessness
 
 
-    * [P﻿resentation from Manchester Communications Academy](https://www.gmhan.net/static/assets/uploads/manchester-communications-academy-homelessness-project-slides.pptx)- What are schools doing to tackle homelessness?
+    * [P﻿resentation from Manchester Communications Academy](https://www.gmhan.net/assets/uploads/manchester-communications-academy-homelessness-project-slides.pptx)- What are schools doing to tackle homelessness?
 
     * S﻿chools & Homelessness- Notes from the day (you can also add your thoughts to the [Jamboard here](https://jamboard.google.com/d/1WzbGGuUx7R2xEyLZhgumneG1_MJJlTE3Ee9FYJ5wfgY/viewer))
 
