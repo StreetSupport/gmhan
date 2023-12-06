@@ -15,7 +15,7 @@ content:
 
     * L﻿GBTQ+ Young People- [AKT](static/assets/uploads/akt-gmhan.pptx)
 
-    * C﻿alling for a Nation Youth Homelessness Prevention Strategy- New Horizons Youth Centre
+    * C﻿alling for a Nation Youth Homelessness Prevention Strategy- New Horizons Youth Centre presentation and [briefing doc](static/assets/uploads/youth-homelessness-strategy_policy-briefing-v6.pdf)
 
 
     P﻿athfinder Programme- Youth Homelessness Prevention
