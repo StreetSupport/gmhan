@@ -19,6 +19,8 @@ content:
 
     * C﻿alling for a Nation Youth Homelessness Prevention Strategy- [New Horizons Youth Centre presentation](https://www.gmhan.net/assets/uploads/gmmc-nhyc-slides.pdf) and [briefing doc](https://www.gmhan.net/assets/uploads/youth-homelessness-strategy_policy-briefing-v6.pdf)
 
+    * W﻿hat is being done to support young people leaving care-[ Slides ](https://www.gmhan.net/assets/uploads/the-house-project-presentation.pdf)from the National House Project
+
 
     P﻿athfinder Programme- Youth Homelessness Prevention
 
