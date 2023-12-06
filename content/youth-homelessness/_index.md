@@ -7,15 +7,17 @@ content:
     Youth Homelessness
 
 
+    * G﻿MHAN Youth Homelessness Prevention Event- [slides](https://www.gmhan.net/assets/uploads/youth-homelessness-slides.pdf)
+
     * [P﻿resentation from Manchester Communications Academy](https://www.gmhan.net/assets/uploads/manchester-communications-academy-homelessness-project-slides.pptx)- What are schools doing to tackle homelessness?
 
-    * S﻿chools & Homelessness- Notes from the day (you can also add your thoughts to the [Jamboard here](https://jamboard.google.com/d/1WzbGGuUx7R2xEyLZhgumneG1_MJJlTE3Ee9FYJ5wfgY/viewer))
+    * S﻿chools & Homelessness- [Notes from the day](https://www.gmhan.net/assets/uploads/gmhan-schools-and-homelessness.pdf) (you can also add your thoughts to the [Jamboard here](https://jamboard.google.com/d/1WzbGGuUx7R2xEyLZhgumneG1_MJJlTE3Ee9FYJ5wfgY/viewer))
 
     * G﻿ood Employment for young people- [checklist](https://www.gmhan.net/assets/uploads/getting-to-know-checklist.docx)
 
     * L﻿GBTQ+ Young People- [AKT](https://www.gmhan.net/assets/uploads/akt-gmhan.pptx)
 
-    * C﻿alling for a Nation Youth Homelessness Prevention Strategy- New Horizons Youth Centre presentation and [briefing doc](https://www.gmhan.net/assets/uploads/youth-homelessness-strategy_policy-briefing-v6.pdf)
+    * C﻿alling for a Nation Youth Homelessness Prevention Strategy- [New Horizons Youth Centre presentation](https://www.gmhan.net/assets/uploads/gmmc-nhyc-slides.pdf) and [briefing doc](https://www.gmhan.net/assets/uploads/youth-homelessness-strategy_policy-briefing-v6.pdf)
 
 
     P﻿athfinder Programme- Youth Homelessness Prevention
