@@ -9,7 +9,7 @@ content:
 
     * [P﻿resentation from Manchester Communications Academy](https://www.gmhan.net/static/assets/uploads/manchester-communications-academy-homelessness-project-slides.pptx)- What are schools doing to tackle homelessness?
 
-    * S﻿chools & Homelessness- [What else can we do?](https://www.gmhan.net/static/assets/uploads/gmhan-schools-and-homelessness.pdf)
+    * S﻿chools & Homelessness- Notes from the day (you can also add your thoughts to the [Jamboard here](https://jamboard.google.com/d/1WzbGGuUx7R2xEyLZhgumneG1_MJJlTE3Ee9FYJ5wfgY/viewer))
 
     * G﻿ood Employment for young people- [checklist](https://www.gmhan.net/static/assets/uploads/getting-to-know-checklist.docx)
 
