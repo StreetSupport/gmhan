@@ -12,5 +12,7 @@ content:
     * [Resourcing the GMHAN- What part can you play?](https://www.gmhan.net/assets/uploads/gmhan-resourcing.pdf)
 
     * [Homeless Link Self Assessment Toolkit](https://www.gmhan.net/assets/uploads/self-assessment-tool-all-info-hl-mar_23.pdf)
+
+    * [Glossary of Acronyms](https://www.gmhan.net/resources/assets/uploads/glossary-of-acronyms.pdf)
   heading: From The Network
 ---
