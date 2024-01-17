@@ -1,6 +1,9 @@
 ---
 content:
   body: >-
+    * [O﻿verview of the Greater Manchester Homelessness Action
+    Network](https://www.gmhan.net/assets/uploads/gmhan-general-overview-pdf.pdf)
+
     * [HAN Schedule 2021](/assets/uploads/2021-schedule.pdf)
 
     * [Advisory Board Terms of Reference](https://gmhan.netlify.com/assets/uploads/gmhan-advisory-board-terms-of-reference.pdf)
