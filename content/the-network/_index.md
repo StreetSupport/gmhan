@@ -4,6 +4,8 @@ content:
     * [O﻿verview of the Greater Manchester Homelessness Action
     Network](https://www.gmhan.net/assets/uploads/gmhan-general-overview-pdf.pdf)
 
+    * [S﻿print Structure](https://www.gmhan.net/assets/uploads/2024-sprint-schedule.pdf)
+
     * [HAN Schedule 2021](/assets/uploads/2021-schedule.pdf)
 
     * [History of the GMHAN](https://www.gmhan.net/assets/uploads/gmhan-history.pdf)
