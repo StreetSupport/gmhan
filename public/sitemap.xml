@@ -1,36 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/</loc>
-    <lastmod>2020-02-25T16:08:54+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-01-24T13:38:11+00:00</lastmod>
+  </url><url>
     <loc>/news-and-events/</loc>
-    <lastmod>2020-02-25T16:08:54+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/news-and-events/new-organisation-launched/</loc>
-    <lastmod>2020-02-25T16:08:54+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-01-24T13:38:11+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/gmhan-focus-area-criminal-justice-system/</loc>
+    <lastmod>2024-01-24T13:38:11+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/update-from-the-gmca-homelessness-and-migration-team/</loc>
+    <lastmod>2023-10-02T12:37:42+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/home-from-hospital-homelessness-discharge-pilot-1/</loc>
+    <lastmod>2023-09-27T16:02:16+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/learn-lobby-deliver-gmhan-network-event/</loc>
+    <lastmod>2023-06-05T09:30:02+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/home-from-hospital-homelessness-discharge-pilot/</loc>
+    <lastmod>2023-04-27T10:02:22+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/what-does-good-support-look-like-for-lived-experience-involvement/</loc>
+    <lastmod>2023-04-27T07:45:10+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/open-space-how-can-we-improve-hospital-discharge-for-people-experiencing-homelessness/</loc>
+    <lastmod>2023-02-06T10:39:33+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/network-event-celebrate-with-the-gmjokers/</loc>
+    <lastmod>2023-01-18T11:35:08+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/winners-of-the-oidp2022-best-practice-in-participatory-democracy/</loc>
+    <lastmod>2022-12-16T10:18:06+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/resource-from-november-full-network-event-employment-training-education/</loc>
+    <lastmod>2022-11-14T11:53:46+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/what-do-you-think-of-the-gm-homelessness-prevention-strategy-2021-26/</loc>
+    <lastmod>2022-10-19T08:40:42+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/employment-training-education-full-network-event/</loc>
+    <lastmod>2022-10-03T15:06:56+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/briefing-on-ending-rough-sleeping-for-good--national-rough-sleeper-strategy-1/</loc>
+    <lastmod>2022-09-13T11:20:32+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/dluhc-announces-new-night-shelter-transformation-fund-with-homeless-link-housing-justice/</loc>
+    <lastmod>2022-07-28T09:23:35+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/finalist-for-the-best-practice-in-citizen-participation-award/</loc>
+    <lastmod>2022-07-22T11:47:48+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/open-space-14th-june/</loc>
+    <lastmod>2022-06-08T10:42:38+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/task-group-eoi/</loc>
+    <lastmod>2022-05-22T20:48:25+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/may-network-event/</loc>
+    <lastmod>2022-04-26T15:28:11+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/protect-and-vaccinate/</loc>
+    <lastmod>2021-12-21T10:26:11+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/prevention-strategy-and-action-plan-for-greater-manchester-shared/</loc>
+    <lastmod>2021-10-11T16:23:28+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/gm-law-centre-inquest-guidance/</loc>
+    <lastmod>2021-10-04T14:20:09+00:00</lastmod>
+  </url><url>
+    <loc>/news-and-events/statement-following-new-lockdown/</loc>
+    <lastmod>2021-01-08T12:58:49+00:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/resources/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/covid-response/</loc>
+  </url><url>
+    <loc>/criminal-justice-system/</loc>
+  </url><url>
+    <loc>/employment-training-education/</loc>
+  </url><url>
+    <loc>/external/</loc>
+  </url><url>
     <loc>/get-involved/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/give/</loc>
+  </url><url>
+    <loc>/greater-manchester/</loc>
+  </url><url>
+    <loc>/health-and-homelessness/</loc>
+  </url><url>
+    <loc>/learn-lobby-deliver/</loc>
+  </url><url>
+    <loc>/prevention-strategy/</loc>
+  </url><url>
+    <loc>/resources/</loc>
+  </url><url>
+    <loc>/suggestions/</loc>
+  </url><url>
+    <loc>/the-network/</loc>
+  </url><url>
+    <loc>/youth-homelessness/</loc>
   </url>
-  
 </urlset>

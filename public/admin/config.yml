@@ -1,3 +1,4 @@
+  
 backend:
   name: git-gateway
   branch: master
@@ -16,6 +17,10 @@ collections:
         name: "home"
         fields:
           - {label: "Image", name: "img", widget: "image"}
+          - {label: "Banner", name: "banner", widget: "object", fields: [
+              {label: "Banner heading", name: "bannerHeading", widget: "string"},
+              {label: "Banner copy", name: bannerCopy, widget: "markdown"}
+            ]}
           - {label: "Tagline", name: "tagline", widget: "markdown"}
           - {label: "CTA cards", name: "ctaCards", widget: "object", fields: [
               {label: "Card one", name: "cardOne", widget: "object", fields: [
@@ -123,15 +128,82 @@ collections:
               {label: "Heading", name: "heading", widget: "string", required: false},
               {label: "Body", name: "body", widget: "markdown", required: false}
           ]}
-          - {label: "Upload file (after you have uploaded the file, you can use it's link as a hyperlink anywhere on the site)", name: "upload", widget: "object", fields: [
-              {label: "List of publications", name: "body", widget: "markdown", required: false},
-              {label: "Uploads", name: "uploadsone", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadstwo", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsthree", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsfour", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsfive", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadssix", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false},
-              {label: "Uploads", name: "uploadsseven", widget: "file", default: "/uploads/general-manual.pdf", multiple: true, required: false}
+  - name: "resources"
+    label: "Resource pages"
+    editor:
+      preview: false
+    files:
+      - file: "content/learn-lobby-deliver/_index.md"
+        label: "Learn, Lobby & Deliver"
+        name: "learn-lobby-deliver"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
+      - file: "content/prevention-strategy/_index.md"
+        label: "GMCA Homelessness Prevention Strategy"
+        name: "prevention-strategy"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
+      - file: "content/covid-response/_index.md"
+        label: "Covid Response"
+        name: "covid-response"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
+      - file: "content/employment-training-education/_index.md"
+        label: "Employment, training & education"
+        name: "employment-training-education"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
+      - file: "content/youth-homelessness/_index.md"
+        label: "Youth Homelessness"
+        name: "youth-homelessness"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
+      - file: "content/health-and-homelessness/_index.md"
+        label: "Health & Homelessness"
+        name: "health-and-homelessness"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
+      - file: "content/the-network/_index.md"
+        label: "From The Network"
+        name: "the-network"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
+      - file: "content/greater-manchester/_index.md"
+        label: "Greater Manchester"
+        name: "greater-manchester"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
+      - file: "content/external/_index.md"
+        label: "External"
+        name: "external"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
           ]}
   - name: "news-and-events"
     label: "news/event"
@@ -139,15 +211,15 @@ collections:
       preview: false
     folder: "/content/news-and-events"
     create: true
-    filter: {field: "event", value: "yes"}
+    filter: {field: "event", value: true}
     fields:
-      - {label: "Event", name: "event", widget: "hidden", default: "yes"}
+      - {label: "Event", name: "event", default: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "publishDate", widget: "datetime"}
       - {label: "Summary (Card displayed on news and events page)", name: "eventCard", widget: "object", fields: [
           {label: "Heading", name: "name", widget: "string", required: false},
           {label: "Sub-heading or Location", name: "location", widget: "string", required: false},
-          {label: "Date/Author", name: "eventDate", widget: "string", required: false}
+          {label: "Date/Author", name: "date", widget: "string", required: false}
         ]}
       - {label: "Content", name: "content", widget: "object", fields: [
           {label: "Heading", name: "heading", widget: "string", required: false},
