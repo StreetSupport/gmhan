@@ -165,6 +165,14 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown",}
           ]}
+      - file: "content/criminal-justice-system/_index.md"
+        label: "Criminal Justice System"
+        name: "criminal-justice-system"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
       - file: "content/youth-homelessness/_index.md"
         label: "Youth Homelessness"
         name: "youth-homelessness"
