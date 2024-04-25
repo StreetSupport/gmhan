@@ -11,6 +11,8 @@ content:
 
     * T﻿ask group- [End of project review document ](https://www.gmhan.net/assets/uploads/gmhan-project-end-review-document.pdf)
 
+    * [F﻿lyer](https://www.gmhan.net/assets/uploads/gmhan-flyer.pdf)-  Join the GMHAN Delivery Group
+
 
     **Resources from the Learn! Lobby! Delivery! Network Event**
 
