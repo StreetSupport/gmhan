@@ -5,7 +5,7 @@ publishDate: 2024-05-08T11:48:17.082Z
 eventCard:
   name: Apply to be the new GMHAN Lived Experience Coordinator
   location: We are recruiting for a new role to support co-production in the
-    GMHAN, find out about how to apply
+    GMHAN, apply here
   date: Philippa Iwnicki
 content:
   body: >-
