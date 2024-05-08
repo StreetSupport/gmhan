@@ -2,6 +2,11 @@
 event: true
 title: We are recruiting!
 publishDate: 2024-05-08T11:48:17.082Z
+eventCard:
+  name: Apply to be the new GMHAN Lived Experience Coordinator
+  location: We are recruiting for a new role to support co-production in the
+    GMHAN, find out about how to apply
+  date: Philippa Iwnicki
 content:
   body: >-
     Do you have a personal understanding of how lived experience of homelessness
@@ -69,4 +74,5 @@ content:
 
     Interviews: Tuesday 11th June 2024
   heading: Apply to be the GMHAN Lived Experience Coordinator
+  image: /assets/uploads/copy-of-women-s-experience.png
 ---
