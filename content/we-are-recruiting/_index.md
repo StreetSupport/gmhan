@@ -39,15 +39,6 @@ content:
     To apply, you’ll need to send us a CV and cover letter (either in written or video form) by 12 noon on Thursday 6th June 2024.
 
 
-    Our GMHAN Manager, Philippa, has create a short video to explain a bit more about the role: 
-
-
-    ```
-
-    <iframe src="https://greatertogethermanch-my.sharepoint.com/personal/lily_greatertogethermanchester_org/_layouts/15/embed.aspx?UniqueId=85e6d558-d75b-4bb0-8f82-80119cc88e4d&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Introduction to the role V2.mp4"></iframe>
-
-    ```
-
 
     If you have any questions or need any help with your application, we’re running two drop-in support sessions:
 
@@ -73,6 +64,10 @@ content:
 
 
     Interviews: Tuesday 11th June 2024
+
+
+    Our GMHAN Manager, Philippa, has created a short video to explain a bit more about the role: 
+
   heading: Apply to be the GMHAN Lived Experience Coordinator
   image: /assets/uploads/copy-of-women-s-experience.png
 ---
