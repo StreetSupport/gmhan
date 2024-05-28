@@ -1,7 +1,9 @@
 ---
 content:
   body: >-
-    [Alcohol Audit ](https://drive.google.com/file/d/1GeTBKB0ZxNx0LhJWj1MgV_MwxYOiU_fg/view?usp=sharing)(Salford PCT)
+    [Alcohol Audit
+    ](https://drive.google.com/file/d/1GeTBKB0ZxNx0LhJWj1MgV_MwxYOiU_fg/view?usp=sharing)(Salford
+    PCT)
 
 
     [Frontline Staff Information Booklet](https://drive.google.com/file/d/1dWUAMiU9MAjC-nXOzuAvA-KJbIxUBcet/view?usp=sharing) (NHS)
@@ -16,9 +18,9 @@ content:
     * [Oldham specific](https://drive.google.com/file/d/1vojqWfGhkkAe99-JoSkrL6J5DWihS2D9/view?usp=sharing)
 
     * [Rochdale specific](https://drive.google.com/file/d/1Z8W8-RtnrtxoC_OS8-1BEMjezWUJbw5V/view?usp=sharing)
-    
+
     * [Stockport specific](https://drive.google.com/file/d/19mzu_-QpHyNAALHDDuhe9LnAVEEfa_rR/view?usp=sharing)
-    
+
     * [Trafford specific](https://drive.google.com/file/d/1XRWpbUdIPelf-7LxnGS3JD9MlJ-gbQoJ/view?usp=sharing)
 
 
@@ -29,5 +31,8 @@ content:
 
 
     [Who to call if you become homeless](https://www.gmhan.net/assets/uploads/gm-information-sept-20.pdf) (Homeless Friendly)
+
+
+    [H﻿ospital Discharge Pilot Scheme](https://www.gmhan.net/assets/uploads/hospital-discharge-pilot-scheme-summary.pdf)
   heading: Health and Homelessness
 ---
