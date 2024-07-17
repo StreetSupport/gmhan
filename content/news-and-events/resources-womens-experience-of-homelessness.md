@@ -24,6 +24,8 @@ content:
 
     * [G﻿endered Lens Framework](https://www.gmhan.net/assets/uploads/gendered-lens-framework.pdf)- Homeless Link
 
+    * [S﻿afety4Sisters Presentation](https://www.gmhan.net/assets/uploads/s4s-talk-july-11th.pdf), Fighting for Migrant Women's Rights- [Find out more here](https://www.safety4sisters.org/)
+
     *  Find out about the [Women's Homelessness Involvement Group](https://mhp.org.uk/action-groups/womens-homelessness-inclusion/)- Manchester Homelessness Partnership (WHIG)
 
     * [A﻿genda Alliance "We Need Support"](https://www.agendaalliance.org/our-work/projects-and-campaigns/we-need-support-greater-manchester/)- Report to examine how women facing multiple unmet needs experience systems of child removal in the Greater Manchester
