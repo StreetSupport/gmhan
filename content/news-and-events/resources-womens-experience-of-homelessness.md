@@ -23,4 +23,8 @@ content:
     * [T﻿he Haven](https://www.gmhan.net/assets/uploads/the-haven-tackling-womens-homelessness-in-cambridge-together-aug-2022-pdf.pdf)- Tackling Women's Issues in Cambridge
 
     * [G﻿endered Lens Framework](https://www.gmhan.net/assets/uploads/gendered-lens-framework.pdf)- Homeless Link
+
+    *  Find out about the [Women's Homelessness Involvement Group](https://mhp.org.uk/action-groups/womens-homelessness-inclusion/)- Manchester Homelessness Partnership (WHIG)
+
+    * [A﻿genda Alliance "We Need Support"](https://www.agendaalliance.org/our-work/projects-and-campaigns/we-need-support-greater-manchester/)- Report to examine how women facing multiple unmet needs experience systems of child removal in the Greater Manchester
 ---
