@@ -18,5 +18,9 @@ content:
     B﻿elow are the resources and presentations that were shared at the event
 
 
-    *
+    * I﻿nformation about the [Women's Rough Sleeping Census](https://www.gmhan.net/admin/#/collections/news-and-events/entries/resources-womens-experience-of-homelessnesss/assets/uploads/gmhan-women’s-census-2023-overview.pdf)
+
+    * [T﻿he Haven](https://www.gmhan.net/assets/uploads/the-haven-tackling-womens-homelessness-in-cambridge-together-aug-2022-pdf.pdf)- Tackling Women's Issues in Cambridge
+
+    * [G﻿endered Lens Framework](https://www.gmhan.net/assets/uploads/gendered-lens-framework.pdf)- Homeless Link
 ---
