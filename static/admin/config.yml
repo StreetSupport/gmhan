@@ -189,6 +189,14 @@ collections:
               {label: "Heading", name: "heading", widget: "string"},
               {label: "Body", name: "body", widget: "markdown",}
           ]}
+      - file: "content/womens-homelessness/_index.md"
+        label: "Women’s Experience of Homelessness"
+        name: "womens-homelessness"
+        fields:
+          - {label: "Content", name: "content", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "Body", name: "body", widget: "markdown",}
+          ]}
       - file: "content/the-network/_index.md"
         label: "From The Network"
         name: "the-network"
