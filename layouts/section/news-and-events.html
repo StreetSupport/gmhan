@@ -14,16 +14,6 @@
 
   <section class="section">
     <div class="container event-container">
-      <div class="event-card">
-        <div class="event-card-content">
-          <h3><a class=" h3 event-card__title" href="/we-are-recruiting">Apply to be the new GMHAN Lived Experience Coordinator</a></h3>
-          <p>We are recruiting for a new role to support co-production in the GMHAN</p>
-          <a href="{{ .Permalink }}">Apply here</a>
-        </div>
-        <div class="event-image">
-          <img class="event-card__img" src="/assets/uploads/copy-of-women-s-experience.png" alt="">
-        </div>
-      </div>
   {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "news-and-events") }}
     <div class="event-card">
       <div class="event-card-content">
