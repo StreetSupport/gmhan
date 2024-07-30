@@ -1,10 +1,10 @@
 ---
 event: true
-title: We are recruiting!
+title: We are recruiting! Apply to be the new Network Manager
 publishDate: 2024-07-30T08:47:22.926Z
 eventCard:
-  name: We are recruiting!
-  location: Join us as the new GMHAN Network Manager
+  name: We are recruiting! Apply to be the new Network Manager
+  location: Come and work for the Homelessness Action Network
   date: Philippa Iwnicki
 content:
   body: >-
@@ -33,4 +33,5 @@ content:
 
     [Download the Job Pack here](https://www.greatertogethermanchester.org/_files/ugd/5eef79_3def1bc5dbca4320aa1731d479a50a52.pdf), to apply you'll need to send your CV and Cover letter to recruitment@greatertogethermanchester.org by Midday on Monday 2nd September
   image: /assets/uploads/copy-of-women-s-experience-1-.png
+  heading: We are recruiting! Apply to be the new Network Manager!
 ---
