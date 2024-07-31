@@ -31,7 +31,7 @@ content:
     If you have any questions about this role, please get in touch at Info@gmhan.net
 
 
-    [Download the Job Pack here](https://www.greatertogethermanchester.org/_files/ugd/5eef79_3def1bc5dbca4320aa1731d479a50a52.pdf), to apply you'll need to send your CV and Cover letter to recruitment@greatertogethermanchester.org by Midday on Monday 2nd September
+    [Download the Job Pack here](https://www.gmhan.net/assets/uploads/gmhan-manager-job-pack-correct-copy.pdf), to apply you'll need to send your CV and Cover letter to recruitment@greatertogethermanchester.org by Midday on Monday 2nd September
   image: /assets/uploads/copy-of-women-s-experience-1-.png
   heading: We are recruiting! Apply to be the new Network Manager!
 ---
